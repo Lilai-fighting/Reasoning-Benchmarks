@@ -1,0 +1,190 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Susato Mikotoba",
+      "age": "16",
+      "description1": "A judicial assistant sent to Britain on a study tour. She's the epitome of a refined Japanese lady and a huge help to me always."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Iris Wilson",
+      "age": "10",
+      "description1": "An extraordinary young girl who lives with Mr Sholmes. She has a degree in medicine and is the author of a popular series of short stories."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Herlock Sholmes",
+      "age": "34",
+      "description1": "There's not a person in the world who hasn't heard of this famous great detective, whose deductions never fail to surprise."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Olive Green",
+      "age": "20",
+      "description1": "An art-school student whose ambition is to become an artist. She's just regained consciousness, having been comatose for days after suffering a stab to from the back."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Soseki Natsume",
+      "age": "33",
+      "description1": "A Japanese scholar sent to London to further his research into the English language. He's just been acquitted of a very serious crime.↳A Japanese scholar sent to London to further his research into the English language. He's just been acquitted of a very serious crime, but now finds himself accused of another."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Tobias Gregson",
+      "age": "44",
+      "description1": "The detective inspector in charge of Scotland Yard's investigation of the case. He's stern and single-minded in his approach, and a great lover of fish and chips."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "William Shamspeare",
+      "age": "31",
+      "description1": "The victim of the current case - a failed actor renting a room in the same building as Mr Natsume's lodgings."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "John Garrideb",
+      "age": "46",
+      "description1": "A retired army man who's the landlord of the lodgings rented by the defendant, Mr Natsume. An old knee injury means he's confined to a chair most of the time."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Barok van Zieks",
+      "age": "32",
+      "description1": "A prosecutor known as the Reaper of the Bailey. Supposedly, the souls of those he prosecutes are eternally damned, one way or another."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Adron B. Metermann",
+      "age": "23",
+      "description1": "A young man who works for Altamont Gas. He's a witness to the incident."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Quinby Altamont",
+      "age": "38",
+      "description1": "The wife of the owner of the Altamont Gas Company. She's a staunch believer in the superiority of the fuel and utterly unforgiving of gas theft."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Duncan Ross",
+      "age": "21",
+      "description1": "The love of Miss Green's life, who sadly passed away a month ago as a result of gas poisoning."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Armband",
+      "type": "",
+      "obtained": "",
+      "description1": "An armband I inherited from Kazuma. It identifies the wearer as a defence lawyer throughout the Empire of Japan."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Secondhand Book Receipt",
+      "type": "",
+      "obtained": "",
+      "description1": "A receipt for some books that Mr Natsume purchased at a secondhand bookshop. It was submitted as evidence in the trial the other day."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Nearby Street Map",
+      "type": "",
+      "obtained": "",
+      "description1": "A street map of the neighbourhood where Mr Natsume has his lodgings. It was submitted as evidence in the trial the other day."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Pair of Teacups",
+      "type": "",
+      "obtained": "",
+      "description1": "The teacups used by Mr Shamspeare and Mr Natsume. The one with the green line around the rim was Mr Natsume's.",
+      "description2": "The teacups used by Mr Shamspeare and Mr Natsume. There is no tea ring on the inside of Mr Natsume's cup."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Torn-Off End of Envelope",
+      "type": "",
+      "obtained": "",
+      "description1": "A ripped piece of an envelope that was found in Mr Shamspeare's room. The rest of the envelope could not be located.",
+      "description2": "A ripped piece of an envelope that was found in Mr Shamspeare's room. It fits perfectly with an envelope in Miss Green's possession."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Bar of Soap",
+      "type": "",
+      "obtained": "",
+      "description1": "A cheap bar of soap that was discovered just outside Mr Shamspeare's window. It's one of two that were found there.",
+      "description2": "A cheap bar of soap that was discovered just outside Mr Shamspeare's window. There is a two centimetre diameter circular depression in the middle of one surface."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Crime Scene Photograph",
+      "type": "",
+      "obtained": "",
+      "description1": "A photographic print of the scene taken by police upon their arrival. The victim can be seen unconscious at the table, having been poisoned."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Victim's Medical Report",
+      "type": "",
+      "obtained": "",
+      "description1": "A report issued by Scotland Yard's medical officer. It obviously mentions the poison as well as other details gleaned during the police investigation."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Gas Meter",
+      "type": "",
+      "obtained": "",
+      "description1": "A meter that dispenses gas for a set time after a coin is inserted. It sports a very strong lock, especially with Mr Shamspeare in mind.",
+      "description2": "A meter that dispenses gas for a set time after a coin is inserted. The attached coin box sports a very strong lock, and there is a tiny hole in its base."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Handprints on the Wall",
+      "type": "",
+      "obtained": "",
+      "description1": "Traces of handprints on the wall, discovered using the Skin Print Seeker gun. There are multiple prints on either side of a hanging picture."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Capital Offender Article",
+      "type": "",
+      "obtained": "",
+      "description1": "A newspaper article about Selden, a criminal sentenced to receive the death penalty. However, he died of illness in prison whilst his loot remained undiscovered."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Hidden Photograph",
+      "type": "",
+      "obtained": "",
+      "description1": "A photographic print found in Mr Shamspeare's room. It shows the landlord, Mr Garrideb, together with a young man."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Bottle of Poison",
+      "type": "",
+      "obtained": "",
+      "description1": "A bottle found in the possession of Miss Green with traces of the slow-acting poison strychnine inside."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Capital Offender's File",
+      "type": "",
+      "obtained": "",
+      "description1": "Scotland Yard's file about the convicted criminal Selden that includes the newspaper article about him dying of illness in prison."
+    },
+    {
+      "currentChapter": "The Memoirs of the Clouded Kokoro",
+      "name": "Miss Green's Card",
+      "type": "",
+      "obtained": "",
+      "description1": "A note in an envelope that seems to have been ripped open rather roughly. It contains instructions to meet with someone who claims to have information about Duncan Ross.",
+      "description2": "A note in an envelope that seems to have been ripped open rather roughly. The envelope fits perfectly with a torn-off piece found at the scene of the crime."
+    }
+  ],
+  "turns": []
+}

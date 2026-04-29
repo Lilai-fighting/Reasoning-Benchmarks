@@ -1,0 +1,33 @@
+{"testimonies": [
+        {
+          "testimony": "She threw her staff away and pulled a dagger from inside her robe!",
+          "person": "Iris",
+          "present": [
+            "Victim's Staff"
+          ],
+          "source": {
+            "evidence_span": "",
+            "testimony_span": "",
+            "explanation": "If , because",
+            "is_self_contained": "",
+            "context_span": ""
+          }
+        }
+      ],
+      "noPresent": false,
+      "summarizedContext": "The witness <> is testifying about <>",
+      "labels": [
+        "numerical",
+        "temporal",
+        "spatial",
+        "object property",
+        "behavior",
+        "spelling"
+      ],
+      "reasoning": [
+        "Fact 1: The witness claims ",
+        "Fact 2: The evidence suggests ",
+        "Prop 1: If, then",
+        "Prop 2: If, then "
+      ]
+    }

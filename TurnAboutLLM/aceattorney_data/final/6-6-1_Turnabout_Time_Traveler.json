@@ -1,0 +1,190 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Trucy Wright",
+      "age": "• Age: 17",
+      "description1": "My adopted daughter. She's been skyrocketing her way toward being a top-class magician."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Athena Cykes",
+      "age": "• Age: 19",
+      "description1": "The newest lawyer in my office with a background in psychology."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Larry Butz",
+      "age": "• Age: 34",
+      "description1": "An old friend of mine and an aspiring picture book author. As we used to say, when something smells, it's usually the Butz."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Ellen Wyatt",
+      "age": "• Age: 21",
+      "description1": "My client in this case. Larry brought her to me. She works as a maid for the Sprocket family."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Ema Skye",
+      "age": "• Age: 27",
+      "description1": "A detective friend of mine. She's finally achieved her dream of being a forensics investigator."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Maya Fey",
+      "age": "• Age: 28",
+      "description1": "A practitioner of the Kurain Channeling Technique. We used to take on all sorts of cases together."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Miles Edgeworth",
+      "age": "• Age: 35",
+      "description1": "The district's chief prosecutor and my childhood friend. We used to go head-to-head back in his courtroom days."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Dumas Gloomsbury",
+      "age": "• Age: 25",
+      "description1": "The victim and lead servant of the Sprocket family household. The other servants called him \"Mister-Doom-n'-Gloom.\""
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Sorin Sprocket",
+      "age": "• Age: 24",
+      "description1": "Ellen's fiancé and future president of Sprocket Aviation. He is meticulous about his note taking."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Pierce Nichody",
+      "age": "• Age: 26",
+      "description1": "The Sprocket family butler. He seems unusually attached to the pocket watch he carries around."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Selena Sprocket",
+      "age": "• Age: 25",
+      "description1": "Sorin's older sister. She passed away due to her injuries from a car accident.",
+      "description2": "Sorin's older sister who died after a car accident. It seems she had a fiancé at the time."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Attorney's Badge",
+      "description1": "My all-important badge. Proof of my profession."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Ellen's Pendant",
+      "description1": "A pendant worn by Ellen. It seems she received it from her fiancé."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Ellen's Statement",
+      "description1": "Ellen saw a suspicious third party on the vista deck when she was being attacked by Gloomsbury."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Flying Chapel Pamphlet",
+      "description1": "A pamphlet for the Flying Chapel. It includes a brief introduction and diagrams of its layout."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Time Keeper",
+      "description1": "The murder weapon. Dubbed the \"Time Keeper,\" it's a clock with a secret mechanism.",
+      "description2": "The activated Time Keeper. It's obvious that it was in this state when it was used on the victim."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Broken Lantern",
+      "description1": "The Pegabull lantern in which the victim's body was found.",
+      "description2": "The lantern in which the victim's body was found. Larry wheeled it from the hold to the reception hall before the reception began.",
+      "description3": "The lantern in which the victim's body was found. Ema restored it, but something about it still seems off.",
+      "description4": "The restored lantern. There's a bloodstain on the inside wheel handle, as if somebody gripped it with a bloody hand."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Photo of Victim",
+      "description1": "The victim was discovered inside of the lanterns in the reception hall."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Gloomsbury's Note",
+      "description1": "A note found near the victim's body. The writing is smudged as through written by a right-handed person."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Fog Machine",
+      "description1": "A device that utilizes dry ice to emit a large amount of thick, fog-like vapor."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Business Card Wallet",
+      "description1": "A business card holder with a peculiar yet suspiciously familiar imprint in the center."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Photo of Reception",
+      "description1": "A photo of the reception taken by a relative. Much of the reception hall is obscured by thick fog."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Selena Sprocket Photo",
+      "description1": "A photo of Sorin's older sister, Selena. It looks like it was taken in some kind of office."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Larry's Drawing",
+      "description1": "A drawing Larry made from inside a cabin. It shows a pterodactyl flying outside the window.",
+      "description2": "A drawing Larry made. He probably mistook something for what he claims is a pterodactyl in this picture."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Photo of Hold",
+      "description1": "A photo of the hold, stealthily taken by Larry. Ellen can be seen near the center."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Autopsy Report",
+      "description1": "Gloomsbury's head shows signs of being hit twice. The Time Keeper was used as the murder weapon."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Hold Entry Record",
+      "description1": "A record of the key cards used to access the airship hold."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Lift Bloodstain",
+      "description1": "A bloodstain that was found on the side of the lift in the hold. It's unknown whose blood it is.",
+      "description2": "A bloodstain that was found on the side of the lift. It matches the blood on the candelabra."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Candelabra",
+      "description1": "A candelabra from the hold bearing the fingerprints of Gloomsbury's left hand, which is his dominant hand.",
+      "description2": "A candelabra from the hold bearing the fingerprints of Gloomsbury's dominant left hand. Traces of blood were found on it.",
+      "description3": "A candelabra from the hold bearing the fingerprints of Gloomsbury's dominant left hand. Stained with the same blood found on the lift."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Sorin's Notebook",
+      "description1": "A database-like notebook that chronicles the events of each day in minute detail.",
+      "description2": "A notebook that records Sorin's memories in minute detail. One of the pages has been torn out."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Newspaper Article",
+      "description1": "A clipping of a newspaper article detailing the car accident that resulted in Selena Sprocket's death.",
+      "description2": "A clipping of a newspaper article about Selena Sprocket's car accident. Sorin was the one driving."
+    },
+    {
+      "currentChapter": "Turnabout Time Traveler",
+      "name": "Key of Love",
+      "description1": "A heart-shaped key used to activate the Time Keeper."
+    }
+  ],
+  "turns": []
+}

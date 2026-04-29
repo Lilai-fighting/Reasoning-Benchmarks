@@ -1,0 +1,197 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Apollo Justice",
+      "age": "• Age: 23",
+      "description1": "A lawyer who's been at the agency since before I joined. He has an amazing ability to spot lies through people's tells."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Phoenix Wright",
+      "age": "• Age: 34",
+      "description1": "The lawyer who owns the agency. I owe him for giving me the chance to become a full-fledged lawyer."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Trucy Wright",
+      "age": "• Age: 16",
+      "description1": "Mr. Wright's darling daughter. She wants to be a famous magician someday."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Aristotle Means",
+      "age": "• Age: 45",
+      "description1": "A lawyer course professor at the academy. His smile is somewhat scary.",
+      "description2": "A lawyer course professor at the academy. His smile is somewhat scary, as is his educational policy."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Constance Courte",
+      "age": "• Age: 47",
+      "description1": "The professor who invited Mr. Wright to the academy. She is a judge course teacher, but she's not very punctual.",
+      "description2": "The professor who invited Mr. Wright here. She was a judge course teacher until she became the victim of this case."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Juniper Woods",
+      "age": "• Age: 18",
+      "description1": "A senior in the judge course. She's a good friend, and I've known her since childhood."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Hugh O'Conner",
+      "age": "• Age: 18 → 25",
+      "description1": "A senior in the lawyer course who served as the defense in the mock trial. He seems like kind of a jerk.",
+      "description2": "A senior in the lawyer course who served as the defense in the mock trial. He took seven years off from school at one point."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Robin Newman",
+      "age": "• Age: 18",
+      "description1": "A senior in the prosecutor course who served as the prosecution in the mock trial. He tends to shout at people.",
+      "description2": "A senior in the prosecutor course who served as the prosecution in the mock trial. \"He\" is really a \"she\" who'd rather be an artist."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Bobby Fulbright",
+      "age": "• Age: 33",
+      "description1": "The lively detective in charge of this case. He makes you wonder what justice is really all about."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Simon Blackquill",
+      "age": "• Age: 28",
+      "description1": "A prosecutor and prison inmate. He has mastered the use of psychological manipulation in courtroom battles."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Klavier Gavin",
+      "age": "• Age: 25",
+      "description1": "Mr. Rock Star Prosecutor himself, he was the leader and vocalist of the Gavinners."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Myriam Scuttlebutt",
+      "age": "• Age: 17",
+      "description1": "A senior in the judge course. She is the aloof editor-in-chief of the school paper who walks around with a box over her head."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Attorney's Badge",
+      "description1": "My brand-new, shiny badge. It shows that I'm a lawyer."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Arrow",
+      "description1": "The arrow that pierced the victim's side. It's stained with blood."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Courte's Planner",
+      "description1": "Constance Courte's planner. A sword emblem is printed on the cover and on each page."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Themis Herald",
+      "description1": "A school paper with a malicious scoop on an alleged love triangle involving Junie."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Stage Costume",
+      "description1": "A costume Junie was supposed to wear. It has a glowing star pattern. (With notes, 2 pages.)"
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Mock Trial Script",
+      "description1": "A top secret script written by Junie. There's only one copy. (4 pages.)"
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Themis Herald Extra",
+      "description1": "An extra edition of the school paper that covers the mock trial."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Awl",
+      "description1": "The weapon used to murder Constance Courte. Her blood was found on it along with Junie's fingerprints."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Courte's Autopsy Report",
+      "description1": "Est. time of death: Between 6 and 8 PM. Cause of death: Blood loss from a deep stab wound in the victim's side."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Tape Recorder",
+      "description1": "Used by Myriam to secretly record the conversation in the art room. A woman can be heard shouting, \"You're a goner!\"",
+      "description2": "A woman can be heard shouting, \"You're a goner!\" Recorded in the art room at 7:10 PM on the 23rd.",
+      "description3": "The voice on the tape says \"You're a goner!\" just like in Junie's script. It may be a fake.",
+      "description4": "The voice on the tape says \"You're a goner!\" just like in Junie's script. It's been identified as a fake.",
+      "description5": "Identified as a fake. Prof. Means used Hugh to pass it on to the police."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Glowing Costume Photo",
+      "description1": "A photo of the stage costume taken in a dark room. A coat of fluorescent paint made it glow."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "School Camera Photo",
+      "description1": "A photo of the art room while preparations were being made. Taken on the day of the murder."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "School Banner",
+      "description1": "A large banner that was hung by a wire between the stage and art room. A trace amount of blood was found on it."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Purple Fragment → Purple Fragments",
+      "description1": "A purple fragment from a broken statue. It was found all alone in the strangest of places.",
+      "description2": "Two purple fragments of a broken statue. Going to search for more.",
+      "description3": "Three purple fragments of a broken statue that originally stood on a pedestal onstage."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "White Fragment → White Fragments",
+      "description1": "A large, white fragment. It has a distinctive shape that could be described as angular.",
+      "description2": "Two large, white fragments. It looks like it would feel good to break them."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Lady Justice",
+      "description1": "This and the statue of Klavier were broken at the same time, but have been repaired. No one knows where it came from.",
+      "description2": "It was found broken onstage. Professor Courte had remade it into a completely different-looking statue the day before the mock trial."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "\"Hugh\" Scrap",
+      "description1": "Discovered onstage, it appears to be a piece of paper torn from a notebook. The name \"Hugh\" is written on it."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Burnt Fragments",
+      "description1": "The burnt remnants of the Gavinners banner that was tossed into the incinerator and later found by Myriam."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Stage Set Up Photos",
+      "description1": "The last two of Myriam's photos. They show the students setting up the stage's backdrop on the night of the murder. (2 photos.)"
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Voiceprint Analysis",
+      "description1": "The results of the voice analysis performed on the tape recording."
+    },
+    {
+      "currentChapter": "Turnabout Academy",
+      "name": "Lecture Hall Diagram",
+      "description1": "A diagram of the lecture hall where the mock trial took place."
+    }
+  ],
+  "turns": []
+}

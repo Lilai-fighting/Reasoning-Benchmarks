@@ -1,0 +1,220 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Athena Cykes",
+      "age": "• Age: 18",
+      "description1": "A new lawyer at the agency. She's been arrested as the suspect in the case.",
+      "description2": "A lawyer who works under me. She is currently the main suspect in her mother's murder, which took place seven years ago."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Apollo Justice",
+      "age": "• Age: 23",
+      "description1": "Currently working on his own. He says he wants to bring his friend's killer to justice, but I wonder if that's all.",
+      "description2": "An ardent young lawyer at my agency. His voice can get really loud at times."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Trucy Wright",
+      "age": "• Age: 16",
+      "description1": "My daughter, who also happens to be an aspiring magician. I adopted her eight years ago."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Clay Terran",
+      "age": "• Age: 23",
+      "description1": "The victim in this case. He was a HAT-2 crew member and a close friend of Apollo's."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Juniper Woods",
+      "age": "• Age: 18",
+      "description1": "Athena's childhood friend. I defended her when she was on trial for the courtroom bombing incident."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Solomon Starbuck",
+      "age": "• Age: 33",
+      "description1": "The defendant in this case.[1] He was a HAT-2 crew member and a mentor to the victim."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Simon Blackquill",
+      "age": "• Age: 28",
+      "description1": "Convicted of the murder at the Space Center seven years ago. He's chasing a phantom he saw back then.",
+      "description2": "A prosecutor who can get into people's heads. He was proven innocent after the false charges against him were exposed."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Bobby Fulbright",
+      "age": "• Age: 33",
+      "description1": "The detective assigned to this case. He led the evacuation effort at the Space Center after the bombing incident.",
+      "description2": "He may very well be the spy behind the murders and bombings, both past and present."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Candice Arme",
+      "age": "• Age: 27",
+      "description1": "A detective who specialized in bomb cases. Was on detail at the Space Center. One of the first to find the body."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Yuri Cosmos",
+      "age": "• Age: 62",
+      "description1": "The director of the Space Center and one of the first people to discover the body. He seems exceedingly full of himself."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Ponco",
+      "age": "• Age: ?",
+      "description1": "A guide robot at the Space Center. She can provide information on the Center and show people around.",
+      "description2": "A guide robot at the Space Center. She witnessed the murder seven years ago."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Aura Blackquill",
+      "age": "• Age: 37",
+      "description1": "A researcher who's developing robots at the Space Center. She is Prosecutor Blackquill's older sister."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Clonco",
+      "age": "• Age: ?",
+      "description1": "One of the robots developed by Aura, who refers to him as \"Hunk of Junk\"."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Metis Cykes",
+      "age": "• Age: deceased",
+      "description1": "Athena's mother and victim of the murder seven years ago. She was a talented psychologist like her daughter."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Pearl Fey",
+      "age": "• Age: 17",
+      "description1": "A spirit medium in training. Her psychic powers are beyond question."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Miles Edgeworth",
+      "age": "• Age: 34",
+      "description1": "The chief prosecutor. He's an old friend and a former prosecutor against whom I fought many courtroom battles."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Attorney's Badge",
+      "description1": "It's my all-important badge. Proof of my profession."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Space Center Diagram",
+      "description1": "A cross-section view of the main building of the Space Center and Launch Pad 1."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Utility Knife",
+      "description1": "It has the victim's blood on it. From a set of utility tools used by Space Center techs.",
+      "description2": "The murder weapon in this case. Athena also used one of these to stab the phantom's hand during the incident seven years ago."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Space Center Pamphlet",
+      "description1": "It includes a diagram of the boarding lounge and a cross-section view of the Space Center. (3 pages.)"
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "\"Hope\" Capsule",
+      "description1": "Found in the victim's possession. It recently returned from a seven-year mission and contains asteroid samples.",
+      "description2": "It was at the crime scene seven years ago. It was launched into space and only returned to Earth a few days ago."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "HAT-1 Exhibit",
+      "description1": "A newspaper clipping, a photo of the people involved with the launch, and a jacket one of them wore.",
+      "description2": "A newspaper clipping, a photo of the people involved with the launch, and the jacket worn by Dr. Cykes."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Katana",
+      "description1": "The weapon used in the murder seven years ago. It belonged to the victim. The victim's blood was found only on the blade."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Seven-Year-Old Video",
+      "description1": "Video showing the corridor to the crime scene. Blackquill was the only one to pass through at the time of the crime."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Photo of the Crime",
+      "description1": "Taken inadvertently. It became conclusive evidence at Simon Blackquill's trial seven years ago.",
+      "description2": "The photo shows Blackquill taking the robot apart. There's a bloodstain at the end of the robot's arm."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Seven-Year-Old Photos",
+      "description1": "Two photos of the body and crime scene. They were taken by the first person to discover the body."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Metis's Autopsy Report",
+      "description1": "The cause of death was a stab wound to the chest. The weapon pierced the heart and so death was instantaneous."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Robots with a Heart",
+      "description1": "It explains the recognition and communication features of the Ponco series of Robots."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Moon Rock Earring",
+      "description1": "An earring that Dr. Cykes gave to Athena. The stone was cut from a real moon rock that was being used for research."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Phantom's Psych Profile",
+      "description1": "The subject's emotions rarely fluctuate and he doesn't experience feelings like normal people do."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Terran's Autopsy Report",
+      "description1": "Cause of death: Stabbing. The victim was discovered in the third-floor boarding lounge in the main building."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Security Camera Video",
+      "description1": "Video showing the defendant and victim's escape from the corridor. The video ends immediately after this scene."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Launch Pad 1 Door Lock",
+      "description1": "Starbuck's prints were found on this door lock. Also see photo taken after the incident. (2 pages.)",
+      "description2": "The biometric door lock. Print authentication isn't required from the launch pad side. (2 pages.)"
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Aura's Statement",
+      "description1": "The perp held a lighter with an Earth emblem on it in their left hand, and a knife in their right."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Lighter",
+      "description1": "Evidence found by Detective Fulbright. It has Athena's prints on it in the victim's blood.",
+      "description2": "A lighter that can transform into a handgun. It has Clay Terran's fingerprints and blood on it."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Emergency Ladder",
+      "description1": "It was lowered to the ground from the window of the fourth-floor robotics lab. It was used to evacuate Space Center personnel."
+    },
+    {
+      "currentChapter": "Turnabout for Tomorrow",
+      "name": "Phony Phanty Bomb",
+      "description1": "It was found in Boarding Lounge 1 and detonated in Courtroom No. 4. Fragments are being analyzed. (2 pages.)"
+    }
+  ],
+  "turns": []
+}

@@ -1,0 +1,223 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Maya Fey",
+      "age": "18",
+      "gender": "Female",
+      "description1": "My assistant and a disciple in the Kurain tradition of spirit channeling."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Dick Gumshoe",
+      "age": "31",
+      "gender": "Male",
+      "description1": "Detective at the local precinct. In charge of the initial investigation."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Franziska von Karma",
+      "age": "18",
+      "gender": "Female",
+      "description1": "A prosecutor in Germany since age 13, she has come to America to defeat me in court."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Max",
+      "age": "21",
+      "gender": "Male",
+      "description1": "A \"fabulous\" magician famed for his aerial illusions. Accused of murder."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Regina Berry",
+      "age": "16",
+      "gender": "Female",
+      "description1": "The idol of the Berry Big Circus and daughter to Russel Berry, the Ringmaster."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Russell Berry",
+      "age": "52",
+      "gender": "Male",
+      "description1": "The victim and Ringmaster of the Berry Big Circus. Regina Berry's father."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Ben",
+      "age": "31",
+      "gender": "Male",
+      "description1": "Real Name: Benjamin Woodman. A ventriloquist. Conversing with him is really tiring.",
+      "description2": "Real Name: Benjamin Woodman. Without his puppet Trilo, Ben won't say much."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Moe",
+      "age": "46",
+      "gender": "Male",
+      "description1": "Real Name: Lawrence Curls. The Ringmaster's old friend, a pleasant stooge of a clown."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Acro",
+      "age": "26",
+      "gender": "Male",
+      "description1": "Real Name: Ken Dingling. A star acrobat currently undergoing rehabilitation.",
+      "description2": "Real Name: Ken Dingling. Seriously injured both legs while training six months ago."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Bat",
+      "age": "22",
+      "gender": "Male",
+      "description1": "Real Name: Sean Dingling. Bit on the head six months ago by Léon. Still in a coma."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Attorney's Badge",
+      "type": "Other",
+      "obtained": "One of my possessions.",
+      "description1": "It's my all-important badge. It shows that I am a defense attorney."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Maya's Magatama",
+      "type": "Other",
+      "obtained": "Received from Maya Fey.",
+      "description1": "Slightly translucent. It radiates softly with a mysterious light."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Crime Photo",
+      "type": "Photographs",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "A picture of the crime scene. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Silk Hat",
+      "type": "Evidence",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "Made-to-order fedora that is a symbol of Max's fabulousness. Found at the crime scene."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Max G. Promo Poster",
+      "type": "Other",
+      "obtained": "Received from the Big Top - Ringmaster's Room.",
+      "description1": "Emblazoned with Max's three famous symbols. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Ringmaster's Papers",
+      "type": "Documents",
+      "obtained": "Received from the Big Top - Ringmaster's Room.",
+      "description1": "Documents related to Max's salary negotiations. He got an enormous raise 1 week ago."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Circus Map",
+      "type": "Maps",
+      "obtained": "Received from Moe.",
+      "description1": "A map of the Berry Big Circus. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Broken Bottle",
+      "type": "Evidence",
+      "obtained": "Retrieved from the Big Top - Cafeteria.",
+      "description1": "An orange juice bottle that was found broken on the cafeteria floor."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Trilo Quist",
+      "type": "Other",
+      "obtained": "Retrieved from the Big Top - Ringmaster's Room.",
+      "description1": "A ventriloquist's puppet. An operatic tenor who doubles as Ben's sidekick."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Money the Monkey",
+      "type": "Other",
+      "obtained": "Retrieved from Acro's Room.",
+      "description1": "A monkey who takes care of Acro. Habitually gathers all sorts of shiny objects."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Ring",
+      "type": "Other",
+      "obtained": "Retrieved from Acro's Room.",
+      "description1": "A cheap ring with an eerie sparkle. \"From T to R\" is engraved on it."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Russell's Autopsy Report",
+      "type": "Reports",
+      "obtained": "Submitted as evidence by Detective Gumshoe.",
+      "description1": "Time of death: 10:15 PM. Cause: Blunt force trauma to the back of the head."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Wooden Box",
+      "type": "Evidence",
+      "obtained": "Submitted as evidence by Detective Gumshoe.",
+      "description1": "The victim was hunched over this 20 lb. box. It was locked by a small key."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Small Seasoning Bottle",
+      "type": "Evidence",
+      "obtained": "Submitted as evidence by Detective Gumshoe.",
+      "description1": "Found inside the Wooden Box the victim was hunched over. It contains pepper."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Grand Prix Photo",
+      "type": "Photographs",
+      "obtained": "Received from Max.",
+      "description1": "Photo of Max's Award Ceremony. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Max G. Bust",
+      "type": "Photographs",
+      "obtained": "Retrieved from the Big Top - Cafeteria.",
+      "description1": "Bronze statue taken from the cafeteria before the crime. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Note",
+      "type": "Evidence",
+      "obtained": "Received from Moe.  → Retrieved from the Big Top - Ringmaster's Room.",
+      "description1": "Posted in the Cafeteria on the day of the crime, then torn. States: \"To The Murderer!\"",
+      "description2": "Torn by Ringmaster, found in his tailcoat pocket. Click here for details.",
+      "description3": "Found in Regina's pocket on the morning of crime. Click here for details.",
+      "description4": "Placed by Acro in Regina's pocket on morning of crime. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Stage Costume",
+      "type": "Other",
+      "obtained": "Retrieved from Money the Monkey.",
+      "description1": "A shiny spangled vest. It's not Maya's size at all."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Léon",
+      "type": "Other",
+      "obtained": "Received from Regina.",
+      "description1": "The animal show's lion. Shot by the Ringmaster six months ago for biting a performer."
+    },
+    {
+      "currentChapter": "Turnabout Big Top",
+      "name": "Scarf",
+      "type": "Other",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "Bat's scarf. Stained with his blood and a small quantity of pepper."
+    }
+  ],
+  "turns": []
+}

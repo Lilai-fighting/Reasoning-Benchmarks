@@ -1,0 +1,246 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Phoenix Wright",
+      "age": "33",
+      "gender": "Male",
+      "description1": "A pianist who can't play a lick. Formerly an ace defense attorney of some renown."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Trucy Wright",
+      "age": "15",
+      "gender": "Female",
+      "description1": "Future stage magician in training. Apparently, the daughter of Phoenix Wright."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Dr. Hickfield",
+      "age": "??",
+      "gender": "Male",
+      "description1": "A suspicious-looking fellow, though he apparently is Mr. Wright's physician."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Guy Eldoon",
+      "age": "46",
+      "gender": "Male",
+      "description1": "Proprietor of the noodle stand \"Eldoon's Noodles\".",
+      "description2": "Proprietor of \"Eldoon's Noodles\". Former doctor, and rival to the victim."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Plum Kitaki",
+      "age": "42",
+      "gender": "Female",
+      "description1": "Wife to the 4th Kitaki Family boss. Busy cleaning up paint spilled by her front gate."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "??? → Alita Tiala",
+      "age": "?? → 21",
+      "gender": "Female",
+      "description1": "Mysterious woman encountered outside People Park. She seemed concerned...",
+      "description2": "Woman who requested that I defend her fiancé."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "??? → Ema Skye",
+      "age": "?? → 25",
+      "gender": "Female",
+      "description1": "Detective in a white lab coat. Apparently in an extremely touchy mood.",
+      "description2": "Head detective on the case, obsessed with forensic science. Mood: touchy."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Wocky Kitaki",
+      "age": "19",
+      "gender": "Male",
+      "description1": "The defendant. Heir to the Kitaki Family empire, and Alita Tiala's fiancé."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "??? → Klavier Gavin",
+      "age": "?? → 24",
+      "gender": "Male",
+      "description1": "Spitting image of Mr. Gavin. Blew in like the wind and left like the wind.",
+      "description2": "Spitting image and younger brother of Mr. Gavin. An acquaintance of Mr. Wright.",
+      "description3": "Star prosecutor, lead in a gold-record-selling band, and Mr. Gavin's younger brother."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Pal Meraktis",
+      "age": "46",
+      "gender": "Male",
+      "description1": "The victim. Director of the Meraktis Clinic. Died pulling the noodle stand."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Winfred Kitaki",
+      "age": "56",
+      "gender": "Male",
+      "description1": "4th Boss of the Kitaki Family. Wocky's father. Wears an apron. (Don't ask.)",
+      "description2": "4th Boss of the Kitaki Family. Wocky's father. Trying to get out of the gangster business."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Wesley Stickler",
+      "age": "22",
+      "gender": "Male",
+      "description1": "Junior in Science at Ivy University. The witness. A man concerned with \"truth\".",
+      "description2": "Junior in Science at Ivy University. The witness, and a panty-snatcher."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Attorney's Badge",
+      "type": "Other",
+      "obtained": "One of my possessions.",
+      "description1": "How long did I yearn for one of these? Just putting it on makes me feel... ready."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Map",
+      "type": "Maps",
+      "obtained": "Received from Phoenix Wright.",
+      "description1": "Shows the area around Mr. Wright's office. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Bowl",
+      "type": "Other",
+      "obtained": "Retrieved from Eldoon's House.",
+      "description1": "Custom-made Eldoon's Noodles bowl. Decorated with the Eldoon's Noodles mascot."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Slippers",
+      "type": "Other",
+      "obtained": "Retrieved from the entrance to People Park.",
+      "description1": "Slippers for patients at the Meraktis Clinic. Was found in front of Kitaki Mansion.",
+      "description2": "Slippers used by patients at the Meraktis Clinic. Big toe print found in left slipper."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Mirror",
+      "type": "Other",
+      "obtained": "Retrieved from the entrance to People Park.",
+      "description1": "Torn off the car that hit Mr. Wright. Was found in front of Kitaki Mansion.",
+      "description2": "Torn off the car that hit Mr. Wright. Fits car at the Meraktis Clinic."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Cell Phone",
+      "type": "Other",
+      "obtained": "Retrieved from Meraktis Clinic - Garage.",
+      "description1": "Found in the Meraktis Clinic garage beneath a car. Who could have dropped it?",
+      "description2": "Found in the Meraktis Clinic garage beneath a car. Property of Wesley Stickler."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Trucy's Panties",
+      "type": "Other",
+      "obtained": "Retrieved from Meraktis Clinic - Garage.",
+      "description1": "Prop for performing magic. Found in exhaust pipe of a car at the Meraktis Clinic."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Letter of Request",
+      "type": "Documents",
+      "obtained": "Received from Alita Tiala.",
+      "description1": "Letter of request from Alita Tiala for the legal defense of her fiancé, Wocky Kitaki."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "White Powder → Fingerprint Powder",
+      "type": "Other",
+      "obtained": "Retrieved from Wright Anything Agency.",
+      "description1": "Mysterious white powder with the alleged ability to improve Detective Skye's mood.",
+      "description2": "A memento of Wright and Skye. Examine fingerprints to detect and match prints."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Bloomers → Little Plum's Bloomers",
+      "type": "Other",
+      "obtained": "Retrieved from People Park.",
+      "description1": "Found in a trash can at People Park. Distinctive bloomers, to say the least.",
+      "description2": "Found in a trash can at People Park. Stolen by Wesley Stickler."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Knife",
+      "type": "Evidence",
+      "obtained": "Retrieved from People Park.",
+      "description1": "Also known as a \"shiv\". Found at the crime scene bearing Wocky's prints."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Meraktis's Autopsy Report",
+      "type": "Reports",
+      "obtained": "Received from Ema Skye.",
+      "description1": "Time of death: June 14, after 10 PM. Cause of death: Single bullet to the right temple."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Noodle Stand",
+      "type": "Other",
+      "obtained": "Retrieved from People Park.",
+      "description1": "Mr. Eldoon's noodle stand. Victim died pulling it."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Wocky's Check-Up Report",
+      "type": "Documents",
+      "obtained": "Submitted as evidence by Prosecutor Gavin.",
+      "description1": "Results from a check-up performed in June. Metallic object found near heart."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Pistol",
+      "type": "Weapons",
+      "obtained": "Submitted as evidence by Prosecutor Gavin.",
+      "description1": "Weapon left at the crime scene. Two rounds were fired. Fingerprints were wiped."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Detective Skye's Orders",
+      "type": "Documents",
+      "obtained": "Received from Ema Skye.",
+      "description1": "\"Allow clinic access to this magician and attorney, in Prosecutor Gavin's name.\""
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Sandals → Alita's Sandals",
+      "type": "Other",
+      "obtained": "Retrieved from Meraktis Clinic - Reception.",
+      "description1": "Cute women's sandals. Found in the Meraktis Clinic foyer.",
+      "description2": "Women's sandals found in the Meraktis Clinic foyer. Big toe print found on left sandal.",
+      "description3": "Present from Wocky, found in Meraktis Clinic foyer. Big toe print found on left sandal."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Lamp",
+      "type": "Other",
+      "obtained": "Retrieved from Meraktis Clinic - Office.",
+      "description1": "Found in the Meraktis Clinic office with a broken bulb and a red stain on the cord."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Wocky's Chart",
+      "type": "Documents",
+      "obtained": "Retrieved from Meraktis Clinic - Office.",
+      "description1": "Found in the Meraktis Clinic safe.  Signed by nurse Alita Tiala."
+    },
+    {
+      "currentChapter": "Turnabout Corner",
+      "name": "Bullet",
+      "type": "Evidence",
+      "obtained": "Retrieved from Meraktis Clinic - Office.",
+      "description1": "Found in the Meraktis Clinic safe. Squished from impact with the back of the safe."
+    }
+  ],
+  "turns": []
+}

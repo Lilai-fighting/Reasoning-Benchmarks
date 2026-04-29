@@ -1,0 +1,205 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Ahlbi Ur'gaid",
+      "age": "• Age: 9",
+      "description1": "My guide. This industrious young man is both a monk in training and a Khura'inese tour guide."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Maya Fey",
+      "age": "• Age: 28",
+      "description1": "A practitioner of the Kurain Channeling Technique. We used to take on all sorts of cases together."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Ema Skye",
+      "age": "• Age: 27",
+      "description1": "A detective with a love of science. She's finally achieved her dream of becoming a forensic investigator."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Tahrust Inmee",
+      "age": "• Age: 42",
+      "description1": "Khura'inist high priest in charge of the rites of Lady Kee'ra. Killed during the Purification Rite. Has a clergyman's mark on his brow."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Nahyuta Sahdmadhi",
+      "age": "• Age: 25",
+      "description1": "A Khura'inese prosecutor and monk. He's also known as the \"Last Rites Prosecutor.\""
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Rayfa Padma Khura'in",
+      "age": "• Age: 14",
+      "description1": "A Khura'inist priestess and crown princess of Khura'in. Her Divination Séances show the last moments of the dead."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Puhray Zeh'lot",
+      "age": "• Age: 21",
+      "description1": "An apprentice priest living in the high priest's house. He's like part of the family.",
+      "description2": "Proven to be a fake name. His real name was Rheel Neh'mu. His real identity was that of a Khura'inist monk."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "??? → Datz Are'bal",
+      "age": "• Age: ? → 46",
+      "description1": "A strange guy. You can't see his face on account of his beard. Pretty suspicious, if you ask me.",
+      "description2": "XO of the Defiant Dragons. He escaped from prison. At one point he was a paratrooper in some country's airborne unit."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Beh'leeb Inmee",
+      "age": "• Age: 31",
+      "description1": "Widow of the victim. She usually plays the part of Lady Kee'ra in the Purification Rite."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Attorney's Badge",
+      "description1": "My all-important badge. Proof of my profession."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Rites Guide",
+      "description1": "A guide to Khura'inese rites written for tourists."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "May 9th Newspaper",
+      "description1": "A newspaper from the morning of the Purification Rite. It reports on the weather and Lady Kee'ra's activities, among other things."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Tahrust's Autopsy Report",
+      "description1": "Cause of death was blood loss from an abdominal wound delivered by a bladed weapon."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Ritual Curtain",
+      "description1": "A curtain around the perimeter of the sanctum, isolating it from the outside world. The entrance was shut during the rite."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Bloodstained Letter",
+      "description1": "A letter we found at the Inner Sanctum. A giant bloodstain makes it impossible to read in full."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Sanctum Prayer Flags",
+      "description1": "Prayer flags found outside of the ritual curtain. They have been sewn together into a long banner."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Inner Sanctum Photo",
+      "description1": "Shows the high priest's body, a shoveled-out area of snow, and a lantern with a broken wind guard."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Maya's Statement",
+      "description1": "On the day of the rite, the water in the spring was already stained red when Abbot Inmee and Maya arrived at the Inner Sanctum."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Lady Kee'ra's Warning",
+      "description1": "A warning from Lady Kee'ra to Abbot Inmee. Only someone capable of entering the priest's home could have delivered it."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Warbaa'd Arrow",
+      "description1": "Resembles the three-pronged arrows once used by Lady Kee'ra. Discovered near the high priest's home."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Mountain Range Poster",
+      "description1": "A poster and a photograph of the entire Inner Sanctum and Mt. Poniponi area."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Envelope",
+      "description1": "An envelope addressed to the high priest. There is no return address, and three unusual-looking holes are punched into it."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Wanted Poster",
+      "description1": "A wanted poster describing the escaped prisoner. Mentions a sizeable reward."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Plumed Punisher Strap",
+      "description1": "This one-of-a-kind strap plays \"The Plumed Punisher\" theme when the magatama on her belt is pressed."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Inner Sanctum Diagram",
+      "description1": "Shows where Maya and the high priest were during the rite."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Crime Photo (Zeh'lot)",
+      "description1": "Killed in the Plaza of Devotion. He has a peach-shaped tattoo on the nape of his neck."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Zeh'lot's Autopsy Report",
+      "description1": "Cause of death was a spinal cord injury from being stabbed in the upper back by a bladed weapon."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Warbaa'd Dagger",
+      "description1": "A dagger modeled after a warbaa'd. Said to have been used by Lady Kee'ra."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Brand New Flag",
+      "description1": "A brand-new prayer flag found at the Plaza of Devotion. Has some writing on it."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Nahmanda Flower",
+      "description1": "A flower the Khura'inese use to pay tribute to the departed. Expresses heartfelt sympathy."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Beh'leeb's Statement",
+      "description1": "A statement about the Feast of Blessings that was held the day before the rite."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Family Photo",
+      "description1": "A picture of Maya and the high priest's family taken during the Feast of Blessings on the day before the rite."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Tome of Secrets",
+      "description1": "A tome given only to the one who will play the role of Lady Kee'ra in the Purification Rite."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Dhurke's Law Book",
+      "description1": "Branding it with the Defiant Dragons mark demonstrates the strength of Dhurke's convictions."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Golden Orb",
+      "description1": "An orb entrusted to me by Mr. Are'bal. It seems to be the key to the rebel hideout."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Rebel Hideout Photo",
+      "description1": "A photo of the secret rebel hideout. There was a luminol reaction near the entrance.",
+      "description2": "A photo of the secret rebel hideout. It is just as Abbot Inmee saw it after the incident."
+    },
+    {
+      "currentChapter": "The Rite of Turnabout",
+      "name": "Warbaa'd Statue",
+      "description1": "Its sharp, protruding feathers took Puhray Zeh'lot's life. It's also a revolving door."
+    }
+  ],
+  "turns": []
+}

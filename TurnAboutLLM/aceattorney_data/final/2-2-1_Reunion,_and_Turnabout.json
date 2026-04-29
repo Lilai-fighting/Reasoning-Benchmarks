@@ -1,0 +1,235 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Maya Fey",
+      "age": "18",
+      "gender": "Female",
+      "description1": "My assistant until a year ago. Now she's training to be a spirit medium.",
+      "description2": "The defendant, and my client. Was arrested on suspicion of murder while channeling."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Dr. Turner Grey",
+      "age": "35",
+      "gender": "Male",
+      "description1": "The director of the Grey Surgical Clinic where the malpractice incident occurred.",
+      "description2": "Grey Surgical Clinic Director. Had a malpractice incident. Murdered during a channeling."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Pearl Fey",
+      "age": "8",
+      "gender": "Female",
+      "description1": "Ran away as soon as she saw me. A girl who is Maya's little cousin.",
+      "description2": "Maya's cousin. A channeling prodigy with intense spiritual power. Also the youngest."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Morgan Fey",
+      "age": "??",
+      "gender": "Female",
+      "description1": "Maya's aunt. She has a strange, powerful aura about her.",
+      "description2": "Maya's aunt. A member of the Fey clan branch family. She is the mother of Pearl."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Lotta Hart",
+      "age": "23",
+      "gender": "Female",
+      "description1": "Claims to be an investigative photographer. She lives for the next big scoop."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Dick Gumshoe",
+      "age": "31",
+      "gender": "Male",
+      "description1": "Detective at the local precinct. In charge of the initial investigation."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Ini Miney",
+      "age": "21",
+      "gender": "Female",
+      "description1": "College student. A huge fan of the occult and is doing research in parapsychology.",
+      "description2": "College student. Researching parapsychology. Older sister, Mimi, died in a car accident."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Mimi Miney",
+      "age": "deceased",
+      "gender": "Female",
+      "description1": "Died in a car accident 1 year ago. Was Ini's older sister, nurse at Dr. Grey's clinic."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Mia Fey",
+      "age": "deceased",
+      "gender": "Female",
+      "description1": "Maya's older sister. She was a top notch lawyer and my mentor and friend forever."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Franziska von Karma",
+      "age": "18",
+      "gender": "Female",
+      "description1": "Became a prosecutor in Germany at age 13. A prodigy who has never known defeat."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Ami Fey",
+      "age": "deceased",
+      "gender": "Female",
+      "description1": "Kurain Channeling Technique founder. Legend says her soul is sealed in the Sacred Urn."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Director Hotti (purported)",
+      "age": "??",
+      "gender": "Male",
+      "description1": "A peculiar patient who claims to be Director Hotti. Seems to be extremely \"healthy\"."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Attorney's Badge",
+      "type": "Other",
+      "obtained": "One of my possessions.",
+      "description1": "It's my all-important badge. It shows that I am a defense attorney."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Guidemap (Fey Manor)",
+      "type": "Maps",
+      "obtained": "Received from Dr. Grey.",
+      "description1": "A diagram of Fey Manor. Click here for details."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Maya's Magatama",
+      "type": "Other",
+      "obtained": "Received from Maya Fey.",
+      "description1": "Slightly translucent. It's small, but it has a deep, profound aura about it.",
+      "description2": "Slightly translucent. It radiates softly with a mysterious light."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Newspaper Clipping 1",
+      "type": "Evidence",
+      "obtained": "Retrieved at the Wright & Co. Law Offices.",
+      "description1": "One year ago on May 2nd, 14 patients died from malpractice at Grey Surgical Clinic."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Folding Screen",
+      "type": "Evidence",
+      "obtained": "Retrieved from the channeling chamber.",
+      "description1": "About 8 inches off the ground is a small hole that looks like a bullet hole."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Black Key",
+      "type": "Evidence",
+      "obtained": "Received from Pearl Fey.",
+      "description1": "An old steel key. A green jewel is set in the center of the key's grip."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Newspaper Clipping 2",
+      "type": "Evidence",
+      "obtained": "Received from Detective Gumshoe.  → Received from Director Hotti.",
+      "description1": "Mimi Miney, nurse at Grey Surgical Clinic, died after falling asleep at the wheel.",
+      "description2": "Articles about the car accident. Click here for details."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Floor Plans (Crime Scene)",
+      "type": "Maps",
+      "obtained": "Submitted as evidence during the trial.",
+      "description1": "A diagram of the Channeling Chamber. Click here for details."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Dr. Grey's Autopsy Report",
+      "type": "Reports",
+      "obtained": "Submitted as evidence by Detective Gumshoe.",
+      "description1": "After being stabbed in the chest, he was shot in the forehead at point-blank.",
+      "description2": "Stabbed in chest then shot at point-blank. Gunpowder residue around bullet hole."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Pistol",
+      "type": "Weapons",
+      "obtained": "Submitted as evidence by Detective Gumshoe.",
+      "description1": "Murder weapon. Was Grey's. Two shots fired. Bears Maya's and Grey's fingerprints."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Knife",
+      "type": "Weapons",
+      "obtained": "Submitted as evidence by Detective Gumshoe.",
+      "description1": "Murder weapon. A small fruit knife. Belongs to the Fey's. Bears Maya's fingerprints."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Maya's Costume",
+      "type": "Evidence",
+      "obtained": "Submitted as evidence by Detective Gumshoe.",
+      "description1": "Clothes Maya was wearing at the time of the murder. There are blood splatters on it.",
+      "description2": "Clothes Maya was wearing at the time of the murder. Click here for details."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Lotta's Photo 1",
+      "type": "Photographs",
+      "obtained": "Received from Lotta Hart.",
+      "description1": "A picture taken at the murder scene. Click here for details."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Lotta's Photo 2",
+      "type": "Photographs",
+      "obtained": "Submitted as evidence by Franziska von Karma.",
+      "description1": "A picture taken at the murder scene. Click here for details."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Sacred Urn",
+      "type": "Other",
+      "obtained": "Retrieved from the Winding Way.",
+      "description1": "Ami Fey's spirit is sealed within. It's chipped and cracked all over.",
+      "description2": "Broken by Pearl right before the murder. Under repair in the hallway until police came."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Cloth Scrap",
+      "type": "Evidence",
+      "obtained": "Retrieved from the Winding Way.",
+      "description1": "Unburned remains found inside the garden incinerator. Small amount of blood is on it."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Pearl's Ball",
+      "type": "Other",
+      "obtained": "Retrieved from the Side Room.",
+      "description1": "Pearl's favorite toy. She was playing with this at the time of the murder, it seems."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "Clothing Box",
+      "type": "Evidence",
+      "obtained": "Retrieved from the Side Room.",
+      "description1": "There is a hole that looks like a bullet hole about 8 inches off the ground."
+    },
+    {
+      "currentChapter": "Reunion, and Turnabout",
+      "name": "License Photo",
+      "type": "Photographs",
+      "obtained": "Received from Director Hotti.",
+      "description1": "Ini's photo for her driver's license. Director Hotti's treasured possession."
+    }
+  ],
+  "turns": []
+}

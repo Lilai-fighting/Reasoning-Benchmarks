@@ -1,0 +1,327 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "The First Turnabout",
+      "name": "Mia Fey",
+      "age": "27",
+      "gender": "Female",
+      "description1": "Chief Attorney at Fey & Co.. My boss, and a very good defense attorney."
+    },
+    {
+      "currentChapter": "The First Turnabout",
+      "name": "Larry Butz",
+      "age": "23",
+      "gender": "Male",
+      "description1": "The defendant in this case. A likeable guy who was my friend in grade school."
+    },
+    {
+      "currentChapter": "The First Turnabout",
+      "name": "Cindy Stone",
+      "age": "22",
+      "gender": "Female",
+      "description1": "The victim in this case. A model, she lived in an apartment by herself."
+    },
+    {
+      "currentChapter": "The First Turnabout",
+      "name": "Winston Payne",
+      "age": "52",
+      "gender": "Male",
+      "description1": "The prosecutor for this case. Lacks presence. Generally bad at getting his points across."
+    },
+    {
+      "currentChapter": "The First Turnabout",
+      "name": "Frank Sahwit",
+      "age": "44* (36 in the GBA, DS, and Wii versions of Phoenix Wright  Ace Attorney)",
+      "gender": "Male",
+      "description1": "Discovered Ms. Stone's body. Newspaper salesman who saw Larry flee the scene."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "The First Turnabout",
+      "name": "Attorney's Badge",
+      "type": "Other",
+      "obtained": "One of my possessions.",
+      "description1": "No one would believe I was a defense attorney if I didn't carry this."
+    },
+    {
+      "currentChapter": "The First Turnabout",
+      "name": "Cindy's Autopsy Report",
+      "type": "Reports",
+      "obtained": "Received from Mia Fey.",
+      "description1": "Time of death: 7/31, 4PM-5PM. Cause of death: loss of blood due to blunt trauma."
+    },
+    {
+      "currentChapter": "The First Turnabout",
+      "name": "Statue",
+      "type": "Weapons",
+      "obtained": "Submitted as evidence by Prosecutor Payne.",
+      "description1": "A statue in the shape of \"The Thinker\". It's rather heavy."
+    },
+    {
+      "currentChapter": "The First Turnabout",
+      "name": "Passport",
+      "type": "Evidence",
+      "obtained": "Submitted as evidence by Prosecutor Payne.",
+      "description1": "The victim apparently arrived home from Paris on 7/30, the day before the murder."
+    },
+    {
+      "currentChapter": "The First Turnabout",
+      "name": "Blackout Record",
+      "type": "Documents",
+      "obtained": "Submitted as evidence by Prosecutor Payne.",
+      "description1": "Electricity to Ms. Stone's building was out from noon to 6 PM on the day of the crime."
+    }
+  ],
+  "turns": [
+    {
+      "category": "cross_examination",
+      "newContext": "The First Turnabout\n\n\n\n\n\n\n\n\n\nTranscript\n\nTranscript (JP)This transcript is a prototype. All other transcripts should be modeled after this one. Any changes to be made to the layout of a transcript should be made here.\nNote: This transcript was created from a PAL version of Phoenix Wright: Ace Attorney for the Nintendo DS, with the text changes and corrections from Phoenix Wright: Ace Attorney Trilogy.Episode 1The First Turnabout*gasp*... *gasp*... Dammit! ...Why me? I can't get caught... Not like this! I-I've gotta find someone to pin this on... Someone like... him! I'll make it look like HE did it!August 3, 9:47 AMDistrict CourtDefendant Lobby No. 2Phoenix:\n(Boy am I nervous!)Mia:\nWright!Phoenix:\nOh, h-hiya, Chief.Mia:\nWhew, I'm glad I made it on time. Well, I have to say Phoenix, I'm impressed! Not everyone takes on a murder trial right off the bat like this. It says a lot about you... and your client as well.Phoenix:\nUm... thanks. Actually, it's because I owe him a favor.Mia:\nA favor? You mean, you knew the defendant before this case?Phoenix:\nYes. Actually, I kind of owe my current job to him. He's one of the reasons I became an attorney.Mia:\nWell, that's news to me!Phoenix:\nI want to help him out any way I can! I just... really want to help him. I owe him that much.???:\n(It's over! My life, everything, it's all over!)Mia:\n... Is that your client screaming over there? (Changed from [Isn't that your client screaming over there?] in the original release)Phoenix:\nYeah... it's him. (Changed from [Yeah... that's him.] in the original release)???:\n(Death! Despair! Ohhhh! I'm gonna do it, I'm gonna die!!!)Mia:\nIt sounds like he wants to die...Phoenix:\nUm, yeah. *sigh*Butz:\nNick!!!Phoenix:\nHey. Hey there, Larry.Butz:\nDude, I'm so guilty!! Tell them I'm guilty!!! Gimme the death sentence! I ain't afraid to die!Phoenix:\nWhat!? What's wrong, Larry?Butz:\nOh, it's all over... I... I'm finished. Finished! I can't live in a world without her! I can't! Who... who took her away from me, Nick? Who did this!? Aww, Nick, ya gotta tell me! Who took my baby away!?Phoenix:\n(Hmm... The person responsible for your girlfriend's death? The newspapers say it was you...)Phoenix:\nMy name is Phoenix Wright. Here's the story: My first case is a fairly simple one. A young woman was killed in her apartment. The guy they arrested was the unlucky sap dating her: Larry Butz... my best friend since grade school. Our school had a saying: \"When something smells, it's usually the Butz.\" In the 23 years I've known him, it's usually been true. He has a knack for getting himself in trouble. One thing I can say though: it's usually not his fault. He just has terrible luck. But I know better than anyone, that he's a good guy at heart. That and I owe him one. Which is why I took the case... to clear his name. And that's just what I'm going to do!August 3, 10:00 AMDistrict CourtCourtroom No. 2Judge:\nCourt is now in session for the trial of Mr. Larry Butz. (Changed from [The court is now in session for the trial of Mr. Larry Butz.] in the original release)Payne:\nThe prosecution is ready, Your Honor.Phoenix:\nThe, um, defense is ready, Your Honor.Judge:\nAhem. Mr. Wright? This is your first trial, is it not?Phoenix:\nY-Yes, Your Honor. I'm, um, a little nervous.Judge:\nYour conduct during this trial will decide the fate of your client. Murder is a serious charge. For your client's sake, I hope you can control your nerves.Phoenix:\nThank... thank you, Your Honor.Judge:\n... Mr. Wright, given the circumstances... I think we should have a test to ascertain your readiness.Phoenix:\nYes, Your Honor. (Gulp... Hands shaking... Eyesight... fading...)Judge:\nThe test will consist of a few simple questions. Answer them clearly and concisely. Please state the name of the defendant in this case.Phoenix Wright\n\n\n\n\n\n\n\nPhoenix:\nUm... the defendant... is me... right? (Changed from [Um... the defendant... is me, right?] in the original release)\nMia:\nWright! Have you completely lost your mind? Focus! The defendant is the person on trial! You're his lawyer!\nPhoenix:\nUm, er, eh? Oh yeah, right! Eh heh heh.\nMia:\nThis is no laughing matter! You did pass the bar, didn't you?\nJudge:\nSorry, I couldn't hear your answer. I'll ask once more:\nLeads back to:\n\"Please state the name of the defendant in this case.\"Larry Butz\n\n\n\n\n\n\n\nLeads to:\n\"The defendant? Well, that's Larry Butz, Your Honor.\"Mia Fey\n\n\n\n\n\n\n\nPhoenix:\nThe, um, defendant? That's... er... Mia Fey?\nMia:\nWrong, Wright. Look, I have to leave. I have to go home. I'm... I'm expecting a delivery.\nPhoenix:\nAw, c'mon Chief. There's no need to be going so soon, is there?\nMia:\nListen, Wright! (Changed from [Wright!] in the original release) The defendant is the one on trial--your client! (Changed from [Listen: the defendant is the one on trial--your client!] in the original release) I mean, that's about as basic as you can get!\nPhoenix:\n(I put my foot in it this time! I've got to relax!)\nJudge:\nSorry, I couldn't hear your answer. I'll ask once more:\nLeads back to:\n\"Please state the name of the defendant in this case.\"Phoenix:\nThe defendant? Well, that's Larry Butz, Your Honor.Judge:\nCorrect. Just keep your wits about you and you'll do fine. Next question: This is a murder trial. Tell me, what's the victim's name?Phoenix:\n(Whew, I know this one! Glad I read the case report cover to cover so many times. It's... wait... Uh-oh! No... no way! I forgot! I'm drawing a total blank here!)Mia:\nPhoenix! Are you absolutely SURE you're up to this? You don't even know the victim's name!?Phoenix:\nOh, the victim! O-Of course I know the victim's name! I, um, just forgot. ...Temporarily. (Changed from [I, um, just forgot. ... Temporarily.] in the original release)Mia:\nI think I feel a migraine coming on. Look, the victim's name is listed in the Court Record. Just press [the R Button / Tab] to check it at any time, okay? (Changed from [Just touch the Court Record button to check it at any time, okay?] in the original release) Remember to check it often. Do it for me, please. I'm begging you.Judge:\nMr. Wright. Who is the victim in this case?Mia Fey\n\n\n\n\n\n\n\nPhoenix:\nUm... Mia Fey?\nMia:\nW-W-What!? How can I be the victim!?\nPhoenix:\nOh! Right! Sorry! I, er, it was the first name that popped into my head, and--\nMia:\nThe Court Record button! Remember to use it when you're in a pinch with [the R Button / Tab]. (Changed from [Remember to use it when you're in a pinch.] in the original release)\nJudge:\nLet me ask that one again:\nLeads back to:\n\"Mr. Wright. Who is the victim in this case?\"Cinder Block\n\n\n\n\n\n\n\nPhoenix:\nOh, um, wasn't it Ms. Block? Ms. Cinder Block?\nJudge:\nThe person in question was a victim of murder, not ill-conceived naming, Mr. Wright.\nMia:\nWright? If you forget something, use [the R Button / Tab] to check the Court Record and jog your memory. (Changed from [If you forget something, [just touch the Court Record button to help you remember.] in the original release) A mistake in court could cost you the case.\nJudge:\nI'll ask you again:\nLeads back to:\n\"Mr. Wright. Who is the victim in this case?\"Cindy Stone\n\n\n\n\n\n\n\nLeads to:\n\"Um... the victim's name is Cindy Stone.\"Phoenix:\nUm... the victim's name is Cindy Stone.Judge:\nCorrect. Now, tell me, what was the cause of death? She died because she was...?Poisoned\n\n\n\n\n\n\n\nPhoenix:\nOh, right! Wasn't she, um, poisoned by er... poison?\nJudge:\nYou're asking me!?\nPhoenix:\nUm... Chief! Help me out!\nMia:\nCheck the court record. [The R Button / Tab]... remember? (Changed from [Check the court record. The Court Record button... remember?] in the original release)\nPhoenix:\n(Geez. Give a guy a break!)\nJudge:\nLet me ask again.\nLeads back to:\n\"She died because she was...?\"Hit with a blunt object\n\n\n\n\n\n\n\nLeads to:\n\"She was struck once, by a blunt object.\"Strangled\n\n\n\n\n\n\n\nPhoenix:\nRight... she was strangled, wasn't she?\nMia:\nPlease tell me that was you talking to yourself.\nJudge:\nIf you wish to hang yourself, Mr. Wright, you're welcome to, but not inside my courtroom. I suppose there's nothing to do but give you another try:\nLeads back to:\n\"She died because she was...?\"Phoenix:\nShe was struck once, by a blunt object.Judge:\nCorrect. You've answered all my questions. I see no reason why we shouldn't proceed. You seem much more relaxed, Mr. Wright. Good for you.Phoenix:\nThank you, Your Honor. (Because I don't FEEL relaxed, that's for sure.)Judge:\nWell, then... First, a question for the prosecution. Mr. Payne?Payne:\nYes, Your Honor?Judge:\nAs Mr. Wright just told us, the victim was struck with a blunt object. Would you explain to the court just what that \"object\" was?Payne:\nThe murder weapon was this statue of \"The Thinker.\" It was found lying on the floor, next to the victim.Judge:\nI see... The court accepts it into evidence. (Changed from [I see... the court accepts it into evidence.] in the original release)Statue added to the Court Record.Mia:\nWright... Be sure to pay attention to any evidence added during the trial. That evidence is the only ammunition you have in court. Use [the R Button / Tab] to check the Court Record frequently. (Changed from [Touch the Court Record button to check the Court Record frequently.] in the original release)Judge:\nMr. Payne, the prosecution may call its first witness.Payne:\nThe prosecution calls the defendant, Mr. Butz, to the stand.Phoenix:\nUm, Chief, what do I do now?Mia:\nPay attention. You don't want to miss any information that might help your client's case. You'll get your chance to respond to the prosecution later, so be ready! Let's just hope he doesn't say anything... unfortunate.Phoenix:\n(Uh oh, Larry gets excited easily... This could be bad.) (Changed from [Uh oh, Larry gets excited easily... this could be bad.] in the original release)Payne:\nAhem. Mr. Butz. Is it not true that the victim had recently dumped you?Butz:\nHey, watch it buddy! We were great together! We were Romeo and Juliet, Cleopatra and Mark Anthony!Phoenix:\n(Um... didn't they all die?)Butz:\nI wasn't dumped! She just wasn't taking my phone calls. Or seeing me... Ever. WHAT'S IT TO YOU, ANYWAY!?Payne:\nMr. Butz, what you describe is generally what we mean by \"dumped.\" In fact, she had completely abandoned you... and was seeing other men! She had just returned from overseas with one of them the day before the murder!Butz:\nWhaddya mean, \"one of them\"!? Lies! All of it, lies! I don't believe a word of it!Payne:\nYour Honor, the victim's passport. According to this, she was in Paris until the day before she died.Passport added to the Court Record.Judge:\nHmm... Indeed, she appears to have returned the day before the murder.Butz:\nDude... no way...Payne:\nThe victim was a model, but did not have a large income. It appears that she had several \"Sugar Daddies.\"Butz:\nDaddies? Sugar?Payne:\nYes. Older men, who gave her money and gifts. She took their money and used it to support her lifestyle.Butz:\nDuuude!Payne:\nWe can clearly see what kind of woman this Ms. Stone was. Tell me, Mr. Butz, what do you think of her now?Mia:\nWright... I don't think you want him to answer that question.Phoenix:\n(Yeah... Larry has a way of running his mouth in all the wrong directions. Should I...?)Wait and see what happens\n\n\n\n\n\n\n\nPhoenix:\n(Might be better not to get involved in this one...)\nPayne:\nWell, Mr. Butz?\nButz:\nDude, no way! That cheatin' she-dog!\nLeads to:\n\"I'm gonna die. I'm just gonna drop dead!\"Stop him from answering\n\n\n\n\n\n\n\nPhoenix:\nMy client had no idea the victim was seeing other men! That question is irrelevant to this case!\nPayne:\nOof! *wince*\nButz:\nDude! Nick! Whaddya mean, \"irrelevant\"!? That cheatin' she-dog!\nLeads to:\n\"I'm gonna die. I'm just gonna drop dead!\"Butz:\nI'm gonna die. I'm just gonna drop dead! Yeah, and when I meet her in the afterlife... I'm going to get to the bottom of this!Judge:\nLet's continue with the trial, shall we?Payne:\nI believe the accused's motive is clear to everyone.Judge:\nYes, quite.Phoenix:\n(Oh boy. This is so not looking good.)Payne:\nNext question! You went to the victim's apartment on the day of the murder, did you not?Butz:\nGulp!Payne:\nWell, did you, or did you not?Butz:\nHeh? Heh heh. Well, maybe I did, and maybe I didn't!Phoenix:\n(Uh oh. He went. What do I do?)Have him answer honestly\n\n\n\n\n\n\n\nPhoenix:\n(I know! I'll send him a signal...)\n\n(TELL THE TRUTH)\n\nButz:\nEr... Yeah! Yeah! I was there! I went!\nJudge:\nOrder! Well, Mr. Butz?\nButz:\nDude, chill! She wasn't home, man... So, like, I didn't see her.\nPayne:\n\nPayne:\nYour Honor, the defendant is lying.\nJudge:\nLying?\nPayne:\nThe prosecution would like to call a witness who can prove Mr. Butz is lying.\nLeads to:\n\"Well, that simplifies matters. Who is your witness?\"Stop him from answering\n\n\n\n\n\n\n\nPhoenix:\n(I'll send him a signal...)\n\n(LIE LIKE A DOG)\n\nButz:\nUm, well, see, it's like this: I don't remember.\nPayne:\nYou \"don't remember\"? Well then, we'll just have to remind you!\nPhoenix:\n(I got a bad feeling about this...)\nPayne:\nWe have a witness that can prove he DID go to the victim's apartment that day!\nLeads to:\n\"Well, that simplifies matters. Who is your witness?\"Judge:\nWell, that simplifies matters. Who is your witness?Payne:\nThe man who found the victim's body. Just before making the gruesome discovery... He saw the defendant fleeing the scene of the crime!Judge:\nOrder! Order in the court! Mr. Payne, the prosecution may call its witness.Payne:\nYes, Your Honor.Phoenix:\n(This is bad...)Payne:\nOn the day of the murder, my witness was selling newspapers at the victim's building. Please bring Mr. Frank Sahwit to the stand!Payne:\nMr. Sahwit, you sell newspaper subscriptions, is this correct?Sahwit:\nOh, oh yes! Newspapers, yes!Judge:\nMr. Sahwit, you may proceed with your testimony. Please tell the court what you saw on the day of the murder.Witness Testimony-- Witness's Account --Sahwit:\nI was going door-to-door, selling subscriptions when I saw a man fleeing an apartment.\nI thought he must be in a hurry because he left the door half-open behind him.\nThinking it strange, I looked inside the apartment.\nThen I saw her lying there... A woman... not moving... dead!\nI quailed in fright and found myself unable to go inside.\nI thought to call the police immediately!\nHowever, the phone in her apartment wasn't working.\nI went to a nearby park and found a public phone.\nI remember the time exactly: It was 1:00 PM.\nThe man who ran was, without a doubt, the defendant sitting right over there.Judge:\nHmm...Phoenix:\n(Larry! Why didn't you tell the truth? I can't defend you against a testimony like that!)Judge:\nIncidentally, why wasn't the phone in the victim's apartment working?Payne:\nYour Honor, at the time of the murder, there was a blackout in the building.Judge:\nAren't phones supposed to work during a blackout?Payne:\nYes, Your Honor... However, some cordless phones do not function normally. The phone that Mr. Sahwit used was one of those. Your Honor... I have a record of the blackout, for your perusal.Blackout Record added to the Court Record.Judge:\nNow, Mr. Wright...Phoenix:\nYes! Er... yes, Your Honor?Judge:\nYou may begin your cross-examination.Phoenix:\nC-Cross-examination, Your Honor?Mia:\nAlright, Wright, this is it. The real deal!Phoenix:\nUh... what exactly am I supposed to do?Mia:\nWhy, you expose the lies in the testimony the witness just gave!Phoenix:\nLies! What?! He was lying!?Mia:\nYour client is innocent, right? Then that witness must have lied in his testimony! Or is your client really... guilty?Phoenix:\n!!! How do I prove he's not?Mia:\nYou hold the key! It's in the evidence! Compare the witness's testimony to the evidence at hand. There's bound to be a contradiction in there! First, find contradictions between the Court Record and the witness's testimony. Then, once you've found the contradicting evidence... present it and rub it in the witness's face!Phoenix:\nUm... okay.Mia:\nOpen the Court Record with [the R Button / Tab], then point out contradictions in the testimony! (Changed from [Touch the Court Record button and point out contradictions in the testimony!] in the original release)Cross ExaminationCross Examination-- Witness's Account --Sahwit:\nI was going door-to-door, selling subscriptions when I saw a man fleeing an apartment.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nIsn't a man leaving an apartment a common sight? I find it odd you would take notice of him...\nSahwit:\nEr... heh. I don't know. He just seemed strange to me, that's all. Like he was mad, and yet frightened at the same time. Just like... a criminal fleeing the scene of a crime!\nPhoenix:\nThe defense requests that the witness refrain from conjecture!\nPayne:\nOf course. What the witness means is that the man he saw looked suspicious. So, what happened next?Sahwit:\nI thought he must be in a hurry because he left the door half-open behind him.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nHalf-open... you say?\nSahwit:\nYes, yes, the door was open halfway. Yes. I watched for a moment, but no one came to close the door. \"That's odd, in a big city like this,\" I thought...\nPayne:\nI see. And what happened next?Sahwit:\nThinking it strange, I looked inside the apartment.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nWhat gave you the idea to do that?\nSahwit:\nWell, the door was half-open, you see. Isn't it only human to want to... peek? We climb mountains because they are there! It's the same thing.\nPayne:\nTruer words have never been spoken! Anyone would look inside!\nPhoenix:\n(Hmm... why did Payne cut him off so quickly?)\nPayne:\nSo, you looked into the apartment. What happened then?Sahwit:\nThen I saw her lying there... A woman... not moving... dead!Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nAre you sure she was dead?\nSahwit:\nW-Well, no, I guess I wasn't. But, she wasn't moving at all, and there was blood everywhere.\nPhoenix:\n(I guess that would look fatal to anyone...) Very well, what happened next?Sahwit:\nI quailed in fright and found myself unable to go inside.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nSo, you didn't touch ANYTHING in the apartment?\nSahwit:\nUm, yes. I mean no! Nothing.\nPhoenix:\nOkay. What happened next?Sahwit:\nI thought to call the police immediately!Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nYou \"thought\" to call the police? Does that mean you didn't actually call them!?\nPayne:\nPlease, please... Listen to the rest of the testimony. You thought to call the police... What happened next?Sahwit:\nHowever, the phone in her apartment wasn't working.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nThe phone in her apartment wasn't working?\nSahwit:\nYes. I mean, no. No, it wasn't. Right. (Changed from [Yes. I mean, no, no it wasn't. Right.] in the original release)\nPhoenix:\nBut you said you didn't go into the apartment... or did you!?\nSahwit:\nOh, oh, that? I can explain that! There was a cordless phone on a shelf in the entranceway. I reached inside and tried using that to call...\nPayne:\nAnd the phone wasn't working, correct? What happened next?Sahwit:\nI went to a nearby park and found a public phone.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nWhy use a public phone?\nSahwit:\nWell, you see, I don't have a cell phone. And, being the middle of the afternoon, there was no answer at the nearby apartments.\nPhoenix:\nAh, right... what time did you call again?Sahwit:\nI remember the time exactly: It was 1:00 PM.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\n1:00 PM! Are you certain?\nSahwit:\nYes. Absolutely.\nPhoenix:\n(Hmm... He seems really confident.)\nMia:\n1:00 PM? Wright. Doesn't that seem strange to you? Present some evidence to contradict him!Present Cindy's Autopsy Report\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"You found the body at 1:00 PM. You're sure?\"Sahwit:\nThe man who ran was, without a doubt, the defendant sitting right over there.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nAre you absolutely, 100% positive?\nSahwit:\nYes, it was him. No mistake about it.\nPayne:\nThe witness says he's certain!Mia:\nThat's all of it. There must be a contradiction in there somewhere. Examine the Court Record with [the R Button / Tab] if something strikes you as being suspicious. (Changed from [Examine the Court Record button if something strikes you as being suspicious.] in the original release) Then, find the evidence that contradicts his testimony, and present it to the court!",
+      "testimonies": [
+        {
+          "testimony": "I was going door-to-door, selling subscriptions when I saw a man fleeing an apartment.",
+          "person": "Sahwit",
+          "present": []
+        },
+        {
+          "testimony": "I thought he must be in a hurry because he left the door half-open behind him.",
+          "person": "Sahwit",
+          "present": []
+        },
+        {
+          "testimony": "Thinking it strange, I looked inside the apartment.",
+          "person": "Sahwit",
+          "present": []
+        },
+        {
+          "testimony": "Then I saw her lying there... A woman... not moving... dead!",
+          "person": "Sahwit",
+          "present": []
+        },
+        {
+          "testimony": "I quailed in fright and found myself unable to go inside.",
+          "person": "Sahwit",
+          "present": []
+        },
+        {
+          "testimony": "I thought to call the police immediately!",
+          "person": "Sahwit",
+          "present": []
+        },
+        {
+          "testimony": "However, the phone in her apartment wasn't working.",
+          "person": "Sahwit",
+          "present": []
+        },
+        {
+          "testimony": "I went to a nearby park and found a public phone.",
+          "person": "Sahwit",
+          "present": []
+        },
+        {
+          "testimony": "I remember the time exactly: It was 1:00 PM.",
+          "person": "Sahwit",
+          "present": [
+            "Cindy's Autopsy Report"
+          ],
+          "source": {
+            "evidence_span": "Time of death: 7/31, 4PM-5PM.",
+            "testimony_span": "It was 1:00 PM.",
+            "explanation": "The witness' proclaimed time of death contradicts that of the autopsy report.",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "easy"
+          }
+        },
+        {
+          "testimony": "The man who ran was, without a doubt, the defendant sitting right over there.",
+          "person": "Sahwit",
+          "present": []
+        }
+      ],
+      "noPresent": false,
+      "summarizedContext": "The witness Sahwit is describing when he witnessed the crime scene.",
+      "difficulty": "easy",
+      "labels": [
+        "temporal",
+        "numerical"
+      ],
+      "reasoning": [
+        "Fact 1: The witness claims to have found the body at 1:00 PM.",
+        "Fact 2: The autopsy report states that the time of death was after 4 PM.",
+        "Prop 1: The time to find the body must be after the time of death."
+      ]
+    },
+    {
+      "category": "cross_examination",
+      "newContext": "-- Witness's Account --Sahwit:\nI was going door-to-door, selling subscriptions when I saw a man fleeing an apartment.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nIsn't a man leaving an apartment a common sight? I find it odd you would take notice of him...\nSahwit:\nEr... heh. I don't know. He just seemed strange to me, that's all. Like he was mad, and yet frightened at the same time. Just like... a criminal fleeing the scene of a crime!\nPhoenix:\nThe defense requests that the witness refrain from conjecture!\nPayne:\nOf course. What the witness means is that the man he saw looked suspicious. So, what happened next?Sahwit:\nI thought he must be in a hurry because he left the door half-open behind him.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nHalf-open... you say?\nSahwit:\nYes, yes, the door was open halfway. Yes. I watched for a moment, but no one came to close the door. \"That's odd, in a big city like this,\" I thought...\nPayne:\nI see. And what happened next?Sahwit:\nThinking it strange, I looked inside the apartment.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nWhat gave you the idea to do that?\nSahwit:\nWell, the door was half-open, you see. Isn't it only human to want to... peek? We climb mountains because they are there! It's the same thing.\nPayne:\nTruer words have never been spoken! Anyone would look inside!\nPhoenix:\n(Hmm... why did Payne cut him off so quickly?)\nPayne:\nSo, you looked into the apartment. What happened then?Sahwit:\nThen I saw her lying there... A woman... not moving... dead!Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nAre you sure she was dead?\nSahwit:\nW-Well, no, I guess I wasn't. But, she wasn't moving at all, and there was blood everywhere.\nPhoenix:\n(I guess that would look fatal to anyone...) Very well, what happened next?Sahwit:\nI quailed in fright and found myself unable to go inside.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nSo, you didn't touch ANYTHING in the apartment?\nSahwit:\nUm, yes. I mean no! Nothing.\nPhoenix:\nOkay. What happened next?Sahwit:\nI thought to call the police immediately!Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nYou \"thought\" to call the police? Does that mean you didn't actually call them!?\nPayne:\nPlease, please... Listen to the rest of the testimony. You thought to call the police... What happened next?Sahwit:\nHowever, the phone in her apartment wasn't working.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nThe phone in her apartment wasn't working?\nSahwit:\nYes. I mean, no. No, it wasn't. Right. (Changed from [Yes. I mean, no, no it wasn't. Right.] in the original release)\nPhoenix:\nBut you said you didn't go into the apartment... or did you!?\nSahwit:\nOh, oh, that? I can explain that! There was a cordless phone on a shelf in the entranceway. I reached inside and tried using that to call...\nPayne:\nAnd the phone wasn't working, correct? What happened next?Sahwit:\nI went to a nearby park and found a public phone.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nWhy use a public phone?\nSahwit:\nWell, you see, I don't have a cell phone. And, being the middle of the afternoon, there was no answer at the nearby apartments.\nPhoenix:\nAh, right... what time did you call again?Sahwit:\nI remember the time exactly: It was 1:00 PM.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\n1:00 PM! Are you certain?\nSahwit:\nYes. Absolutely.\nPhoenix:\n(Hmm... He seems really confident.)\nMia:\n1:00 PM? Wright. Doesn't that seem strange to you? Present some evidence to contradict him!Present Cindy's Autopsy Report\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"You found the body at 1:00 PM. You're sure?\"Sahwit:\nThe man who ran was, without a doubt, the defendant sitting right over there.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nAre you absolutely, 100% positive?\nSahwit:\nYes, it was him. No mistake about it.\nPayne:\nThe witness says he's certain!Mia:\nThat's all of it. There must be a contradiction in there somewhere. Examine the Court Record with [the R Button / Tab] if something strikes you as being suspicious. (Changed from [Examine the Court Record button if something strikes you as being suspicious.] in the original release) Then, find the evidence that contradicts his testimony, and present it to the court!Phoenix:\nYou found the body at 1:00 PM. You're sure?Sahwit:\nYes. It was 1:00 PM, for certain.Phoenix:\nFrankly, I find that hard to believe! Your statement directly contradicts the autopsy report. The autopsy notes the time of death at sometime after 4PM. There was nobody to... er... no \"body\" to find at 1:00 PM! How do you explain this three-hour gap?Sahwit:\n!!! Oh, that! Oh, er...Payne:Payne:\nThis is trivial! The witness merely forgot the time!Judge:\nAfter his testimony, I find that hard to believe. Mr. Sahwit... Why were you so certain that you found the body at 1:00 PM?Sahwit:\nI... er... well, I... Gee, that's a really good question!Mia:\nGreat job, Wright! Way to put him on the spot! That's all you have to do: point out contradictions! Lies always beget more lies! See through one, and their whole story falls apart!Sahwit:\nWait! I remember now!Judge:\nWould you care to give your testimony again?Witness Testimony-- The Time of Discovery --Sahwit:\nYou see, when I found the body, I heard the time.\nThere was a voice saying the time... It was probably coming from the television.\nOh, but it was three hours off, wasn't it?\nI guess the victim must have been watching a video of a taped program!\nThat's why I thought it was 1:00 PM!\nTerribly sorry about the misunderstanding...Judge:\nHmm... I see. You heard a voice saying the time on a taped program. Mr. Wright, you may cross-examine the witness.Mia:\nWright! You know what to do!Phoenix:\nI've got this one.Cross ExaminationCross Examination-- The Time of Discovery --Sahwit:\nYou see, when I found the body, I heard the time.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nYou said \"heard\"... Not \"saw\"?\nSahwit:\nYes, heard. All I saw was the body lying there... I didn't think to look at anything else, least of all my watch.\nPhoenix:\nHmm... Isn't that a little strange? So you're saying you \"heard\" something. But if you were so shocked by the body, you wouldn't hear anything at all!\nPayne:\n\nPayne:\nThe witness did say he actually heard the time. It's ludicrous to suggest he \"wouldn't hear anything\"!\nJudge:\nHmm... I have to agree with the prosecution. Witness, continue your testimony.Present Blackout Record\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"Hold it right there!\"Sahwit:\nThere was a voice saying the time... It was probably coming from the television.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nAre you sure it was a television and not... a radio?\nSahwit:\nWell, no, I guess it might have been a radio.\nPayne:\nIncidentally, there was no radio on the premises. There was only one large television.\nMia:\nWright! I can't put my finger on it, but something about this seems fishy. Something about \"hearing\" the television...\nPayne:\nThe witness has testified. He heard the time.Present Blackout Record\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"Hold it right there!\"Sahwit:\nOh, but it was three hours off, wasn't it?Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nHow do you explain the gap!\nJudge:\nWell, witness? Can you explain this?Present Blackout Record\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"Hold it right there!\"Sahwit:\nI guess the victim must have been watching a video of a taped program!Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nA... video?\nSahwit:\nYes, that would explain why the time was wrong!\nPhoenix:\nTrue, true...\nMia:\nWright! I think the problem lies someplace else...\nJudge:\nWe're agreed that you heard the time at the scene, then.Present Blackout Record\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"Hold it right there!\"Sahwit:\nThat's why I thought it was 1:00 PM!Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nAre you sure the voice you heard said it was 1:00 PM?\nSahwit:\nYes, I can practically hear it now. It was quite clear.\nJudge:\nMr. Payne, has the prosecution verified this testimony?\nPayne:\nMy apologies, Your Honor. I, too, have only just learned that the witness \"heard\" the time.\nSahwit:\nOh, I'm really sorry. I only remembered it just now.Present Blackout Record\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"Hold it right there!\"Sahwit:\nTerribly sorry about the misunderstanding...Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nWell, you just watch it! (Hmm... Not much point pressing him on that one, was there?)Mia:\nNotice anything suspicious?",
+      "testimonies": [
+        {
+          "testimony": "You see, when I found the body, I heard the time.",
+          "person": "Sahwit",
+          "present": [
+            "Blackout Record"
+          ],
+          "source": {
+            "evidence_span": "Electricity to Ms. Stone's building was out",
+            "testimony_span": "I heard the time.",
+            "explanation": "One cannot hear the time coming from a TV when there is a blackout, because the TV requires electricity.",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "medium"
+          }
+        },
+        {
+          "testimony": "There was a voice saying the time... It was probably coming from the television.",
+          "person": "Sahwit",
+          "present": [
+            "Blackout Record"
+          ],
+          "source": {
+            "evidence_span": "Electricity to Ms. Stone's building was out",
+            "testimony_span": "It was probably coming from the television.",
+            "explanation": "One cannot hear the time coming from a TV when there is a blackout.",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "medium"
+          }
+        },
+        {
+          "testimony": "Oh, but it was three hours off, wasn't it?",
+          "person": "Sahwit",
+          "present": [
+            "Blackout Record"
+          ],
+          "source": {
+            "evidence_span": "Electricity to Ms. Stone's building was out",
+            "testimony_span": "",
+            "explanation": "One cannot hear the time coming from a TV when there is a blackout.",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "medium"
+          }
+        },
+        {
+          "testimony": "I guess the victim must have been watching a video of a taped program!",
+          "person": "Sahwit",
+          "present": [
+            "Blackout Record"
+          ],
+          "source": {
+            "evidence_span": "Electricity to Ms. Stone's building was out",
+            "testimony_span": "the victim must have been watching a video of a taped program",
+            "explanation": "One cannot hear the time coming from a TV when there is a blackout.",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "medium"
+          }
+        },
+        {
+          "testimony": "That's why I thought it was 1:00 PM!",
+          "person": "Sahwit",
+          "present": [
+            "Blackout Record"
+          ],
+          "source": {
+            "evidence_span": "Electricity to Ms. Stone's building was out from noon to 6 PM on the day of the crime.",
+            "testimony_span": "",
+            "explanation": "One cannot hear the time coming from a TV when there is a blackout.",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "medium"
+          }
+        },
+        {
+          "testimony": "Terribly sorry about the misunderstanding...",
+          "person": "Sahwit",
+          "present": []
+        }
+      ],
+      "summarizedContext": "The witness Sahwit is describing when he witnessed the crime scene.",
+      "noPresent": false,
+      "difficulty": "medium",
+      "labels": [
+        "temporal",
+        "numerical",
+        "physical",
+        "causal"
+      ],
+      "reasoning": [
+        "Fact 1: The witness claims to hear the time from a TV at 4 PM.",
+        "Fact 2: The electricity to the building was out from noon to 6 PM.",
+        "Prop 1: If a TV plays sound, it must be on.",
+        "Prop 2: If the electricity is out, the TV cannot be on."
+      ]
+    },
+    {
+      "category": "cross_examination",
+      "newContext": "-- The Time of Discovery --Sahwit:\nYou see, when I found the body, I heard the time.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nYou said \"heard\"... Not \"saw\"?\nSahwit:\nYes, heard. All I saw was the body lying there... I didn't think to look at anything else, least of all my watch.\nPhoenix:\nHmm... Isn't that a little strange? So you're saying you \"heard\" something. But if you were so shocked by the body, you wouldn't hear anything at all!\nPayne:\n\nPayne:\nThe witness did say he actually heard the time. It's ludicrous to suggest he \"wouldn't hear anything\"!\nJudge:\nHmm... I have to agree with the prosecution. Witness, continue your testimony.Present Blackout Record\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"Hold it right there!\"Sahwit:\nThere was a voice saying the time... It was probably coming from the television.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nAre you sure it was a television and not... a radio?\nSahwit:\nWell, no, I guess it might have been a radio.\nPayne:\nIncidentally, there was no radio on the premises. There was only one large television.\nMia:\nWright! I can't put my finger on it, but something about this seems fishy. Something about \"hearing\" the television...\nPayne:\nThe witness has testified. He heard the time.Present Blackout Record\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"Hold it right there!\"Sahwit:\nOh, but it was three hours off, wasn't it?Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nHow do you explain the gap!\nJudge:\nWell, witness? Can you explain this?Present Blackout Record\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"Hold it right there!\"Sahwit:\nI guess the victim must have been watching a video of a taped program!Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nA... video?\nSahwit:\nYes, that would explain why the time was wrong!\nPhoenix:\nTrue, true...\nMia:\nWright! I think the problem lies someplace else...\nJudge:\nWe're agreed that you heard the time at the scene, then.Present Blackout Record\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"Hold it right there!\"Sahwit:\nThat's why I thought it was 1:00 PM!Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nAre you sure the voice you heard said it was 1:00 PM?\nSahwit:\nYes, I can practically hear it now. It was quite clear.\nJudge:\nMr. Payne, has the prosecution verified this testimony?\nPayne:\nMy apologies, Your Honor. I, too, have only just learned that the witness \"heard\" the time.\nSahwit:\nOh, I'm really sorry. I only remembered it just now.Present Blackout Record\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"Hold it right there!\"Sahwit:\nTerribly sorry about the misunderstanding...Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nWell, you just watch it! (Hmm... Not much point pressing him on that one, was there?)Mia:\nNotice anything suspicious?Phoenix:\nHold it right there! The prosecution has said there was a blackout at the time of the discovery! And this record proves it!Sahwit:\n...!Phoenix:\nYou couldn't have heard a television... or a video!Sahwit:\nGah!!! I... well... urk!Judge:\nThe defense has a point. Do you have an explanation for this, Mr. Sahwit?Sahwit:\nNo, I... I find it quite puzzling myself! Quite! ... Aah! W-wait! I remember now!Judge:\nMr. Sahwit? The court would prefer to hear an accurate testimony from the very beginning. These constant corrections are harming your credibility. That, and you seem rather... distraught.Sahwit:\n...! M-my apologies, Your Honor! It... er, it must have been the shock of finding the body!Judge:\nVery well, Mr. Sahwit. Let's hear your testimony once more please.Witness Testimony-- Hearing the Time --Sahwit:\nActually, I didn't \"hear\" the time... I \"saw\" it!\nThere was a table clock in the apartment, wasn't there!\nYeah, the murder weapon! The killer used it to hit the victim!\nThat must have been what I saw.Judge:\nYou saw a clock? I guess that would explain it. The defense may cross-examine the witness.Phoenix:\nGladly.Cross ExaminationCross Examination-- Hearing the Time --Sahwit:\nActually, I didn't \"hear\" the time... I \"saw\" it!Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nThat strikes me as a very suspicious mistake.\nSahwit:\nYes, I can see how you'd be a little doubtful... I'm really sorry. I only just remembered that table clock!\nJudge:\nA \"table clock\"?Sahwit:\nThere was a table clock in the apartment, wasn't there!Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nA \"table clock\"? Was there a clock at the scene?\nJudge:\nThis is the first I've heard of it!Present Statue\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"Wait just a moment!\"Sahwit:\nYeah, the murder weapon! The killer used it to hit the victim!Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nThe... murder weapon?\nSahwit:\nYes, the table clock that was used as a weapon! That's what I just said. Did you doze off in the middle of my testimony or something?\nPhoenix:\n(Something's fishy here...)Present Statue\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"Wait just a moment!\"Sahwit:\nThat must have been what I saw.Press\n\n\n\n\n\n\n\nPhoenix:\n\nPhoenix:\nWhy didn't you tell us that in the first place?\nSahwit:\nI guess it just slipped my mind! I'm not really sure how it happened myself...\nPayne:\nThe witness says he saw the table clock. End of story.Present Statue\n\n\n\n\n\n\n\nPhoenix:\n\nLeads to:\n\"Wait just a moment!\"Mia:\nNow, find the contradiction!",
+      "testimonies": [
+        {
+          "testimony": "Actually, I didn't \"hear\" the time... I \"saw\" it!",
+          "person": "Sahwit",
+          "present": []
+        },
+        {
+          "testimony": "There was a table clock in the apartment, wasn't there!",
+          "person": "Sahwit",
+          "present": [
+            "Statue"
+          ],
+          "source": {
+            "evidence_span": "A statue in the shape of \"The Thinker\".",
+            "testimony_span": "There was a table clock in the apartment",
+            "explanation": "One cannot tell by looking that the statue is a clock, so the witness couldn't have known.",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "common sense",
+            "labels": [
+              "physical"
+            ]
+          }
+        },
+        {
+          "testimony": "Yeah, the murder weapon! The killer used it to hit the victim!",
+          "person": "Sahwit",
+          "present": [
+            "Statue"
+          ],
+          "source": {
+            "evidence_span": "A statue in the shape of \"The Thinker\".",
+            "testimony_span": "",
+            "explanation": "One cannot tell by looking that the statue is a clock, so the witness couldn't have known.",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "common sense"
+          }
+        },
+        {
+          "testimony": "That must have been what I saw.",
+          "person": "Sahwit",
+          "present": [
+            "Statue"
+          ],
+          "source": {
+            "evidence_span": "A statue in the shape of \"The Thinker\".",
+            "testimony_span": "",
+            "explanation": "One cannot tell by looking that the statue is a clock, so the witness couldn't have known.",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "common sense"
+          }
+        }
+      ],
+      "summarizedContext": "The witness Sahwit is describing how he was aware of the time when he witnessed the crime scene.",
+      "noPresent": false,
+      "difficulty": "common sense",
+      "labels": [
+        "physical"
+      ],
+      "reasoning": [
+        "Fact 1: The witness claims the murder weapon is a clock.",
+        "Fact 2: The evidence suggests the murder weapon is a statue"
+      ]
+    }
+  ]
+}

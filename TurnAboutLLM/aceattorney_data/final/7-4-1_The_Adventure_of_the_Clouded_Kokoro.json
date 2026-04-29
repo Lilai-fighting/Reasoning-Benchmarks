@@ -1,0 +1,189 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Susato Mikotoba",
+      "age": "16",
+      "gender": "",
+      "description1": "A judicial assistant sent to Britain on a study tour. She's the epitome of a refined Japanese lady and a huge help to me always."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Mael Stronghart",
+      "age": "52",
+      "gender": "",
+      "description1": "The Lord Chief Justice, who wields absolute authority in judicial matters, including the appointment of lawyers. He's a thoroughly intimidating man."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Tobias Gregson",
+      "age": "44",
+      "gender": "",
+      "description1": "The detective inspector in charge of Scotland Yard's investigation of the case. He's stern and single-minded in his approach, and a great lover of fish and chips."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Soseki Natsume",
+      "age": "33",
+      "gender": "",
+      "description1": "A scholar sent to Britain by the Japanese government to further his study of English. He's the defendant accused of attempted murder."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Iris Wilson",
+      "age": "10",
+      "gender": "",
+      "description1": "An extraordinary young girl who lives with Mr Sholmes. She has a degree in medicine and is the author of a popular series of short stories."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Maid → Joan Garrideb",
+      "age": "?? → 38",
+      "gender": "",
+      "description1": "A maid who works at the Garrideb household. Her main duty appears to be standing at Mr Garrideb's side pouring tea.",
+      "description2": "Mr Garrideb's wife, who poses as the household maid merely to keep up appearances in the neighborhood. She has a fierce temper and tends to get rather physical.",
+      "description3": "Mr Garrideb's wife, who poses as the household maid merely to keep up appearances in the neighborhood. She is in attendance today as a member of the jury."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "John Garrideb",
+      "age": "46",
+      "gender": "",
+      "description1": "A retired army man who's the landlord of the lodgings rented by the defendant, Mr Natsume. An old knee injury means he's confined to a chair most of the time."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Herlock Sholmes",
+      "age": "34",
+      "gender": "",
+      "description1": "There's not a person in the world who hasn't heard of this famous 'great detective'. Not a person except me, apparently."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Barok van Zieks",
+      "age": "32",
+      "gender": "",
+      "description1": "A prosecutor known as the Reaper of the Bailey, though concrete details of the man are not forthcoming."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Olive Green",
+      "age": "??",
+      "gender": "",
+      "description1": "The victim of this case, who was found with a knife in her back. Luckily, the wound didn't prove fatal, but the woman remains unconscious in her hospital bed."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Roly Beate",
+      "age": "23",
+      "gender": "",
+      "description1": "A devoted London bobby who witnessed the incident whilst walking down the street with his wife of a year, Patricia."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Patricia Beate",
+      "age": "21",
+      "gender": "",
+      "description1": "The wife of Constable Roly Beate who is a witness to the incident. She's relatively recently married, and fiercely proud of her policeman husband."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Armband",
+      "type": "",
+      "obtained": "",
+      "description1": "An armband I inherited from Kazuma. It identifies the wearer as a defence lawyer throughout the Empire of Japan."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Local Map",
+      "type": "",
+      "obtained": "",
+      "description1": "A street map of the local area showing where the victim was found.",
+      "description2": "A street map of the local area showing locations that are relevant to the case."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Iris's Postcard",
+      "type": "",
+      "obtained": "",
+      "description1": "A card for Inspector Gregson with a message on the back from Iris."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Secondhand Book Receipt",
+      "type": "",
+      "obtained": "",
+      "description1": "A receipt discovered in Mr Natsume's room for some books that he had purchased from a secondhand bookshop before the incident occurred."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Case File",
+      "type": "",
+      "obtained": "",
+      "description1": "A file containing an overview of the case and details about the victim. She was found with a knife in her back and is currently in hospital, yet to regain consciousness.",
+      "description2": "The pavement where the victim was found lies just outside Constable Beate's beat, the border of which runs down the middle of Briar Road."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Jackknife",
+      "type": "",
+      "obtained": "",
+      "description1": "A large but commonplace folding knife. It was found lodged in the victim's back."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Crime Scene Photograph",
+      "type": "",
+      "obtained": "",
+      "description1": "A photograph of the scene taken by a policeman just after the incident occurred. A large knife can be seen thrust into the victim's back."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Crime Scene Photograph #2",
+      "type": "",
+      "obtained": "",
+      "description1": "A second photograph of the scene taken by a policeman just after the incident. It specifically shows the victim's hand."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "The Fourth Book",
+      "type": "",
+      "obtained": "",
+      "description1": "A book entitled 'The Lion's Pride' discovered in the victim's hand at the scene.",
+      "description2": "A book entitled 'The Lion's Pride' discovered in the victim's hand at the scene. The back cover is badly burnt. * (This update to the description is entirely optional, and can only be achieved by examining the burnt corner on the back before it is specifically pointed out in court.)",
+      "description3": "A book entitled 'The Lion's Pride' that was in the victim's hand when Mrs Beate first ran over to see what had happened."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Warrant Card",
+      "type": "",
+      "obtained": "",
+      "description1": "A small folding wallet that identifies London bobbies and contains the rules of conduct to which they must adhere."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Anniversary Bouquet",
+      "type": "",
+      "obtained": "",
+      "description1": "A present for Patricia Beate from her husband, Roly. The shock of seeing the stabbed victim caused Mrs Beate to drop the rose where she stood."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Pipe",
+      "type": "",
+      "obtained": "",
+      "description1": "Mr Garrideb's pipe. Apparently it fell to the floor during a domestic dispute he had with his wife and broke."
+    },
+    {
+      "currentChapter": "The Adventure of the Clouded Kokoro",
+      "name": "Fragment of Metal",
+      "type": "",
+      "obtained": "",
+      "description1": "This small piece of metal looks like it might be the tip of a knife blade. It was stuck inside the bowl of Mr Garrideb's pipe."
+    }
+  ],
+  "turns": []
+}

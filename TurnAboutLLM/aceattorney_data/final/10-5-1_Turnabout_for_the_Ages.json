@@ -1,0 +1,442 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Kay Faraday",
+      "age": "17",
+      "gender": "Female",
+      "description1": "A self-styled Great Thief and so-called \"second Yatagarasu\" who's always looking to bag the greatest treasure of all -- the truth."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Lotta Hart",
+      "age": "25",
+      "gender": "Female",
+      "description1": "A freelance photojournalist who I've met in the past. Known for her ability to sniff out scoops and snap them with her trusty camera."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Shi-Long Lang",
+      "age": "27",
+      "gender": "Male",
+      "description1": "An Interpol agent with an unrivaled arrest rate. Originally from Zheng Fa."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Di-Jun Wang",
+      "age": "58",
+      "gender": "Male",
+      "description1": "President of Zheng Fa, and the victim in this case. His body was found on a film set.",
+      "description2": "The victim in this case. A body double who took the real President Wang's place after he murdered him 12 years ago."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Crew Member",
+      "age": "20",
+      "gender": "Female",
+      "description1": "A props person at Global Studios, and the first to discover the body. Her name is Penny Nichols."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Shaun Fenn",
+      "age": "13",
+      "gender": "Male",
+      "description1": "The child star of the monster movie being filmed. Mature for his age with a menacing demeanor.",
+      "description2": "The child star of the monster movie being filmed. Revealed to be President Wang's son. His mother's name was Amelie Fenn."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Verity Gavèlle",
+      "age": "26",
+      "gender": "Female",
+      "description1": "A judge, and a member of the Committee for Prosecutorial Excellence. Suspected of being involved in the president's murder."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Dick Gumshoe",
+      "age": "32",
+      "gender": "Male",
+      "description1": "Homicide detective from the local precinct who's always first on the scene at any murder investigation."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Eddie Fender",
+      "age": "36",
+      "gender": "Male",
+      "description1": "Senior partner at Edgeworth and Co. Acting as Fifi Laguarde's attorney in place of Rosie Ringer."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Franziska von Karma",
+      "age": "19",
+      "gender": "Female",
+      "description1": "Daughter of my mentor, Manfred von Karma. She is a highly talented prosecutor, and is currently working with Interpol."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Eustace Winner",
+      "age": "17",
+      "gender": "Male",
+      "description1": "A rookie prosecutor who thinks he's a real winner. Ran off in shock after discovering that his father is a criminal."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Fifi Laguarde",
+      "age": "37",
+      "gender": "Female",
+      "description1": "A former prison warden. She is currently on trial for the murder of Bronco Knight."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Regina Berry",
+      "age": "17",
+      "gender": "Female",
+      "description1": "Head animal trainer at the Berry Big Circus, and Saint's boss."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Simeon Saint",
+      "age": "24",
+      "gender": "Male",
+      "description1": "An animal-tamer-in-training at the Berry Big Circus. He came to watch the trial.",
+      "description2": "An animal-tamer-in-training at the Berry Big Circus, who is also the criminal mastermind behind the recent string of incidents."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Will Powers",
+      "age": "25",
+      "gender": "Male",
+      "description1": "An action star with Global Studios. He's playing the part of Taurusaurus in the movie that's currently being shot."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Tabby Lloyd",
+      "age": "20",
+      "gender": "Female",
+      "description1": "A journalist who's always on the lookout for a scoop. Protégé of Lotta Hart."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Excelsius Winner",
+      "age": "68",
+      "gender": "Male",
+      "description1": "Chairman of the Committee for Prosecutorial Excellence and the ringleader behind the underground auction. He is currently under arrest for murder."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Bronco Knight",
+      "age": "24",
+      "gender": "Male",
+      "description1": "One of President Wang's bodyguards. Murdered while being held at the detention center.",
+      "description2": "Revealed to be Artie Frost's son. Murdered by Fifi Laguarde while being held at the detention center."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Bodhidharma Kanis",
+      "age": "??",
+      "gender": "Male",
+      "description1": "A blind ex-assassin who escaped from prison three nights ago. His whereabouts are currently unknown."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Shelly de Killer",
+      "age": "??",
+      "gender": "Male",
+      "description1": "A professional killer who made an attempt on President Wang's life at Gourd Lake."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Alf Aldown",
+      "age": "Deceased",
+      "gender": "Male",
+      "description1": "A freelance journalist who was murdered in the incident from 12 years ago.",
+      "description2": "A freelance journalist who was murdered in the incident from 12 years ago. Rosie Ringer's lover."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Rosie Ringer",
+      "age": "33",
+      "gender": "Female",
+      "description1": "A member of the Committee for Prosecutorial Excellence. She was killed while attempting to avenge Alf Aldown."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Ema Skye",
+      "age": "18",
+      "gender": "Female",
+      "description1": "A high school student looking to become a forensic investigator, and the younger sister of my former boss."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Yatagarasu Pin",
+      "description1": "The Yatagarasu pin that Kay always wears.",
+      "description2": "The Yatagarasu pin that Kay always wears. There was a bug hidden inside."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Forged Letter",
+      "description1": "A letter written by an unknown person claiming to be Kay. Touch the Check Button for details."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Bigg Building",
+      "description1": "Site of the underground auctions. There is an entrance to the hidden fifty-first floor on the roof."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Creature Feature Flyer",
+      "description1": "Latest in the series after a twelve-year hiatus: \"Taurusaurus Vs. Gourdy\"."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Movie Set Locks",
+      "description1": "The combination lock on the front gate was left untouched, while the side gate's chain was cut sometime last night."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Crime Scene Notes → President Wang's Autopsy Report",
+      "description1": "Surrounded by shards of concrete. Flecks of something yellow stuck to clothes. Touch the Check Button for details."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Monster Footprints",
+      "description1": "The concrete was broken and the earth exposed. But are they really footprints?",
+      "description2": "The concrete was broken and the earth exposed. Did Excelsius Winner dig up the ransom money?",
+      "description3": "The concrete was broken and the earth exposed after Excelsius Winner dug up President Wang's corpse."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Taurusaurus Head",
+      "description1": "Modeled on the first generation Taurusaurus design. Seems like it fell from the roof of the on-set production trailer last night."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Taurusaurus Plushie",
+      "description1": "Belonged to President Wang. It can record and play back sound."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Behind-the-Scenes Photo",
+      "description1": "Photo taken yesterday. No monster footprints and no body were visible at that point."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Security Camera Footage",
+      "description1": "Shows President Wang and Judge Gavèlle in front of the elevator on the roof of the Bigg Building.",
+      "description2": "Shows President Wang and Judge Gavèlle arriving on the roof of the Bigg Building. There's no footage of the president riding the elevator down to leave."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Ms. Hart's Statement",
+      "description1": "Ms. Hart was in the 51st-floor storeroom the night before last, but didn't see the president pass through."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Shaun's Rehearsal Tape",
+      "description1": "Filmed yesterday evening. Shows Shaun rehearsing by a monster footprint."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Blue Truck",
+      "description1": "Parked in front of the Bigg Building. Driver is nowhere to be found."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Mechanic's Gloves",
+      "description1": "Meant for motorcycle maintenance, but currently covered in dirt for some reason.",
+      "description2": "Excelsius Winner wore these when digging the monster footprints."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "IS-7 Incident Case File",
+      "description1": "Details of a murder case from eighteen years ago. Touch the Check Button for details."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Report on Knight",
+      "description1": "A report from Warden Laguarde to Chairman Winner about the connection between Knight and Kanis."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Knight's Possessions",
+      "description1": "A pocket chess set and a ring. Found in the safe in the auction storeroom.",
+      "description2": "A pocket chess set and a ring Knight made from his father's signature stamp."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Bug",
+      "description1": "The person in the red raincoat planted this inside Kay's Yatagarasu pin."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Ms. Lloyd's Tape",
+      "description1": "A recording of signals that were intercepted from the bug that was planted in Kay's pin."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Bouquet",
+      "description1": "A bouquet of lion lilies given to President Wang by Judge Gavèlle. Recovered from on top of his body by Shaun."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Sedative",
+      "description1": "Used on both Kay and Shaun during their kidnapping. Brand name is \"3 Zs\"."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "SS-5 Incident Case File",
+      "description1": "12-year-old incident in which President Wang was kidnapped and the sole witness was murdered. Touch the Check Button for details."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Fire",
+      "description1": "One of the children set the orphanage yard on fire as a prank sometime during the evening before the incident."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Mr. Aldown's Autopsy Report",
+      "description1": "Victim was struck on the head and died at around 1 AM on February 10th."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Mr. Aldown's Final Call",
+      "description1": "Message left on Rosie Ringer's phone detailing what Aldown saw."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Bloody Button",
+      "description1": "Found clutched in Aldown's right hand. The blood is his."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Mr. Aldown's Photograph",
+      "description1": "Shows the president being kidnapped. Only one picture was taken. Touch the Check Button for details.",
+      "description2": "Staged photograph taken after Aldown was killed. Touch the Check Button for details."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Victim's Shoes",
+      "description1": "Not actually Aldown's shoes. They appear to have been placed on his feet by the culprit after the murder took place."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Mysterious Blood Stain",
+      "description1": "Left on the scene of the murder 12 years ago. The blood wasn't Aldown's."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Child's Drawing",
+      "description1": "A picture drawn by the child who caused the fire during the incident 12 years ago. It depicts what he saw the night of the incident."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Correspondence Chess Diagram",
+      "description1": "Sent to Bronco Knight by Bodhidharma Kanis. Printed rather than hand-written.",
+      "description2": "Letter from Kanis retyped by the mastermind, and then sent on to Bronco Knight."
+    },
+    {
+      "currentChapter": "Turnabout for the Ages",
+      "name": "Lion Hot Air Balloon",
+      "description1": "Smaller balloon used for promotional purposes. Saint is in charge of it and drives it around on the back of a truck."
+    }
+  ],
+  "turns": [
+    {
+      "category": "rebuttal",
+      "newContext": "Turnabout for the Ages\n\n\n\n\n\n\n\n\n\nTranscript\nThis article contains information about Ace Attorney media that has been recently released and thus likely contains spoilers!\n\n\n\nThe information in this article comes from a game, demo, or other media that has been recently released worldwide. This article may need input from an editor who has personal experience with the media in question. If you have, you can help the Ace Attorney Wiki by expanding this article. Please heed the manual of style when adding information.\nReaders of this page should be aware that this article likely contains MAJOR SPOILERS concerning the media in question.\nYou have been warned!\nWe need more pieces to finish this puzzle.\n\n\n\n\nThis article is under construction. While it is not short, it still needs expansion as outlined in the manual of style. The article most likely needs expansion near the end of the tagged section or sections.\nThis article or section needs attention for quality control purposes.\n\n\n\n\nThe content marked by this message box has been identified as requiring improvements to a reasonable standard of quality. Content may be marked for a variety of reasons, including known false information or excessive typos. Fact-checking for false/missing information can be a time-consuming task, but the wiki has been working on transcripts that may help speed up the process. Please also consult the manual of style. You are welcome to discuss this issue in the talk page of the article. Note: The editor who added this tag believes this article or section should be cleaned up for the following reason: re-formatting, quality control, changing everything to official 2024 release\nPart 1\n\nPart 2\nEpisode 5The Grand Turnabout\nApril 6, 10:02 AMOutside Bigg BuildingTower Plaza\nExamine evidence\n\n\n\n\n\n\n\n\n\nFront side of Yatagarasu's Badge\n\n\n\n\n\n\n\nEdgeworth:\nThis is the badge that Kay is always wearing. It's emblazoned with the mark of the Yatagarasu and it really stands out. I doubt there are any thieves who would actually wear it.\nLotta:\nSo, what are y'all gonna do now? I reckon... yer through bein' a prosecutor, right?\nEdgeworth:\nYes... that's true, I suppose. (I'm no longer a prosecutor. However...)\nKay:\nYou can't stop thinking about what Mr. de Killer said, right?\nEdgeworth:\nIndeed...\nde Killer:\nI congratulate you on resolving the case. However... ...can you truly say in good conscience that it has been solved?\nEdgeworth:\n(This case isn't over yet... The person in the red hood who kidnapped Kay at Gourd Lake... And this letter from an unknown sender. Someone's schemes are at work behind this case...)\nLotta:\nMust be tough havin' a case you just solved still naggin' at the back of yer mind. Well, I got some investigatin' of my own to be doin', so I'll be off!\nKay:\nThat's amazing! You've already decided on your next scoop?\nLotta:\nWhat're ya sayin' there, missy!? Don't you be underestimatin' the likes of Lotta Hart! I've covered a lotta scoops, ya know? I always have an extra scoop or two up my sleeves...\n???:\nS-Someone! Help!\nKay:\nYikes! What's that!?\n???:\nS-Someone! P-Please help!\nEdgeworth:\n(Hmm. This woman is...) What's happened!?\n???:\nS-Somebody's dead! A m-monster...!\nEdgeworth:\n(A... monster?)\nLotta:\nI-It's a scoop! A scoop's callin' me!\n???:\nPlease follow me! It's this way!\nKay:\nHas something else happened? Again!?\nEdgeworth:\nI don't know... At any rate, we should follow her for now.\nApril 6, 10:05 AMOutside Bigg BuildingTemporary Film Lot\nKay:\nEh!? These are...!?\nLotta:\nG-Genuine hoofprints!\nEdgeworth:\n(Hoofprints? Impossible! No animal could be this large...)\nKay:\nMr. Edgeworth! Look!\nEdgeworth:\n(Agent Lang...! Why is he here?)\nKay:\nAh! Someone's on the ground!\nEdgeworth:\n(It can't be... The president of Zheng Fa... Di-Jun Huang!)\nLang:\n........\nEdgeworth:\nAgent Lang!\nLang:\n......Mr. Prosecutor. Didn't take you long to get here.\nEdgeworth:\nWhat happened?\nLang:\nWhat... happened? Ha! That's what I'd like to know!\nEdgeworth:\n(It would seem that he's in a considerable amount of shock over the president's death. However... ...what exactly are these giant footprints...? And what could have happened to the president?)\nLotta:\nIt's a m... m... monster!\nEdgeworth:\nA... monster?\nLotta:\nYessiree! Lookie here! Ain't no doubt about it, these are clearly the footprints of a monster! On this day, mankind received a grim reminder: we live in fear of the Mighty Moozilla!\nEdgeworth:\n(Mighty... Moozilla...?)\nLotta:\nThis here's a scoop! I got myself a scoop! \"Man Trampled to Death by Monster!\" I reckon it'll be the top story in tomorrow's paper!\nEdgeworth:\n(What nonsense... There are no such things as monsters... Wait, it can't be...?)\nHuang:\nI am Di-Jun Huang. I have heard of your deeds. You saved my country from a great crisis.\nEdgeworth:\nThe real assassin was you all along...!\nde Killer:\nThat is correct. I received a request from a key individual... ...to take the president's life...\nEdgeworth:\n(That man... could he have...?)\nLang:\nHey, you! Were you the first to discover the body?\n???:\nY-Yes, I...! Umm, well.\nEdgeworth:\n(! Agent Lang?)\nLang:\nLang Zi says: \"First come, first suspected.\" You! Did you really just discover the body!?\n???:\nO-O-O-O-O-Of course!\nKay:\nPlease calm down! You're scaring her!\nEdgeworth:\n(He does seem to have lost his composure...)\nLang:\nTch. Calm down!? How am I supposed to calm down? Do you know who's been murdered!? Di-Jun Huang... the president of Zheng Fa!\nEdgeworth:\nEdgeworth:\n...Agent Lang. This isn't like you.\nLang:\n!\nEdgeworth:\nWhen we first met, you had an army of subordinates under your command... ...and you boasted of having the highest arrest rate in Interpol. And what now? Did you forget the fundamentals of investigation along with all of your men?\nLang:\nWhat... did you say...?\nEdgeworth:\nInstead of questioning people at random, you should investigate the crime scene first. Am I wrong?\nLang:\n........Tch! I don't need you to tell me that. ...I'll do a thorough investigation.\nEdgeworth:\n(Well. At least it seems he's calmed for now...)\nKay:\nMr. Edgeworth! Let's investigate too!\nEdgeworth:\nYes. Let us investigate. (Right now, I do not have any investigation rights, but until the police arrive...)\nLotta:\nWhat're y'all sayin'? Ain't it obvious who dunnit!? The man behind it all is the Mighty Moozilla! Hm? Well, I guess it ain't the \"man\" behind it, more like the \"monster\" behind it, ya know?\nEdgeworth:\nGood grief... Could you please just try not to interfere with the investigation?\nLotta:\nShut yer trap! Yer the one who better not be stickin' yer nose in my business! I ain't forgivin' ya if ya mess up my scoop!\n???:\nUmm... Excuse me.\nEdgeworth:\n(Hmm. It's the woman who first discovered the body. I feel like I've seen her before...)\n???:\nYou're... Mr. Edgeworth, right? Do you remember me?\nEdgeworth:\nUmm. Y-Yes. That case... from before...\nKay:\nHuh? Do you know her?\nEdgeworth:\nYes, I do. (At least I think I do...)\nKay:\nMy name's Kay Faraday! I'm Mr. Edgeworth's assistant!\nPenny:\nMy. You have such a cute assistant? I'm Penny Nichols. I'm an assistant at Global Studios. I'm in charge of the props and sets. It's nice to meet you.\nEdgeworth:\n(Yes, that was it... I once handled a case that occurred during the filming of the Steel Samurai. This woman was a member of the show's staff, and she was involved in the incident. I must have met with her on numerous occasions over the course of the case... ...but to be honest, I had completely forgotten about her...) It's nice to see you again. The fact that you are here must mean that this place is...\nPenny:\nYes! This is sort of an outdoor film lot for Global Studios. They're shooting a movie here right now. I was the first to arrive today, to set everything up for the filming... ...but everything seemed strange... Those giant footprints... and that... d-dead body...\nEdgeworth:\nI see. We shall examine the body. At any rate, could you please contact the police?\nPenny:\nY-Yes! Right away!\nEdgeworth:\n(I'll have to take the time to listen to her story later... First, let's examine the scene. There are many things besides the body that concern me. I'll need to examine every nook and cranny of this place...)\nBegin Investigation\nOutside Bigg BuildingTemporary Film Lot\nLogic\n\n\n\n\n\n\n\n\n\n\"Rear entrance forced open\" and \"Combination lock\"\n\n\n\n\n\n\n\nEdgeworth:\nThe front entrance, which leads to the Tower Plaza, was locked with a combination lock. At the other hand... the lock on the rear entrance, which leads to the Bigg Building, was broken. Now, where does this lead us?\nKay:\nHeh heh heh! I know this one! The culprit entered from the rear entrance, right!?\nEdgeworth:\nExactly. And knowing this... we now understand one more critical fact. The culprit must be someone who didn't know the number to unlock the combination lock.\nKay:\nRight! If they knew the code, it would've been way easier to enter from the front entrance! Entering through the back door is common sense for a thief. It's much less conspicuous. We can't underestimate a culprit who thinks like a thief! Please keep your guard up!\nEdgeworth:\n(She sure becomes lively all of a sudden when this subject gets brought up...) To put it simply, everyone involved with the movie knows the combination for the lock. In other words, it's quite likely that the culprit is someone who is not involved with the film.\nCombination Lock data jotted down in my Organizer.\n\n\n\n\n\"Dented fence\" and \"Broken horn\"\n\n\n\n\n\n\n\nEdgeworth:\nThe dent in this fence... and the broken horn... Neither of these things were there yesterday evening. Based on the fact that these two things have changed...\nKay:\nAh! Could Moozilla's head have...!?\nEdgeworth:\nIndeed. The head that was on the rooftop (Monster's head - It may have rolled off the studio roof and tumbled to the ground.) may have tumbled down onto the ground. This is a new possibility. (Which would mean that...)\n\n\n\n\n\"Stepped on by a monster?\" and \"Monster's head\"\n\n\n\n\n\n\n\nEdgeworth:\nWe may have found the missing murder weapon...\nKay:\nEh! Really!?\nEdgeworth:\nAt the moment, I can only say that it is just a possibility... If the giant monster head had fallen off from the studio roof...\nKay:\nAh! That could definitely be a murder weapon! Ms. Nichols, may we investigate the studio roof?\nPenny:\nThe roof? OK, I understand! Go on ahead! But the stairs can be a little bit slippery, so please watch your step!\nPartner\n\n\n\n\n\n\n\nKay:\nYeah, what's up?\n\n\n\nNotice anything?\n\n\n\n\n\n\n\nKay:\nI still can't believe the president has been murdered... Do you think he was really trampled to death by a monster?\nEdgeworth:\nSurely you can't be serious? There are no such things as monsters.\nKay:\nWhaaat!? So it wasn't a monster who did this? Then, who do you say killed the president!?\nEdgeworth:\nAs the president of Zheng Fa, I'm sure there are more than a few people targeting his life. Just like Shelly de Killer tried to do, not too long ago.\nKay:\nSo, you think he was killed by someone like Mr. de Killer?\nEdgeworth:\nI can't say for certain yet... but neither can I deny that possibility.\nKay:\nBut, we can't deny the possibility of him being killed by a monster, either! I mean, just take a look at all these monster's footprints! Plus, a horn-like object was lying on the ground next to the president.\nEdgeworth:\n(A horn-like object...? I can't say for certain that it's not related to this case. Perhaps I should take a moment and compare it with the evidence I have on hand.)\n\n\n\n\nAgent Lang\n\n\n\n\n\n\n\nKay:\nI never would have thought we'd run into Mr. Lang in a place like this! But, he didn't seem to be in a very good mood though.\nEdgeworth:\nIt's understandable. Agent Lang is from the Republic of Zheng Fa. With President's Huang's death, he must have a lot on his mind.\nKay:\nCome to think of it, he doesn't have his men-in-black in tow with him today either. I always picture him with an army of subordinates following him around...\nEdgeworth:\n(Agent Lang... I wonder if something has happened to him?)\n\n\n\n\nMoozilla (after examining broken lock and talking about \"Broken horn\" with Penny)\n\n\n\n\n\n\n\nEdgeworth:\nDid you already know about this \"Moozilla\" monster?\nKay:\nNope. I just learned about it today! I mean, the movie came out 12 years ago, right? Back then, I was just a cute little girl! But, the \"Mighty Moozilla\" sure does sound pretty sweet!\nEdgeworth:\nHeh... It certainly does seem like the kind of movie you would enjoy.\nKay:\nWell, duh, it's a giant monster! What's not to like about giant monsters!?\nEdgeworth:\nI for one can't understand the appeal of these so-called \"giant monsters\".\nKay:\nWell, I don't get what's so great about the Steel Samurai!\nEdgeworth:\nUgh...! Kay! I'll have you know, the Steel Samurai is...\nKay:\nYeah, yeah. More importantly, shouldn't we get back to our investigation now? Why don't we take a minute to reorganize any information we haven't yet put together? We might be able to make a new connection!\nEdgeworth:\nYes... Indeed.\n\n\n\n\nPresent\n\n\n\n\n\n\n\n\n\nYatagarasu's Badge\n\n\n\n\n\n\n\nKay:\nEureka! Seeing this badge... just gave me a great idea! As a token of appreciation for everything you've done for me, Mr. Edgeworth... ...I'm gonna carve an awesome badge for you out of an eraser. Should I carve your face from the side? Or from the front? Hmm, maybe a diagonal view...\nEdgeworth:\n(Why are you so set on the theme being my face...?)\nKay:\nAh! But if it's something new you want, how about a view from directly below?\nEdgeworth:\n(This badge has quickly gone from \"awesome\" to \"awful\"...)\n\n\n\n\nLetter from Unknown or Bigg Building\n\n\n\n\n\n\n\nKay:\nWhen my memory was gone, I... ...I felt like I was walking through a freezing rain the entire time. But, when it all came back...\nEdgeworth:\n...Did something happen when you regained your memory?\nKay:\nNope... It's nothing. Thank you so very much!\nEdgeworth:\n...Kay. I am not the one who recovered your memories. The person you should thank is the one who had you write in that notebook.\nKay:\nDaddy! Mr. Edgeworth! Thank you both so much! ...Eheheh. I feel a lot better now!\nEdgeworth:\nIf you're going to shout, please give a little more consideration to the time and place...\n\n\n\n\nCrime Scene Notes\n\n\n\n\n\n\n\nKay:\nMr. President... We only just exposed the fake assassination, I can't believe he was really assassinated...\nEdgeworth:\nIndeed. It's quite tragic, but no matter how you look at it, this time he's truly gone. Our final parting gift to him will be uncovering the truth behind this case.\nKay:\nThat's right. This'll be... a paycheck for the president!\nEdgeworth:\nI think you mean \"payback\", Kay.\n\n\n\n\nMonster Movie Flyer, Moozilla's Head, or Moozilla Doll\n\n\n\n\n\n\n\nKay:\nThe Mighty Moozilla vs Gourdy! What an earth-shattering battle that would be! Gourdy tries to devour Moozilla! But, the horns get caught, so it can't swallow Moozilla whole! Moozilla tries biting back! But, Gourdy's skin is really slick, so Moozilla can't chomp down. Oh, this kind of buildup always gets my heart pounding!\nEdgeworth:\n(I'll never understand why today's youth get so invested in these things...)\n\n\n\n\nAnything else\n\n\n\n\n\n\n\nKay:\nI believe that even a Great Thief has rights. For example, we have the right to choose what we want to steal.\nEdgeworth:\n(I guess she doesn't consider this valuable.)\nMonster costume\n\n\n\n\n\n\n\nEdgeworth:\nThere is a monster costume in front of this building.\nKay:\nMr. Edgeworth! Is that really a costume? Maybe it's actually the monster who made all these footprints, and it just shrunk itself down!\nEdgeworth:\n......I'll say this one more time, so listen carefully. There is a monster costume in front of this building. It's just a costume!\nLighting equipment\n\n\n\n\n\n\n\nEdgeworth:\nThis seems to be the lighting equipment they're using for the film.\nKay:\n...Ah, that's right! There's something I wanted to ask you, Mr. Edgeworth! When I'm stealing something, can you use this to make me look cool in a spotlight?\nEdgeworth:\nYou want someone to shine a light on you when you're stealing something?\nKay:\nWell, duh! If the Yatagarasu's handiwork can't be seen because it's too dark... ...wouldn't you feel bad for the people watching?\nEdgeworth:\n(You're planning to steal things with an audience looking on...?)\nPenny Nichols\n\n\n\n\n\n\n\nPenny:\nI'm sorry about earlier... I was... a little flustered.\n\n\n\nDiscovery of the body\n\n\n\n\n\n\n\nEdgeworth:\nWere you here alone?\nPenny:\nYes. I arrived before everyone else today in order to get things prepared. When I entered the lot, I immediately noticed... those giant hoofprints.\nKay:\nThe monster's footprints, right!? Weren't you surprised?\nPenny:\nYes. Because they hadn't been there yesterday evening.\nEdgeworth:\n(So that means the footprints were made last night...)\nPenny:\nWell, when I first saw them, I thought they were a part of the set. But, when I got closer to the studio, I saw that a person had collapsed.\nEdgeworth:\nYou didn't notice until you got closer...?\nPenny:\nLately, it seems my eyesight has gotten worse again, and my glasses aren't strong enough. As I approached the body, I finally realized what it was. I was so scared, I ran away.\nEdgeworth:\n(And that was when she ran into us...)\n\n\n\n\nFilming a movie\n\n\n\n\n\n\n\nEdgeworth:\nYou said they were... filming a movie? Could it be... the Steel Samurai...?\nPenny:\nNo.\nEdgeworth:\n(So it wasn't...)\nPenny:\nWe're making a monster movie this time around. Have you ever hears of the \"Mighty Moozilla\" series?\nEdgeworth:\nI'm sorry, but no...\nKay:\nMr. Edgeworth isn't interested in anything other than the Steel Samurai after all!\nEdgeworth:\nTh-That's not...\nPenny:\nI guess that's to be expected, as the promotion for the film hasn't really started yet. \"The Mighty Moozilla! Its revival breaks its 12 years of silence!\" It's the long awaited sequel to the original series, so the staff are all fired up! The film is set at the Bigg Building, so we're filming on location around this area.\nEdgeworth:\n(Come to think of it, yesterday...)\n\n\nGumshoe:\nWhat's wrong, pal!? Did something happen at the Bigg Building!?\nCuuuuuut! Cut, cut, cut, cuuuut!\n???:\nE-Excuse me! We're sort of in the middle of shooting a movie, and umm...\n\n\nEdgeworth:\n(I saw them filming something then. It must have been this...)\nKay:\nI bet it ends with Moozilla completely destroying the Bigg Building!\nPenny:\nTee-hee. I wonder? You'll have to look forward to finding out in the theaters. If you like, you can have this.\nEdgeworth:\nHmm. Let's see...\nThe Battle of the Century! Now... it meets its greatest rival! \"Mighty Moozilla vs Gourdy\"\nEdgeworth:\n(Wait... Gourdy?)\nPenny:\nThis time, it won't just be Moozilla, a rival monster appears as well! Have you heard of it? Gourdy of Gourd Lake.\nKay:\nAh! Wasn't it the talk of the town two or three years ago? It's a mysterious monster living in Gourd Lake! By chance, someone took a photo of it!\nEdgeworth:\n(It wasn't just the talk of the town, it was also involved in a case from my past. Gourdy... huh. Now there's a name I don't really want to remember.)\nPenny:\nWhen the director caught wind of that rumor, he decided to add it into the story.\nEdgeworth:\n(I get the feeling he was a bit late to catch on...)\nPenny:\nPlease look forward to seeing the showdown between these two rival monsters!\nMonster Movie Flyer data jotted down in my Organizer.\n\n\n\nAfter examining horn\n\n\n\n\n\n\n\nEdgeworth:\n(Is there anything out of place with what I've investigated so far?)\n\n\n\n\n\nThe entrance\n\n\n\n\n\n\n\nEdgeworth:\n(I should confirm what the security situation was like at the scene of the crime.) Ms. Nichols. Was the entrance to this place locked?\nPenny:\nYes. It's locked with this.\nKay:\nIt's one of those types where you have to put in the correct numbers to open it, right?\nEdgeworth:\nAbout this combination lock, was it also properly locked today?\nPenny:\nYes. When I arrived here today, it was locked tight.\nEdgeworth:\nWho knows the combination?\nPenny:\nThe producer, the director, the staff, and the actors... I think everyone involved in the movie knew about it.\nEdgeworth:\n(So anyone involved with the film could have opened the combination lock (Combination lock - Used on front entrance. Only the cast and crew knew the combination.) and gone in.)\n\n\n\n\nBroken horn\n\n\n\n\n\n\n\nEdgeworth:\nAbout this horn... Have you ever seen it before?\nPenny:\nHuh? That's Moozilla's horn. It's a model we made to use in our ad campaign. ...Where was it?\nEdgeworth:\nIt was on the ground by the back entrance.\nPenny:\nThat's strange... Moozilla's head should have been stored on the studio roof.\nEdgeworth:\nI suppose the head would have to be rather large, wouldn't it?\nPenny:\nYes! It's not as big as the real thing, of course, but it's still quite large! Look. You can see it from here. See? It's right there.\nEdgeworth:\nIt certainly is large... (Broken horn - Was lying next to the body. Had been stored on the roof last night.)\n\n\n\n\nPresent\n\n\n\n\n\n\n\n\n\nMonster's Footprints\n\n\n\n\n\n\n\nPenny:\n...If I remember correctly, the Moozilla in our film also has split hooves.\nEdgeworth:\nSurely, you're not suggesting that the president was trampled to death by a monster?\nPenny:\nOh, no! Rather, speaking as a member of the studio staff... ...I don't believe Moozilla would commit a murder. Giant monsters only bother the people in the movies. That's the cardinal rule for those involved in monster movies.\nEdgeworth:\n(Indeed. It would be problematic if it weren't that way.)\n\n\n\n\nMonster Movie Flyer or Moozilla's Head\n\n\n\n\n\n\n\nPenny:\nMoozilla is a symbol of nature. That's why it destroys cities.\nEdgeworth:\n(That's a rather sketchy explanation...)\nPenny:\nIt uses its horns to attack, but that's not its only technique. It has a Sonic Moo sound wave attack, a sticky drool spray, dual milk shooters... ...a BBQ smokescreen diversion, and a leather shows & bags production line ultra combo.\nKay:\nThe more you describe it... the less powerful it sounds.\nPenny:\nWell, making it look powerful is a job for us filmmakers, after all!\nEdgeworth:\n(...Won't the producers of the movie get mad at them?)\n\n\n\n\nAnything else\n\n\n\n\n\n\n\nPenny:\nAhh! Th-That's!\nEdgeworth:\nHmm? Do you know something about this?\nPenny:\nHuh...? I-I'm sorry! I think I was just mistaken. Lately, the prescription of my glasses hasn't been quite right. I deeply apologize for my shameful behavior!\nEdgeworth:\n(That's not something you need to apologize for...)\n\n\n\n(Clearing \"Discovery of the body\", \"Filming a movie\", \"The entrance\" and \"Broken horn\" \"Talk\" option before examining film crane and vinyl sheets leads to:)\nKay:\nThere sure are a lot of interesting things around here!\nPenny:\nTee-hee. It's the equipment we use for filming. The Moozilla costume and the camera crane.\nKay:\nThey really are treasures! I'm getting kinda excited!\nEdgeworth:\n(It's possible that some of this equipment was used in the crime... I'd better take a closer look.)\nShi-Long Lang\n\n\n\n\n\n\n\nLang:\nMr. Prosecutor. So we meet again.\nEdgeworth:\nIndeed. Just a few days ago, we met at the detention center...\n\n\nEdgeworth:\nAgent Lang. What brings you here?\nLang:\nJust some boring work. Nothing you need to know about.\n\n\nLang:\nTch. You always pick the worst time to show up. Anyone ever tell you that bad things happen when you're around? Just don't get in the way of my investigation, OK? I must avenge the death of our president...\n\n\n\nWhy were you here?\n\n\n\n\n\n\n\nEdgeworth:\nYou arrived here before us... What were you doing in a place like this?\nLang:\n.....You suspect me?\nEdgeworth:\nHeh... Come now.\nLang:\nI heard a scream. It was the woman who found the body... After hearing the scream, I came in through that entrance over there. Apparently, it wasn't locked.\nEdgeworth:\n(Then why is there a lock on the ground over there...? I should take a closer look.)\nLang:\nWhen I got in... ...woman who found the body was already running out the other exit over there.\nEdgeworth:\n(So he came here around the same time we did...) Why were you at the Bigg Building?\nLang:\nWell... I had my reasons...\nEdgeworth:\n(...He also said something along those lines when we met at the detention center.)\nKay:\nMaybe he's really a fan of giant monsters, and he came to sneak a peek at the Moozilla set?\nLang:\n...Giant monsters? I've no interest in such things.\nEdgeworth:\n(He clearly doesn't think the murderer is a monster either.)\n\n\n\n\nPresident Huang\n\n\n\n\n\n\n\nEdgeworth:\nIt's regrettable what happened to the president...\nLang:\n...Yeah. Huang was the pride of Zheng Fa. And yet...\nEdgeworth:\nIt seems like you were quite close to the president.\nLang:\nThe previous head of the Lang clan, my father, served under President Huang. Protecting the life of the president has long been our clan's greatest duty. My old man received a great number of special medals from the president himself... As a token of his trust, the president left his will in the protection of the Lang clan. Those medals and that will, they were the pride of our clan. Our family treasures, so to speak. Tch. Who would've thought the day to unseal that will... would arrive so soon!\nKay:\nSo then. I guess the president was like a close family friend... ...Huh? But during the incident at Gourd Lake... ...why weren't you with the president, Mr. Lang?\nLang:\n......Well. A lot has changed. It all happened over 12 years ago. Back then, he and my old man were close friends, and our clan protected the president's life. But then, he suddenly changed. It's as if he became an entirely different person... Nowadays, he doesn't even have a shred of faith in the police force of Zheng Fa.\nEdgeworth:\n(12 years ago... I wonder what went on them?)\nLang:\nEven so, I still respect the man. Zheng Fa is a small country. But he carried the nation with his strength. Damn it! Just what were his bodyguards doing!?\nEdgeworth:\nHave you already contacted the embassy?\nLang:\nYeah, of course. I've also informed Zheng Fa and my clan as well. It's gotten pretty hectic there, what with the will and all... ...but it'll be the same here. Once the bodyguards show up. If you don't wanna see me rip into them, I suggest you get out of here soon.\n\n\n\n\nPresent\n\n\n\n\n\n\n\n\n\nYatagarasu's Badge\n\n\n\n\n\n\n\nLang:\nThat's what the little crow-girl's always wearing on her clothes, isn't it?\nKay:\nIt represents the most powerful animal in nature, my Yatagarasu Badge. Isn't it awesome!?\nLang:\nMost powerful animal in nature...? Not so fast. I can't let that one slide. Lang Zi says: \"The wolf is mightier than the crow.\" Just one slash from a wolf's claw and your little crow would be nevermore.\nKay:\nTake that back, Wolfy! Thief Girl says: \"The crow soars above all others.\" I'll swoop in to peck the wolf to pieces and then fly back up to avoid the wolf's claws!\nLang:\nDon't underestimate a wolf's jumping ability! It'll bite the crow before it can fly away!\nKay:\nA crow can flap its wings so hard, it'll blow the big bad wolf away!\nLang:\nGrrrrr...\nKay:\nKaw kaw-kaw-kaw...\nEdgeworth:\n(They're squabbling like children.)\n\n\n\n\nMonster's Footprints or Monster Movie Flyer\n\n\n\n\n\n\n\nLang:\nTch. Moozilla? What're you asking me about that for?\nEdgeworth:\nI won't say the culprit is a monster, but it seems a little too early to say it's unrelated. If you know anything, then by all means, please tell me.\nLang:\nHmph. The president always had a Moozilla doll with him. I've caught a glimpse of it on occasion. That's how I knew.\nEdgeworth:\n(A Moozilla doll, huh... Indeed, there was one inside the president's plane.)\nKay:\nSo even a foreign president was a fan. Moozilla sure has international appeal. You know how different countries have different sounds for animal noises? So, I wonder what kind of sounds a foreign Moozilla would make?\nEdgeworth:\n(I don't even know what kind of sound a domestic Moozilla would make...)\n\n\n\n\nCrime Scene Notes\n\n\n\n\n\n\n\nLang:\nDamn it! You don't have to show me that! Whoever killed the president... ...you can be damned well sure I'm gonan catch 'em!\nEdgeworth:\n(Agent Lang... Whenever President Huang is brought up, he seems to lose his composure.)\nKay:\nI kinda feel bad for Mr. Lang... Isn't there anything we can do for him?\nEdgeworth:\nYes. And it is for that reason we must listen carefully to what he has to say.\n\n\n\n\nAnything else\n\n\n\n\n\n\n\nLang:\nYou keep shoving irrelevant nonsense under my nose... ...and I'll chew it to pieces!\nEdgeworth:\n(Hmm... I think I should put this away for now.)\n\n\n\n(Clearing all \"Talk\" options leads to:)\nLang:\n...Mr. Prosecutor. Right now, I'm just a single Interpol agent. A literal lone wolf. They probably won't let me be in charge of the investigation. But you better believe... my fangs are as sharp as ever...! I'd definitely capture the culprit with my own hands. And you'd better not get in my way.\nBody\n\n\n\n\n\n\n\nKay:\nWow... It really is the president.\nEdgeworth:\nYes. (To think we saw him alive just a few days ago...)\nKay:\nThat would make this a presidential assassination, right?\nEdgeworth:\nThis is a bit flashy for an assassination...\n\n\n\nBefore deducing and examining ground and body\n\n\n\n\n\n\n\nEdgeworth:\n(I won't rest until I've inspected every suspicious-looking nook and cranny.)\n\n\n\n\nAfter deducing and examining ground and body\n\n\n\n\n\n\n\nEdgeworth:\n(I already checked this area earlier, but it never hurts to take another look.)\n\n\n\n\nGround around the body\n\n\n\n\n\n\n\nKay:\nThere are broken pieces of concrete scattered all around the president.\nEdgeworth:\nYes. They were probably scattered about when the ground got damaged.\nKay:\nAnd that must have been when the monster's foot went \"Thud!\"\nEdgeworth:\nIf the culprit... was actually a monster.\nMonster's Footprints data jotted down in my Organizer.\nKay:\nHmm... It kinda looks like a hoof, the way it's split in two like that! Yup, it definitely looks like a monster's footprint to me! And there's even three of them (Three footprints - There are three footprints at the scene. They are shaped like hooves.), Mr. Edgeworth!\nEdgeworth:\nThere are no such things as monsters. Do you honestly believe they exist?\nKay:\nNo, not really... but wouldn't it be cool if they did exist!?\nEdgeworth:\n...We're searching for the truth, Kay. Not for what is cool.\n\n\n\n\nBody\n\n\n\n\n\n\n\nEdgeworth:\nThere are no visible external wounds... but it's clear that he's already passed away.\nKay:\nSo then, I guess he really did get stepped on by a... a...\nEdgeworth:\nA monster (Stepped on by a monster? - The president was found dead in the middle of what looks like a footprint.)...? Hmph. That's impossible.\nKay:\nHuh? Don't the president's clothes look a bit dirty to you?\nEdgeworth:\nIndeed, there appears to be some sort of yellow stain...\nKay:\nI bet it's monster drool!\nEdgeworth:\nKay, please be more serious. We'll need to have forensics take a closer look at this stain. (So, this was the state of the body... I should make a note of it.)\nCrime Scene Notes jotted down in my Organizer.\n\n\n\n\nHorn\n\n\n\n\n\n\n\nKay:\nWhat's this white thing...? W-Wait! Is this a bone!? Looks like we've got a new case on our hands!\nEdgeworth:\nIt looks less like a bone... and more like some kind of horn.\n\n\n\n\nDeduce (after talking about \"Filming a movie\")\n\n\n\n\n\n\n\nEdgeworth:\n(Is this spot somehow connected to any of the evidence I hold...?)\n\n\n\nDeduce horn and present Monster Movie Flyer\n\n\n\n\n\n\n\nEdgeworth:\n\nLeads to:\n\"Doesn't this horn belong to that monster, Moozilla?\"\n\n\n\n\nOtherwise\n\n\n\n\n\n\n\nEdgeworth:\n\nEdgeworth:\nThere's a connection between this spot and the evidence... I think!\nKay:\nHuh! What's the connection!?\nEdgeworth:\nHmph... That's what I'm going to figure out right now.\nKay:\nWhat!? You haven't figured it out yet!?\nEdgeworth:\nNngh! (I guess that was wrong. Wasn't there something that fell near the victim that was bothering me? I should look into that before going any further.)\n\n\nEdgeworth:\nDoesn't this horn belong to that monster, Moozilla?\nKay:\nYou're right! It looks just like it! Maybe it's a prop for the film?\nEdgeworth:\nBased on the size of the horn... the head should be quite large.\nKay:\nI wonder how it ended up here.\nEdgeworth:\nI'm sure we'll find out if we ask someone on the staff.\nLotta Hart\n\n\n\n\n\n\n\nLotta:\nWhaddaya want!? I'm a busy gal! Ya best not get in my way!\nEdgeworth:\nWhy are you so obsessed with that monster? Such a thing couldn't possibly exist...\nLotta:\nWhat'd ya say...!? I ain't lettin' that pass! Moozilla lives! I'm sure of it! It's the mightiest monster on this side of the Pacific Rim.\nEdgeworth:\nI don't suppose you have some kind of basis for that?\nLotta:\nI..... saw it with my own two eyes.\nKay:\nWhat!? You saw it...? No way...\nLotta:\nYes way! The Mighty Moozilla was really here! Last night, when I was on the 51st floor of the Bigg Building.\nEdgeworth:\nYou mean when you were snooping around the black market auction...\nLotta:\nThat's right! It was right around when I took this here photo!\nKay:\nThat's the photo of the person in the red hood! This was Jill Crane, right?\nLotta:\nYa see those blinds next to the red hood... Well, the Mighty Moozilla was on the other side!\nKay:\n.......Err. But there's nothing in the photo...\nLotta:\nIt's mighty hard to capture somethin' like that from such a distance! But I seen it plain as day! Moozilla's giant eye eas peerin' in through those blinds!\nEdgeworth:\n(The monster was peering in?)\nLotta:\nLookie here! Now ain't the time for this! I gotta gather my materials! Ya'll are in my way! Now go on, git! Shoo! Shoo!\nEdgeworth:\n(How absurd...)\nKay:\nMr. Edgeworth, you must be completely dumbfounded right now, aren't you?\nEdgeworth:\n(Hmph. Was it that clearly written on my face?)\nFilm crane\n\n\n\n\n\n\n\nKay:\n...I wonder what this iron pole is for? Oh, maybe it's used to practice tree climbing?\nEdgeworth:\nNo, this is a film crane. It's used to capture footage from high locations. Right now it's not attached, but normally there would be a camera connected to the end.\nKay:\nI get it! This would be perfect for scoping out the places you're trying to steal from...! Do you think they would let me borrow this?\nEdgeworth:\nAnd how exactly, may I ask, do you intend to bring it back home with you?\nKay:\nMr. Edgeworth, you can take the base, and I'll take the top part...\nEdgeworth:\n(...Does she actually expect me to help her?)\nKay:\nIf we take it nice and slow... we might be able to make it to your house, Mr. Edgeworth...\nEdgeworth:\n(...Not only do you want me to help you carry it, but you plan to leave it at my house!?)\nVinyl sheets\n\n\n\n\n\n\n\nKay:\nAh! It's one of those sheets you lay out on the floor when you're having a picnic!\nEdgeworth:\nIt's definitely a vinyl sheet, however... (I don't think it's for picnics.)\nPenny:\nUmm... Mr. Edgeworth. I-If I may... That's actually a waterproof sheet. It's used with the camera crane over there. We'll cover the camera crane with it when it's raining.\nKay:\nThen, this sheet... must be pretty big.\nPenny:\nYes. It would be pointless if we didn't cover up the entire crane. The weather was overcast yesterday, so we've been using it quite a bit.\nBroken lock\n\n\n\n\n\n\n\nEdgeworth:\nMs. Nichols, where does this entrance lead to...?\nPenny:\nIt's connected to the Bigg Building lot.\nEdgeworth:\n(Does this case also have something to do with that building? The building with a secret 51st floor, where the black market auctions were being held. It wouldn't be strange if it were still hiding a few more secrets...)\nBigg Building data jotted down in my Organizer.\nEdgeworth:\n(Hm? This lock and chain...?)\nKay:\nAh! Someone cut through the chain!\nPenny:\nWhat? I'm sure it was locked up properly yesterday though.\nEdgeworth:\nThen, it's possible the culprit forced his way in through here... (Rear entrance forced open - The chain on the rear entrance was cut. Did the culprit do it?)\nPenny:\nAhh!\nEdgeworth:\n(Wh-What is it...?)\nPenny:\nIt's completely dented in... How did this happen!?\nEdgeworth:\n...Hmm. There is indeed a huge dent in the fence over there. Something rather heavy must have struck it, in order to make a dent like that.\nPenny:\nIt wasn't like that at all yesterday...\nEdgeworth:\n(It wasn't...? So this dent (Dented fence - Yesterday it was still fine. Did it get struck by something heavy?) was made last night...)\nBroken lock (subsequent times)\n\n\n\n\n\n\n\nEdgeworth:\nThis leads to the Bigg Building.\nKay:\nBut from where I'm standing, all I can see are just your everyday run-of-the-mill buildings. I don't see anyone special around here either.\nEdgeworth:\nIndeed. At least from where we're standing, that is. ...Now then, we have no time to waste. We should get back to investigating the film lot.\n(Connecting \"Stepped on by a monster?\" and \"Monster's head\" Logic leads to:)\nLang:\nMr. Prosecutor. I'm going to take my leave here for a bit. There's something I have to check...\nEdgeworth:\n(Agent Lang. I wonder if he's caught onto something?) Hm?\n???:\n........ ........\nLang:\n........\n???:\n.....Move it.\nLang:\nWhat'd you say? Guess you're just a brat with no manners.\n???:\n...And you're an annoying old man. Quit your yapping already.\nLang:\n!\nPenny:\nI-I'm terribly sorry! Come on, John!\nLang:\nTch!\nPenny:\nOh! What were you doing!?\n???:\n.......Who was that?\nPenny:\nSomeone from the police! Why'd you suddenly pick a fight with him?\n???:\nHmph.\nKay:\nThat sure was a tense standoff!\nEdgeworth:\n(He didn't budge an inch, even before Agent Lang...)\nPenny:\nAh! Allow me to introduce you! This is John Marsh. He's the lead actor in our movie.\nEdgeworth:\n(The lead actor... is this child?)\nKay:\nHi! I'm Kay Faraday. Nice to meet you!\nEdgeworth:\nAnd this is Prosecutor Miles Edgeworth.\nJohn:\n.......Prosecutor?\nPenny:\nHe's a pretty famous prosecutor, you know.\nJohn:\nBut he's not wearing a prosecutor's badge.\nEdgeworth:\nGah! (He's frightfully perceptive...)\nPenny:\nAh! John, it's probably better if you didn't go over there...\nJohn:\n............\nEdgeworth:\n(That's certainly not a sight a child should see... However, he is someone involved with the case. I'll need to speak with him later.)\nUpstairs\n\n\n\n\n\n\n\nEdgeworth:\nMay we see the roof?\nPenny:\nYes, of course! Go right ahead!\nEdgeworth:\n(So, this is... Moozilla?)\nKay:\nHuh? Somehow this doesn't feel quite right... See, this looks way cooler. ...And he doesn't have a nose ring either.\nPenny:\nAh, I see. You two aren't familiar with Moozilla. This is Moozilla's original design from 12 years ago!\nKay:\nWhaaat!? Th-Then, what's this?\nPenny:\nThat's our take on it for the new movie. We revamped the design to appeal to modern audiences!\nKay:\n\"Revamped\"...? But it looks totally different! And, no matter how you look at this one...\nEdgeworth:\n...it's a cow...\nPenny:\nWell, of course. After all, Moozilla was originally a cow monster.\nKay:\nA c-cow monster...?\nPenny:\nHaving a cow, an animal that humans are very familiar with, turn into a monster... ...allows us to question mankind's relationship with nature! That's the theme of Moozilla.\nKay:\n......Meh. I just don't get it.\nEdgeworth:\nNor do I...\n\n\n\nBefore examining model and table\n\n\n\n\n\n\n\nEdgeworth:\n(I won't rest until I've inspected every suspicious-looking nook and cranny.)\n\n\n\n\nAfter examining model and table\n\n\n\n\n\n\n\nEdgeworth:\n(I already checked this area earlier, but it never hurts to take another look.)\n\n\n\n\nHeater\n\n\n\n\n\n\n\nKay:\nThere's a heater here. Do you think the staff uses it to keep themselves warm?\nEdgeworth:\nIt's possible. Although it may be spring, it can still get rather chilly at night.\nKay:\nM-Mr. Edgeworth! People are gonna think you're an old geezer if you say stuff like that! Even in the best of times, you tend to see things like an old man... Can't you at least TRY to be more cheerful and lively when you talk?\nEdgeworth:\n(Do I really seem that unlively...?)\n\n\n\n\nPaint thinner\n\n\n\n\n\n\n\nEdgeworth:\nThere is a can of paint thinner here. It's probably used for making props.\nKay:\nMr. Edgeworth, doesn't the area around here look kinda burnt?\nEdgeworth:\nIt does. This spread-out blue sheet, newspaper, and the side of this can all look burnt.\nKay:\nHmm. I wonder if this Moozilla's head can also shoot out flames? Well, this old Moozilla design doesn't really look like it could breathe fire anyways.\nEdgeworth:\n(That's not our main concern... but I'm certainly curious.)\n\n\n\n\nModel\n\n\n\n\n\n\n\nPenny:\nWe made this replica of the original Moozilla's head for promotional purposes. We'll be using it to let people know that the film is a sequel to the original series.\nKay:\nI guess it would be hard for people to tell that they're the same monster.\nEdgeworth:\nAs we suspected, one of the horns appears to be broken...\nKay:\nSo, did this head really crush the president?\nEdgeworth:\nIt's possible, however... there's something I don't quite understand.\nKay:\nWhat's that?\nEdgeworth:\nMs. Nichols. This head looks rather heavy... How do you transport it?\nPenny:\nAh, it's made so that it can be taken apart. It's not that hard, if you know how to do it. But, if you don't know how, it'd be pretty much impossible, I think.\nEdgeworth:\n(Which means it would be difficult for anyone not involved in the film...) When taken apart, would it be possible for one person to carry it alone?\nPenny:\nDefinitely. Given enough time, even I could do it!\nMoozilla's Head data jotted down in my Organizer.\nEdgeworth:\n(However, this face is...)\nKay:\nMr. Edgeworth. Umm... I feel like I've seen this cow somewhere before...\nEdgeworth:\nIndeed. I was just thinking the exact same thing. (It was on board the president's plane... ...and in the storeroom of the black market auction...) The president's stuffed toy...\nKay:\nSo, that was a doll of the original Moozilla...\nEdgeworth:\n(Could this really be just a coincidence?)\nMoozilla Doll data jotted down in my Organizer.\n\n\n\n\nModel (subsequent times)\n\n\n\n\n\n\n\nKay:\nSince he had a Moozilla doll with him, maybe the president was a big fan. And, his love for Moozilla was so great that he tried picking up the head and got crushed.\nEdgeworth:\nI doubt a normal person would have the strength to lift this up. Since he wasn't involved with the movie, he wouldn't have known how to take it apart.\nKay:\nHmm. If Moozilla really existed, that would explain everything though... Can't you just connect the pieces in that direction for once...? With logic, I mean.\nEdgeworth:\nPlease don't give me that look.\n\n\n\n\nTable\n\n\n\n\n\n\n\nEdgeworth:\nSome sort of wooden stand has fallen over. The area around it seems to be burnt black.\nPenny:\nHuh? Moozilla's head should have been on that stand...\nKay:\nBut, the legs have broken off... It doesn't look like it can be used anymore.\nEdgeworth:\nHmm. The broken legs seem to be badly burnt. I think it's safe to assume that a small fire occurred here.\nKay:\nA small fire, huh? Is that what burnt and broke the legs of the stand?\nEdgeworth:\nWhen the legs broke, the stand would have tilted. If Moozilla's head was on top of the stand...\nKay:\n...it would've fallen off! So, the head fell down because of the fire!\nEdgeworth:\nYes. And if that's the case, I also have a pretty good idea what caused the fire. There's a flammable can next to the heater. It seems someone is lacking in safety awareness.\nPenny:\nOooh... I'm sorry. I'll make sure this doesn't happen again...! But, I don't think anyone used the heater yesterday...\nEdgeworth:\n(I see. In that case... I wonder what caused the fire?)\n\n\n\n\nLight stand\n\n\n\n\n\n\n\nKay:\nI could probably carry a light stand of this size on my shoulder.\nEdgeworth:\nKay. Don't tell me you're planning to steal this.\nKay:\nOf course not! But if I carried this around with me... ...I could shine a spotlight on you whenever you shout \"Objection\"! Man, that sounds so cool! ...So, when should we start?\nEdgeworth:\nNever, please.\nPenny Nichols\n\n\n\n\n\n\n\n\n\nPresent\n\n\n\n\n\n\n\n\n\nMoozilla Doll\n\n\n\n\n\n\n\nPenny:\nAh, that's a first-generation Moozilla plushie! ...So you knew about it?\nEdgeworth:\nNo. I only happened to see the doll. I didn't know anything about the films.\nKay:\nI think this is much cuter than the head on the roof. It's a little dirty though.\nPenny:\nThat can't be helped. Those were sold quite a long time ago, after all. Back then, it was aimed at children, and it seems to have had moderate success. I heard a lot of them were sold as presents.\nKay:\nIf someone gave me one as a present, I'd want the new and improved version of Moozilla. If someone were to give me a present, that is!\nEdgeworth:\n(Why is she looking at me when she says that...?)\n\n\n\n\nCommemorative Photo\n\n\n\n\n\n\n\nPenny:\nAh. It's the photo that John brought.\nKay:\nWho took this photo?\nPenny:\nThe camera has a self-timer. We took it with just the three of us.\nEdgeworth:\nSo, about the third person... Just who is in that Moozilla costume in the background?\nPenny:\nThat's... actually, rather than me telling you, it'd be better if you found out for yourself. I think they'll be outside the studio lot, so if you get a chance later, please go there.\nEdgeworth:\nHmm. Later... huh. Understood. We'll do that.\nJohn Marsh\n\n\n\n\n\n\n\nJohn:\n............\nEdgeworth:\nJohn was it? Would you mind if I asked you a few questions?\nJohn:\n...Hey old man, you really a prosecutor?\nEdgeworth:\nYes. (Hmph. Old man...?)\nJohn:\nThen, first show me your prosecutor's badge.\nEdgeworth:\nI don't have my badge with me right now...\nJohn:\nThen, you can't prove you're a prosecutor, old man.\nEdgeworth:\nNgh!\nKay:\nHmm. This kind is a tough nut to crack, isn't he? Want me to give it a try?\nEdgeworth:\nYes. I'm counting on you Kay. (I'm not good with kids...)\n\n\n\nJohn Marsh\n\n\n\n\n\n\n\nKay:\nSo John, you're an actor?\nJohn:\n.....Yeah. What about it?\nKay:\nYou're amazing! That's so cool!\nJohn:\n.....N-Not really.\nEdgeworth:\n(Hmph. Good grief. At least that seems to have worked.)\nKay:\nUmm, about those horns...\nJohn:\n...Wh-What about them?\nPenny:\nJohn's horns are specially made prosthetics. John plays a young boy who has a special connection with Moozilla. He can communicate with Moozilla using those horns. Right, John?\nJohn:\nShut up. Stop blabbering about that stupid stuff!\nPenny:\nOoh... S-Sorry.\nEdgeworth:\n(I think I'm beginning to see the kind of relationship these two have...)\nKay:\nBut it must be amazing! To star in a movie! And you're only in elementary school!\nJohn:\n\n\n\nPenny:\nAh! D-Despite how he looks, John is 13 years old and he's already in middle school...\nKay:\nWhaaat! But... he's so small. And he's wearing a kiddy backpack!\nPenny:\nThe backpack is a part of his costume. He's an actor, after all.\nKay:\nI-I see. But... he's still really tiny.\nPenny:\nI-It's probably better if you didn't talk about his height in front of...\nJohn:\nI thought I told you to stop blabbering about stupid stuff!\nPenny:\nS-Sorry!\nEdgeworth:\n(It seems the only thing that's not a prop is that milk carton.)\n\n\n\n\nThe president (appears after John Marsh)\n\n\n\n\n\n\n\nJohn:\nThat guy over there... He's the president, right?\nKay:\nYup. Do you know him?\nJohn:\n.....Yeah. I've met him before.\nEdgeworth:\n(This boy... has met with the president?)\nJohn:\n.....Hmph. That guy makes me sick.\nKay:\nTh-That's not a very nice thing to say. Why do you hate the president so much?\nJohn:\n........\nKay:\nHuh... And now he's giving me the silent treatment...\nPenny:\nU-Um! The truth is, the president was involved in the film.\nEdgeworth:\nThe president was involved in the film? What do you mean?\nPenny:\nHe was supposed to have a brief cameo in the movie. He came by to look around the set some time ago. That was when he met with John.\nEdgeworth:\nWhy would the president be appearing in this film?\nPenny:\nWe heard he was a fan of the original Moozilla series... And so we made him an offer. We thought it would make great publicity, you see.\nJohn:\n...He comes on the movie set like he's on some sightseeing tour. It's so annoying.\nPenny:\nJohn, you really shouldn't say stuff like that. It's not nice.\nJohn:\n...Shut it.\nEdgeworth:\n(I guess he couldn't tolerate having an amateur appear in his film...)\n\n\n\n\nPresent\n\n\n\n\n\n\n\n\n\nMonster Movie Flyer, Moozilla's Head, Moozilla Doll, or Commemorative Photo\n\n\n\n\n\n\n\nJohn:\nMoozilla only exists in the movies... For it to become an actual incident... The thought never even crossed my mind.\nEdgeworth:\nJohn. I'd like you to cooperate with the investigation.\nJohn:\nHmph. In that case, maybe you should make me care enough to cooperate, old man.\nEdgeworth:\n(Hmm... He's not very approachable.)\nKay:\nJohn! If you cooperate with us, I'll give you some delicious candy!\nJohn:\nYou think that'll work on me? Don't treat me like a kid!\nKay:\nAww. Even my candy crush attack didn't work. What a bummer.\nEdgeworth:\n(...Candy crush attack?)\n\n\n\n\nAnything else\n\n\n\n\n\n\n\nJohn:\nWhat's that supposed to be? Giving me that isn't gonna land you a role in the film.\nEdgeworth:\n(I wasn't showing it to you so that I could be in the movie...)\nKay:\nHmm... So then, what do we have to do appear in the movie?\nEdgeworth:\n...Kay, let's just leave it at that, shall we?\n\n\n\n(Clearing all \"Talk\" option leads to:)\nPenny:\n......\nJohn:\n......Oh, right. Here.\nPenny:\nWhat's this? Ah, was this from yesterday?\nEdgeworth:\n(A photo...?)\nJohn:\n...Yeah. Since it was developed, I brought it along with me. You can have it.\nPenny:\nI think it turned out quite nicely! So you brought it all the way here for me? Thank you so much.\nJohn:\n...No, not really. I just happened to have it with me.\nEdgeworth:\nExcuse me, but... May I take a quick look at it?\nPenny:\nOh, sure. Here you go!\nEdgeworth:\n(So this was taken yesterday... Neither the hoofprints nor the body are in it.)\nCommemorative Photo data jotted down in my Organizer.\n(Connecting all possible Logic, examining ground around the body, original Moozilla model and table, clearing all \"Talk\" options of Penny and John, and talking with Lotta leads to:)\nInvestigation Complete\nEdgeworth:\nAnd with that, this portion of the investigation seems to be finished.\nKay:\nSo the murder weapon really is...\nEdgeworth:\nYes. As it stands now, the possibility that it was the monster head is quite high.\nKay:\nSo he ended up being squashed by the falling head, huh...\nEdgeworth:\nHm?\nLang:\nAlthough they're extremely late to the party, the bodyguards and the police have finally arrived.\nBodyguard:\nMr. President!\nLang:\nThey really were... far too late.\nBodyguard:\nDamn it! Who did this!?\nLang:\n...They'll pay for this. I swear I'll make them pay. But you know, this much is enough to put me at ease. The person who did this to Huang... ...I've already got my eye on a suspect.\nEdgeworth:\nWhat? What do you mean?\nLang:\nEven though Huang was the victim, he doesn't have extraterritorial rights here. Your country's police have the right to investigate. However, I've already spoken with them. As an agent of Interpol, they're letting me assist in the investigation...\nEdgeworth:\n...So they've already established a plan for this investigation?\nLang:\nI've already found my prey. Now it's time for the hunt... ...Take a look at this. It's a printout from a security camera on the Bigg Building rooftop.\nEdgeworth:\nTh... This is!\nLang:\nThis camera records people as they get off the rooftop elevator. And guess who was recorded? The president and his killer can be clearly seen!\nKay:\nWh-Why is Ms. Gravelle there!?\nEdgeworth:\n(So he's saying Judge Gravelle is the murder?)\nGravelle:\nProsecutor Edgeworth. I shall leave this offering to the Goddess of Law to you. Deliver her divine judgment against Blaise Debeste!\nEdgeworth:\n(Could she, who hates crime more than anyone, have...?)\nSecurity Camera Photo jotted down in my Organizer.\nEdgeworth:\n...Agent Lang. I'd like to hear your thoughts.\nLang:\nLang:\n............ Just now, I heard a rumor at the Bigg Building. Miles Edgeworth, that you... are no longer a \"prosecutor\".\nEdgeworth:\n!\nLang:\nNaturally, that means you don't even have a shred of investigate authority. So what would be the point of having a logic battle with someone like you?\nEdgeworth:\n(Hmph...!)\nKay:\nWhy would you say something like that!? Didn't you also just get reduced to being a lone agent!?\nLang:\n.......... Hey. Answer me this. Even though you've lost your position as a \"prosecutor\"... ...why are you sticking your neck into this case?\nEdgeworth:\n........ (Why do I still continue to investigate...?) Agent Lang... Why are you pursuing the criminal who murdered the president? Because you're an Interpol agent?\nLang:\n..........\nEdgeworth:\nRight now, I am also chasing after a certain person. Someone in the shadows, who was behind the murder at the Bigg Building yesterday... Someone who placed Kay in grave danger. ...Even now, they are lurking somewhere, laughing at us. We will uncover the truth, and bring them to justice... ...and a title such as \"prosecutor\" has nothing to do with it. As long as the truth remains hidden... ...I will continue to seek out that truth. For that is a part of my creed.\nLang:\n........Haha! You... You're always trying to be so clever, but you really are kind of an idiot.\nEdgeworth:\n(Hmph. Me, an idiot? How rude...)\nLang:\nThat's the answer I wanted to hear. ...Alright, I'll play along with you for a bit. I've lost all my men, and you've lost your title. And yet, we still continue to investigate... Let's begin this battle of logic between two kindred spirits!\nEdgeworth:\nYou have my thanks...\nLang:\nHowever, I won't go easy on you. I'll definitely catch the criminal who murdered Huang. And I won't let you get in my way!\nEdgeworth:\nYes... I wouldn't have it any other way!\nLang:\nLet me show you the truth that this wolf has sunk his fangs into!\n-- Why Gravelle? --\nLang:\nListen up. That woman met with the president on top of the Bigg Building.\nTwo nights ago, she pushed the president off the roof, and he fell onto this film lot.\nAt the time, there was no one else on the rooftop, aside from those two.\nThere's no room for doubt! That woman murdered the president!\nEdgeworth:\nIt was just the two of them alone on the rooftop... No bodyguards?\nLang:\nYeah. I confirmed it with those bodyguards over there. They didn't know about it either. Guess he managed to give them the slip. He must've had something secret to talk about.\nEdgeworth:\n(President Huang and Judge Gravelle... Did those two have some sort of connection?)\nLang:\nApparently, he had an arrangement with the owner of the Bigg Building. He requested the entrance to the viewing platform be restricted so that they could be alone. Well, it's not like the owner could turn down a request from the president.\nKay:\nDoes that mean... the last person to see the president was...\nLang:\nExactly... Gravelle, you mean? It's gotta be her!\nEdgeworth:\n(Agent Lang's reasoning is certainly sound... However, he has overlooked one major thing...! ...and that's where I must strike!)\n\nEdgeworth: Edgeworth: How can you be so sure that the two actually met? Lang: Hmph. Attacking right off the bat... Your fighter's instinct, it's not bad. Trying to keep me in check from the opening move. Impressive. Edgeworth: (No, that wasn't exactly my intention...) Lang: Still, Mr. Prosecutor, I've only just begun. So why don't you pipe down and listen up?\nEdgeworth: Edgeworth: Two nights ago...? Are you certain? Lang: Hmph! If you doubt me, then take a look for yourself! This picture was taken by the security camera on the roof of the Bigg Building... This was undoubtedly taken the night before last! Edgeworth: Edgeworth: All this picture shows is that they went to the rooftop together. There's no indication of what transpired afterwards. Lang: The security cameras were only installed in front of the elevator. There's nothing to show what happened on the viewing platform, but... ...I'm certain of it! That was when the crime took place! Edgeworth: (Hmm. If the president really was murdered two nights ago... ...it would mean that the body has been here ever since.) Lang: What's wrong, Mr. Prosecutor? Something on your mind? But, it's not over yet. I'm just getting started.\nEdgeworth: Edgeworth: Someone could have been hiding on the viewing platform! Kay: That's right! There was even a cotton candy stall up there! Lang: Lang: The owner of the building had been secretly contacted by the president. He could ill-afford any slip ups, so the owner frantically made sure secrecy was maintained. Everyone and everything was cleared out, including the sugar for the cotton candy! Kay: E... Even the sugar...? That's just too cruel! Lang: However, it was all for naught. The president still met his end...\nEdgeworth: Edgeworth: Do you really think there is no room for doubt? Lang: Heh! Of course I do! The time, the place... Everything points to that woman committing the crime! Edgeworth: I see. The time and the place, everything... huh? (The time following the president's death and where his body was found... It seems I have reached the heart of the matter.)\nEdgeworth: (Agent Lang has overlooked something major...! ...and that's where I must strike!)",
+      "testimonies": [
+        {
+          "testimony": "Listen up. That woman met with the president on top of the Bigg Building.",
+          "person": "Lang",
+          "present": []
+        },
+        {
+          "testimony": "Two nights ago, she pushed the president off the roof, and he fell onto this film lot.",
+          "person": "Lang",
+          "present": [
+            "Behind-the-Scenes Photo"
+          ],
+          "source": {
+            "evidence_span": "Photo taken yesterday. No monster footprints and no body were visible at that point.",
+            "testimony_span": "Two nights ago, she pushed the president off the roof, and he fell onto this film lot.",
+            "is_self_contained": "yes",
+            "context_span": ""
+          }
+        },
+        {
+          "testimony": "At the time, there was no one else on the rooftop, aside from those two.",
+          "person": "Lang",
+          "present": []
+        },
+        {
+          "testimony": "There's no room for doubt! That woman murdered the president!",
+          "person": "Lang",
+          "present": []
+        }
+      ],
+      "summarizedContext": "Agent Lang is accusing Judge Gravelle of murdering the president.",
+      "noPresent": false,
+      "labels": [
+        "temporal"
+      ],
+      "reasoning": [
+        "Fact 1: The witness claims the victim died on the film lot two nights ago.",
+        "Fact 2: The evidence suggests no body was on the film lot yesterday.",
+        "Prop 1: If a person died two nights ago, their body will be at that location yesterday."
+      ]
+    },
+    {
+      "category": "rebuttal",
+      "newContext": "-- Why Gravelle? --\nLang:\nListen up. That woman met with the president on top of the Bigg Building.\nPress\n\n\n\n\n\n\n\nEdgeworth:\n\nEdgeworth:\nHow can you be so sure that the two actually met?\nLang:\nHmph. Attacking right off the bat... Your fighter's instinct, it's not bad. Trying to keep me in check from the opening move. Impressive.\nEdgeworth:\n(No, that wasn't exactly my intention...)\nLang:\nStill, Mr. Prosecutor, I've only just begun. So why don't you pipe down and listen up?\nLang:\nTwo nights ago, she pushed the president off the roof, and he fell onto this film lot.\nPress\n\n\n\n\n\n\n\nEdgeworth:\n\nEdgeworth:\nTwo nights ago...? Are you certain?\nLang:\nHmph! If you doubt me, then take a look for yourself! This picture was taken by the security camera on the roof of the Bigg Building... This was undoubtedly taken the night before last!\nEdgeworth:\n\nEdgeworth:\nAll this picture shows is that they went to the rooftop together. There's no indication of what transpired afterwards.\nLang:\nThe security cameras were only installed in front of the elevator. There's nothing to show what happened on the viewing platform, but... ...I'm certain of it! That was when the crime took place!\nEdgeworth:\n(Hmm. If the president really was murdered two nights ago... ...it would mean that the body has been here ever since.)\nLang:\nWhat's wrong, Mr. Prosecutor? Something on your mind? But, it's not over yet. I'm just getting started.\nPresent Commemorative Photo\n\n\n\n\n\n\n\nEdgeworth:\n\nLeads to:\n\"Shi-Long Lang... For the Interpol agent with the highest arrest rate to have fallen so low.\"\nLang:\nAt the time, there was no one else on the rooftop, aside from those two.\nPress\n\n\n\n\n\n\n\nEdgeworth:\n\nEdgeworth:\nSomeone could have been hiding on the viewing platform!\nKay:\nThat's right! There was even a cotton candy stall up there!\nLang:\n\nLang:\nThe owner of the building had been secretly contacted by the president. He could ill-afford any slip ups, so the owner frantically made sure secrecy was maintained. Everyone and everything was cleared out, including the sugar for the cotton candy!\nKay:\nE... Even the sugar...? That's just too cruel!\nLang:\nHowever, it was all for naught. The president still met his end...\nLang:\nThere's no room for doubt! That woman murdered the president!\nPress\n\n\n\n\n\n\n\nEdgeworth:\n\nEdgeworth:\nDo you really think there is no room for doubt?\nLang:\nHeh! Of course I do! The time, the place... Everything points to that woman committing the crime!\nEdgeworth:\nI see. The time and the place, everything... huh? (The time following the president's death and where his body was found... It seems I have reached the heart of the matter.)\nEdgeworth:\n(Agent Lang has overlooked something major...! ...and that's where I must strike!)\nEdgeworth:\nShi-Long Lang... For the Interpol agent with the highest arrest rate to have fallen so low.\nLang:\nWhat'd you say...!?\nEdgeworth:\nThis is a commemorative photo taken by the staff at Global Studios.\nKay:\nEveryone's got such great smiles! ...Well, except for John.\nEdgeworth:\nThis photo was taken yesterday.\nLang:\nWhat!?\nEdgeworth:\nIf Judge Gravelle had murdered the president two days ago... ...then his body should have been there when this photo was taken!\nLang:\nOwwoooooooh!\nLang:\nHeh. Perhaps you should have listened a bit more carefully to those involved in the case. Questioning witnesses is one of the basic fundamentals of an investigation, is it not?\nKay:\nI've captured Mr. Edgeworth's great smile! You really do look most alive when you're cornering your opponent!\nLang:\nGrr... Just as I expected. It's been a while since I've felt like this.\nEdgeworth:\nAgent Lang, haven't you been a little hasty in your reasoning?\nLang:\n........Tch. I don't need your advice. Lang Zi says: \"The wrath of a wolf lasts a hundred years.\" My anger towards the woman who killed the president cannot be suppressed.\nEdgeworth:\nI, too, wish to capture the culprit. However... ...there is no doubt that the body appeared here last night. Therefore... the president could not have fallen to his death.\nKay:\nYeah! He was crushed by the monster head!\nEdgeworth:\nThe crime occurred here at the film lot, not on the rooftop of the Bigg Building.\nLang:\nLang:\nSo, that's what you think. Still, I don't intend to stray from my logic either.\nEdgeworth:\nHowever, he could not have fallen to his death two nights ago. This photo proves that...\nLang:\nIs that so? Think about it this way... Two nights ago, Gravelle pushed the president off the roof and killed him. Afterwards, she snuck into the film lot to hide the body.\nEdgeworth:\nIn here?\nLang:\nWouldn't it be easy to hide a body in costume or behind all this equipment? Then, all she had to do last night was retrieve the body. Once we search this area, we'll know where she hid the body.\nEdgeworth:\nEdgeworth:\nUnfortunately, there is no need for a search.\nLang:\nWhat'd you say!?\nEdgeworth:\nThis piece of evidence proves that Judge Gravelle could not have hidden the body!\nPresent Combination Lock\n\n\n\n\n\n\n\nEdgeworth:\n\nLeads to:\n\"All the entrances to the film lot were locked.\"\nPresent anything else\n\n\n\n\n\n\n\nEdgeworth:\n\nLang:\nMr. Prosecutor. That's the evidence you were talking about?\nEdgeworth:\nIndeed. If you look at this piece of evidence, you'll see that Judge Gravelle could not have...\nLang:\n\nLang:\nMr. Prosecutor, you'd better get that thing out of my face. Arguing about pointless objects is a waste of my time!\nEdgeworth:\nNnghhoooh! (So this wasn't it!)\nKay:\nMr. Lang says that Ms. Gravelle moved the body, but... ...wouldn't it be impossible for Ms. Gravelle to enter the film lot in the first place?\nEdgeworth:\n(Whether Judge Gravelle could have entered the crime scene or not... Don't I have a piece of evidence which proves that?)\nLang:\nIt was that woman who moved the body. Ready to admit defeat, Mr. Prosecutor?\nEdgeworth:\nNo, Agent Lang. That is impossible.\nLeads back to:\n\"This piece of evidence proves that Judge Gravelle could not have hidden the body!\"\nEdgeworth:\nAll the entrances to the film lot were locked. The chain on the back entrance was only cut last night.\nLang:\nWhat!?\nEdgeworth:\nTherefore, Judge Gravelle could not have entered the film lot two nights ago!\nLang:\nAiyaaaaa! But the president could only have fallen two nights ago!\nEdgeworth:\n...Why are you so insistent that the crime occurred two days ago?\nLang:\nWhy...? Because there's still more to the security camera footage.\n-- Why Gravelle? Pt. 2 --\nLang:\nA photo was recorded 10–20 minutes after the president went up to the roof with that woman.\nThat woman, she came back down on the elevator alone.\nAfter that, there was no sign of the president getting on the elevator at all!\nThere's no other way for the president to get down without using the elevator, is there?\nBesides getting pushed off the roof by that woman, that is!\nEdgeworth:\nThe president never came down from the rooftop?\nLang:\nThat's right. The security camera is always watching the entrance of the elevator. It was specifically set up to record anyone who entered or exited the rooftop. Essentially, the camera created a locked room... one which the president vanished from!\nEdgeworth:\n(A locked room... I see. This is quite an unfavorable piece of evidence for Judge Gravelle...)\nSecurity Camera Photo data updated in my Organizer.\nKay:\nA rooftop escape! That's a difficult feat!\nEdgeworth:\nSo even the Yatagarasu can't just fly through the sky.\nKay:\nThat's right. I... I still need more training to be able to pull that off.\nEdgeworth:\n(Are you saying you're going to train yourself to fly?)\n\nEdgeworth: Edgeworth: \"10-20 minutes\"... That's rather vague. Lang: The problem here isn't when it happened. At least, not right now. What's important is what that woman did after that. Edgeworth: ...What Judge Gravelle did? Could you tell me about it in more detail? Lang: Hmph. That's what I was going to do.\nEdgeworth: Edgeworth: Are you certain she was alone in the elevator? Lang: Yeah, I'm sure. It'd been 10-20 minutes after they went up to the roof... The security camera by the elevator only recorded that woman. She was definitely alone. I saw it with my own two eyes! Edgeworth: (Hmm... Judge Gravelle returned alone on the elevator. This point seems to be accurate.) Kay: Hmm, that's strange. Isn't Ms. Gravelle always together with the Goddess of Law? Edgeworth: In this case, we aren't counting ethereal beings. Kay: Aww. Poor Goddess of Law. We should give her an offering to lift her spirits! Edgeworth: ...Returning to the topic at hand... Agent Lang, could the president have used the elevator after Judge Gravelle? Lang: Yeah. I thought of that too. However...\nEdgeworth: Edgeworth: Just to be sure... the camera didn't have any blind spots or malfunctions, right? Lang: You think I'd make a mistake like that? Are you mocking my investigation? Edgeworth: No. It is simply my nature to question everything. Lang: Tch! At any rate, this footage can be trusted. I'm sure of that. The persistent took the elevator on the way up with that woman, but he never came back down! Edgeworth: Understood. While I reserve judgment on your logic, I shall trust in your investigation. Lang: Oh, is that how it is? Do what you want. ...It won't change a thing.\nEdgeworth: Edgeworth: And if there were, in fact, some other way besides the elevator...? Lang: Lang: From the roof of a 50-story building? Hah! That's ridiculous. Without the elevator, there's no way to go down, let alone get off the viewing platform. You'll need something better than that to break my logic! Edgeworth: (A way to get off the rooftop viewing platform, without using the elevator...) Lang: How about it, Mr. Prosecutor? Do you understand now? There is no reason for the president to be lying sprawled out on the pavement here...\nEdgeworth: Edgeworth: Agent Lang. It's still too early to make that conclusion. Lang: Hmph. No matter how much you struggle, there's no escape from my fangs. Edgeworth: I wonder about that. Perhaps there is a hidden route... ...that allows us to escape from the locked room and your fangs simultaneously. Kay: Whoa! The proclamation of a miraculous escape! Even a Great Thief's gotta pay attention! Lang: Now you've said it, Mr. Prosecutor. If that's what you think, then show me... ...that \"hidden route\" of yours!\nEdgeworth: (A locked room created by the security camera... Is falling off the roof really the only way to escape this locked room?)",
+      "testimonies": [
+        {
+          "testimony": "A photo was recorded 10–20 minutes after the president went up to the roof with that woman.",
+          "person": "Lang",
+          "present": []
+        },
+        {
+          "testimony": "That woman, she came back down on the elevator alone.",
+          "person": "Lang",
+          "present": []
+        },
+        {
+          "testimony": "After that, there was no sign of the president getting on the elevator at all!",
+          "person": "Lang",
+          "present": []
+        },
+        {
+          "testimony": "There's no other way for the president to get down without using the elevator, is there?",
+          "person": "Lang",
+          "present": [
+            "Bigg Building"
+          ],
+          "source": {
+            "evidence_span": "There is an entrance to the hidden fifty-first floor on the roof.",
+            "testimony_span": "There's no other way for the president to get down without using the elevator",
+            "is_self_contained": "yes",
+            "context_span": ""
+          }
+        },
+        {
+          "testimony": "Besides getting pushed off the roof by that woman, that is!",
+          "person": "Lang",
+          "present": []
+        }
+      ],
+      "summarizedContext": "Agent Lang is accusing Judge Gravelle of murdering the president.",
+      "noPresent": false,
+      "labels": [
+        "spatial",
+        "causal"
+      ],
+      "reasoning": [
+        "Fact 1: The witness claims there is no way to get down from the roof of the Bigg Building.",
+        "Fact 2: The evidence suggests there is an entrance to the hidden fifty-first floor on the roof.",
+        "Prop 1: If there is a secret floor accessible by the room, there is more than one way to leave the roof."
+      ]
+    }
+  ]
+}

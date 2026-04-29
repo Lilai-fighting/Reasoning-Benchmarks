@@ -1,0 +1,351 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "最初的逆转",
+      "name": "绫里千寻",
+      "age": "27",
+      "gender": "女",
+      "description1": "菲尼克斯律师事务所的主任律师。我的上司，一位非常优秀的辩护律师。"
+    },
+    {
+      "currentChapter": "最初的逆转", 
+      "name": "矢张政志",
+      "age": "23",
+      "gender": "男",
+      "description1": "本案的被告。我小学时的朋友，是个讨人喜欢的家伙。"
+    },
+    {
+      "currentChapter": "最初的逆转",
+      "name": "高日美佳",
+      "age": "22", 
+      "gender": "女",
+      "description1": "本案的受害者。一名模特，独自住在公寓里。"
+    },
+    {
+      "currentChapter": "最初的逆转",
+      "name": "亚内武文",
+      "age": "52",
+      "gender": "男", 
+      "description1": "本案的检察官。缺乏存在感。总的来说不太擅长表达自己的观点。"
+    },
+    {
+      "currentChapter": "最初的逆转",
+      "name": "山野星雄",
+      "age": "44",
+      "gender": "男",
+      "description1": "发现石野小姐尸体的人。一个报纸推销员，声称看到矢张逃离现场。"
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "最初的逆转",
+      "name": "律师徽章",
+      "type": "其他",
+      "obtained": "我的个人物品",
+      "description1": "如果没有这个东西，就不会有人承认我是律师。"
+    },
+    {
+      "currentChapter": "最初的逆转",
+      "name": "高日美佳的解剖记录",
+      "type": "报告",
+      "obtained": "从绫里千寻处获得",
+      "description1": "死亡时间为7月31日下午4时到5时之间。受到钝器一击,失血过多死亡。"
+    },
+    {
+      "currentChapter": "最初的逆转",
+      "name": "思考者雕像",
+      "type": "凶器",
+      "obtained": "由刃川检察官提交为证物",
+      "description1": "'沉思者'造型的装饰品。相当沉重。"
+    },
+    {
+      "currentChapter": "最初的逆转",
+      "name": "护照",
+      "type": "证据",
+      "obtained": "由刃川检察官提交为证物",
+      "description1": "受害者似乎在7月30日,也就是案发前一天从巴黎回来。"
+    },
+    {
+      "currentChapter": "最初的逆转",
+      "name": "停电记录",
+      "type": "文件",
+      "obtained": "由刃川检察官提交为证物",
+      "description1": "在案发当天的下午1点至6点,案发现场的公寓是停电的。"
+    }
+  ],
+  "turns": [
+    {
+      "category": "cross_examination",
+      "newContext": "第１章 第一次的逆转 ……呼啊……呼啊…… ……可恶！为什么我会遇到这种事…… ……我可不想因为这种事……被抓起来…… 得赶快……赶快找个替死鬼……！ ……对了，那家伙…… 就叫那家伙做替死鬼好了…… ８月３日 上午９时４７分 地方法院 被告第２休息室 成步堂： （呜呜……好紧张啊……） 千寻： ……成步堂！ 成步堂： 啊，所、所长。 千寻： 呼。总算赶上了。 第一次上法庭的心情如何？ 成步堂： 自、自从以前小学的班级审判之后，我还从来没有这么紧张过。 千寻： ……这样子呀。那可真是久违啦。 成步堂： 嗯，是啊。 那个……所长。 今天很不好意思。你明明那么繁忙…… 千寻： 没关系的。毕竟是我可爱的下属首次亮相嘛。 ……不过话说回来。第一次上法庭就要面对凶杀案，你还真是大胆啊。我很佩服你。也很佩服你委托人的勇气。 成步堂： 呃，是…… ……因为我欠那家伙的人情。 千寻： 什么……？ 你是说欠那位委托人？ 成步堂： 是呀。 ……我会像现在这样成为律师， 其实从某种意义上来说，正是由于他的缘故。 千寻： ……还是第一次听你说起哎。 成步堂： ……我希望可以成为他的助力！ 帮他打赢这场官司…… ？？？： （完蛋啦！ 一切的一切都完蛋啦！） 千寻： ………… 在那边大呼小叫的，应该就是你的委托人吧……？ 成步堂： 呃，好像是。 ？？？： （……让我死！让我死啊！ 我要在这里死给你们看！） 千寻： ……他好像很想死呢。 成步堂： 嗯。 矢张： 成步堂！ 成步堂： 嗨，矢张。 矢张： 有罪！判我有罪！ 赶快判我死刑，让我一了百了！ 成步堂： 你、你怎么啦，矢张！ 矢张： 不行啦！我没有办法啦！ 没有她的人生……不如死了还比较快活！ 是谁……到底是谁把她……！ 快告诉我啊啊啊！成步堂……！ 成步堂： （杀害‘女友’的犯人，是吧…… 报纸上写的，可是你的名字啊……） 成步堂： 我的名字叫成步堂 龙一。 ３个月前才刚刚成为律师。今天是我第一次上法庭。 好啦。 本次事件其实非常清楚明了。在公寓的一间房内，有位年轻女性遇害。 很不幸地，被逮捕的嫌犯，是正在和她交往的男性。 他叫矢张 政志。……是我从小学开始的死党。 ２３年来，他常会被人家说，‘事件背后，肯定是矢张’。 不知道为什么，他总是会被卷入巨大的风波中。 ……我唯一确定的是， 他绝不是坏人。……只是运气实在太差。 ……他是个好人。我比任何人都清楚。 而且我欠他一个很大的人情。我一定要救他……绝对要！ ８月３日 上午１０时 地方法院 第２法庭 审判长： 现在本院宣布开始审理矢张 政志一案。 亚内： 检方已准备完毕。 成步堂： 辩、辩方也已准备完毕。 审判长： ………… 成步堂律师。 你今天是第一次上法庭吧？ 成步堂： 是、是的…………我很紧张…… 审判长： 委托人最后会被判处有罪还是无罪，都取决于律师的表现。 你身为律师，那么紧张兮兮的可不行喔。 成步堂： ……对不起。 审判长： ……………… ……好吧。在开始审理之前， 让我确认看看，你是否真的“准备完毕”吧。 成步堂： 好……好的。 （呜哇，大脑突然一片空白……） 审判长： 我会问你一些简单的问题，请你回答。 首先，请你回答本次事件被告的名字。 成步堂 龙一 成步堂： 呃……所谓的被告就是我，对吧？ 千寻： 等、等、等一下！你在说什么呀，成步堂！ 所谓的被告，就是现在正要被审判的人啦！ 你是辩护人啦！ 成步堂： 咦，是、是这样的吗？哈哈哈…… 千寻： 别“哈哈哈”啦。 为什么我还得跟一个律师解释这么基本的知识呀……？ 审判长： 我没听清楚你的回答。那么，我再问一次。 转回： “首先，请你回答本次事件被告的名字。” 矢张 政志 转到： “被告……就是矢张先生。” 绫里 千寻 成步堂： 被告……是吧？呃，应该是绫里 千寻小姐。 千寻： 成、成步堂。……我要回家了。 对了，我今天有快递，得赶快回去收件…… 成步堂： 请……请别这样！再待一会嘛！ 千寻： 真是的！ 所谓的被告，是指要被审判的人啦！ 这可是初级问题啊，甚至可以说是常识等级的问题…… 成步堂： （我错得太离谱了。得冷静下来……） 审判长： 我没听清楚你的回答。那么，我再问一次。 转回： “首先，请你回答本次事件被告的名字。” 成步堂： 被告……就是矢张先生。 审判长： 没错。就像这样子，遇到问题，你只要冷静回答就好。 那么，下一个问题。 今天我们要审理的是凶杀案，请告诉我被害人的名字。 成步堂： （……呼。这个问题我知道。毕竟看过那么多次调查报告。 ……咦？ 我……我怎么突然想不起来了！名字叫什么啊！） 千寻： 成、成步堂！你、你、你这个人…… 连被害人的名字都不知道吗？ 成步堂： 当……当然不可能嘛。 只是突然忘记而已。 千寻： ……突然感觉头好痛…… 有关事件的所有事情，看‘法庭纪录’就知道了！ 你可以随时按【按键】浏览法庭纪录， ……求求你记得要看喔。 审判长： 请你回答吧。本次事件的被害人姓名是？ 绫里 千寻 成步堂： 呃～绫里 千寻小姐…… 千寻： 我我、我怎么可能是被害人啊！ 成步堂： 对、对不起。我只是把脑海中浮现的名字讲出来…… 千寻： 如果你忘记被害人的名字，可以按【按键】确认法庭纪录。 审判长： ……好吧，本院再问你一次。 转回： '请你回答吧。本次事件的被害人姓名是？' 日高 友加 成步堂： 记得好像是日高 友加小姐…… 审判长： 在法院中，不可做出如此不确切的发言。 千寻： 成步堂。 If you forget something, use [the R Button / Tab] to check the Court Record and jog your memory. 在法庭上，任何错误发言都会成为致命伤的。 审判长： 本院再问你一次。 转回： '请你回答吧。本次事件的被害人姓名是？' 高日 美佳 转到： '呃。被害人的名字是高日 美佳小姐。' 成步堂： 呃。被害人的名字是高日 美佳小姐。 审判长： ……没错。那么，她是怎样被杀害的呢？ 被害人的死因是……？ 被下毒 成步堂： 呃，记得她好像是被人下了毒吧？ 审判长： 你怎么问我呢！ 成步堂： 是这样吧，所长？ 千寻： Check the court record. [The R Button / Tab]... remember? 成步堂： （……大家都好冷淡喔……） 审判长： 本院再问你一次。 转回： '被害人的死因是……？' 被钝器殴打 转到： '被人用钝器强力殴打了一次……' 被人勒死 成步堂： 被人用钝器强力殴打了一次…… 审判长： 没错。那么问题就问到这里，我们开始进行审理吧。 你应该也基本冷静下来了吧。 成步堂： 你竟然在这么短的时间内拯救了委托人， (Because I don't FEEL relaxed, that's for sure.) 审判长： ……那么。 可以请教一下吗，亚内检察官？ 亚内： 请问是什么事呢，审判长？ 审判长： 如同成步堂律师刚刚所说，被害人遭到钝器殴打。 Would you explain to the court just what that 'object' was? 亚内： The murder weapon was this statue of 'The Thinker.' 这东西就掉在遗体旁边。 审判长： ……嗯。好。本院受理这件证物。 已将证物‘小雕像’的资料放进法庭纪录中。 千寻： 成步堂。 在审理的过程中，会像这样陆续有’证物‘被提出。 这些’证物‘的资料，接下来都会成为你的武器， Use [the R Button / Tab] to check the Court Record frequently. 审判长： 那么亚内检察官。请你传唤证人。 亚内： 首先，我们来听听被告──矢张先生怎么说。 成步堂： 那个，所长。我该做些什么呢……？ 千寻： 为了拯救委托人，现在最重要的，就是不要听漏任何“信息”。 不久后，反击的机会一定会出现的。 现在就祈祷他别说出一些不该说的话吧。 成步堂： （……真令人担心。矢张那家伙，很容易一兴奋就失去理智……） 亚内： 那么。 矢张先生。听说被害人最近刚刚甩掉你，对吧？ 矢张： 你在说什么啊？ 竟然对本世纪最恩爱的情侣说这种话！ 成步堂： （怎……怎么才刚开始就这样……） 矢张： 只是我最近打电话她都不接，想跟她见面也被拒绝而已！ 别瞧不起人啊！ 亚内： Mr. Butz, what you describe is generally what we mean by 'dumped.' 实际上她丢下你不管，自己到处游山玩水。 甚至在遇害的前一天，也是刚刚从国外旅行回来。 矢张： Whaddya mean, 'one of them'!? 你骗我！我才不相信！ 亚内： 审判长。这是被害人的护照。 在遇害前一天，她刚从纽约回来。 已将证物“护照”的资料放进法庭纪录中。 审判长： 嗯。的确，回国日期是遇害前一天…… 矢张： Dude... no way... 亚内： 她是个模特儿，收入却不是很多。 It appears that she had several 'Sugar Daddies.' 矢张： ……干爹？ 亚内： 就是指那些会给女孩子零用钱的大叔们。 她就是通过那些男士们的“援助”，才有办法这样玩乐度日。 矢张： 什么…… 亚内： ……被害人──高日 美佳其实就是这样的人。 Tell me, Mr. Butz, what do you think of her now? 千寻： ……成步堂。 我想还是不要让他回答这个问题比较好…… 成步堂： (Yeah... Larry has a way of running his mouth in all the wrong directions. Should I...?) Wait and see what happens 成步堂： （先静观其变好了……） 亚内： ……怎么样呢，矢张先生？ 矢张： 可、可恶！那个女的，竟然瞧不起人！ 转到： 'I'm gonna die. I'm just gonna drop dead!' Stop him from answering 成步堂： 矢张先生并不知道被害人与其他男性交往！ 所以检方提出的问题，与本案无关！ 亚内： ……唔唔…… 矢张： Dude! Nick! Whaddya mean, 'irrelevant'!? That cheatin' she-dog! 转到： 'I'm gonna die. I'm just gonna drop dead!' 矢张： I'm gonna die. I'm just gonna drop dead! Yeah, and when I meet her in the afterlife... ……我们继续审理吧。 审判长： 总之，大家应该可以了解被告的动机了。 亚内： ……非常清楚。 审判长： （……唉……） 成步堂： 那么，进入下一个问题。 亚内： 在事件发生当天，你是否去过她家呢？ …………！ 矢张： 有没有呢？ 亚内： ……什、什么有没有啊！ 矢张： （看他那个样子，肯定去过她家……） 成步堂： (Uh oh. He went. What do I do?) Have him answer honestly {{NavBox row 成步堂： （“给我老实回答”。） 矢张： 是啊！我是去过她家啊。怎样！ 审判长： 肃静！ 审判长： ……然后呢？矢张先生！ 矢张： 呜……干嘛用那种眼神看着我！ 矢张： 她那天不在啊……最后就没见到她啊。 亚内： 亚内： 审判长。被告在说谎。 审判长： ……说谎？ 亚内： 我们有证人可以举证刚刚的谎言。 审判长： The prosecution would like to call a witness who can prove Mr. Butz is lying. 转到： '是遗体的发现者。' Stop him from answering 成步堂： （“想办法回避”。） ……呃。这个，我不太记得了…… 矢张： “不太记得了”……是吗？ 亚内： You 'don't remember'? （有种不好的预感……） 成步堂： 我们手上有关键证人喔。 亚内： We have a witness that can prove he DID go to the victim's apartment that day! 转到： 'Well, that simplifies matters. Who is your witness?' 审判长： Well, that simplifies matters. Who is your witness? 亚内： 他在发现遗体的前一刻， 目击到被告──矢张先生离开命案现场！ 肃静！肃静！ 审判长： ……亚内检察官。请你传唤这位证人！ 是！ 亚内： 是。 成步堂： 现在就请事件当天在案发现场公寓推销报纸的 亚内： 山野 星雄先生入庭！ 山野先生。你是报纸推销员……？ 亚内： ……啊。是。没错的，是。 山野： 那么就请你马上进行“证言”吧。 审判长： 请将你在案发当天看到的事情告诉我们。证言开始～案发当天目击到的事～山野：当天我在进行推销的时候，看到有个男的从某个房间跑了出来。那个男的看起来很慌张，连门都没关好就跑走了。我觉得状况有些可疑，就往门里面看了一眼。结果竟然看到有个人的遗体躺在那里！我吓得腿软，就没进到房间里面。我当时很想马上叫警察来。但是她房间里的电话是打不通的。所以我是从附近的公共电话通报给警察的。时间我记得很清楚。是下午２点的时候。从现场逃走的男人，我绝对没看错，就是这位被告。审判长：嗯……成步堂：(Larry! Why didn't you tell the truth? I can't defend you against a testimony like that!)审判长：是。因为案发的那段时间，该公寓处于停电状态。亚内：但是即使是在停电中，电话应该仍然是可以使用的吧……？审判长：是，您说得没错。亚内：但是某些机种在停电的时候，子机是无法使用的。 山野先生在现场所用的电话，就是这种类型的子机。 审判长。 检方在此提出当时的停电纪录。已将证物“停电纪录”的资料放进法庭纪录中。审判长：那么，辩护人。成步堂：……呃、是！审判长：You may begin your cross-examination.成步堂：C-Cross-examination, 是。千寻：……好了，成步堂。终于要正式开始了。成步堂：……那个，请问所谓的“讯问”是要怎么做……？千寻：Why, you expose the lies in the testimony the witness just gave! 成步堂：咦！　……谎言……吗？千寻：如果你的委托人是清白的…… 那么那些目击证言，就绝对是骗人的！ ……还是你不相信委托人的清白？成步堂：!!! How do I prove he's not? 千寻：You hold the key! It's in the evidence! 那个证人的证言，和证物资料…… There's bound to be a contradiction in there! First, find contradictions between the Court Record and the witness's testimony. Then, once you've found the contradicting evidence... present it and rub it in the witness's face! 成步堂：……呃，好的。千寻：Open the Court Record with [the R Button / Tab], then point out contradictions in the testimony!讯问开始～案发当天目击到的事～山野：当天我在进行推销的时候，看到有个男的从某个房间跑了出来。追问 成步堂：成步堂：房间里有个男人跑出来，并不是多稀奇的事情， 为什么会让你特别留意呢？山野：呃…… 因为那个人怪怪的喔。 感觉好像在生气，又好像在害怕着什么…… 简直就好像是个逃离命案现场的犯人一样……成步堂：证人！　请你不要胡乱栽赃！亚内：总之就是感觉这个人很可疑。 ……然后怎么样了呢？山野：那个男的看起来很慌张，连门都没关好就跑走了。追问 成步堂：成步堂：门没关好……是吧？山野：是啊，没有完全关上。 我等了一段时间，似乎没有人要出来关门的样子。 ‘That's odd, in a big city like this,’ I thought... 亚内：原来如此。然后怎样了呢？山野：我觉得状况有些可疑，就往门里面看了一眼。追问 成步堂：成步堂：为什么你要那样做？山野：因为门没有关好啊。 遇到那种状况，会想看看里面也是人之常情吧？ 看到山在眼前，就会想去爬。是一样道理。亚内：嗯，你说得没错。会想看看里面完全是人之常情。成步堂：（总觉得他们好像在唬弄我……）亚内：总之，你看了房间里面的状况。然后怎样了呢？山野：结果竟然看到有个人的遗体躺在那里！追问 成步堂： 成步堂：你确定当时被害人已经死了吗？山野：W-Well, no, I guess I wasn't. 但是她一动也不动，而且又流了很多血。成步堂：（原来如此……看来她受的伤，是致命伤……） 好吧，我知道了。那么后来怎么样了呢？山野：我吓得腿软，就没进到房间里面。追问 成步堂：成步堂：所以说，你并没有动房间里面的任何东西……？山野：是的，没错。成步堂：……我知道了。那么后来怎么样了呢？山野：我当时很想马上叫警察来。追问 成步堂： 成步堂：You "thought" to call the police? Does that mean you didn't actually call them!? 亚内：别着急。请听完证人的证言。 你当时想要打电话。那么后来呢？山野：但是她房间里的电话是打不通的。追问 成步堂： 成步堂：现场的电话打不通……？山野：……呃，是。打不通。成步堂：可是你刚刚不是说没有进入房间里面吗……？山野：喔，你说那个啊。 我在玄关的柜子上，看到电话的子机。 I reached inside and tried using that to call... 亚内：And the phone wasn't working, correct? ……后来怎么样了呢？山野：所以我是从附近的公共电话通报给警察的。追问 成步堂： 成步堂：为什么你跑去打公共电话……？山野：是。因为我没有手机…… 而且不知道是否因为时间的关系，当时隔壁的邻居们也都不在…… 成步堂：这样子啊……那请问你报警的时间是……？山野：时间我记得很清楚。是下午2点的时候。追问 成步堂：成步堂：下午2点！你确定吗？山野：是。没错的。成步堂：（唔……他怎么这么有自信……） 千寻：1:00 PM? 成步堂。你不觉得有些奇怪吗？ Present some evidence to contradict him! Present Cindy's Autopsy Report 成步堂：转到：‘发现遗体的时间是2点。确定没错吗？’ 山野：从现场逃走的男人，我绝对没看错，就是这位被告。追问 成步堂：成步堂：Are you absolutely, 100% positive?山野：没错的。对，绝对没错。亚内：确定没错对吧？ 千寻： ……他的证言到此为止。 这些证言当中，一定藏有关键性的矛盾。 Examine the Court Record with [the R Button / Tab] if something strikes you as being suspicious. Then, find the evidence that contradicts his testimony, and present it to the court!",
+      "testimonies": [
+        {
+          "testimony": "我正在挨家挨户推销报纸订阅，这时看到一个男人从公寓里逃出来。",
+          "person": "山野",
+          "present": []
+        },
+        {
+          "testimony": "我觉得他一定很着急，因为他把门都没关就跑了。",
+          "person": "山野",
+          "present": []
+        },
+        {
+          "testimony": "觉得很奇怪，我就往公寓里看了看。",
+          "person": "山野",
+          "present": []
+        },
+        {
+          "testimony": "然后我看到她躺在那里...一个女人...一动不动...已经死了！",
+          "person": "山野",
+          "present": []
+        },
+        {
+          "testimony": "我吓得不敢进去。",
+          "person": "山野",
+          "present": []
+        },
+        {
+          "testimony": "我想立刻报警！",
+          "person": "山野",
+          "present": []
+        },
+        {
+          "testimony": "但是她公寓里的电话不能用。",
+          "person": "山野",
+          "present": []
+        },
+        {
+          "testimony": "我去附近的公园找到了一个公共电话。",
+          "person": "山野",
+          "present": []
+        },
+        {
+          "testimony": "我记得时间很清楚：是下午1点。",
+          "person": "山野",
+          "present": [
+            "卡门的验尸报告"
+          ],
+          "source": {
+            "evidence_span": "死亡时间：7月31日下午4点至5点。",
+            "testimony_span": "是下午1点。",
+            "explanation": "证人声称的发现时间与验尸报告的死亡时间相矛盾。",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "easy"
+          }
+        },
+        {
+          "testimony": "从现场逃走的男人，我绝对没看错，就是这位被告。",
+          "person": "山野",
+          "present": []
+        }
+      ],
+      "noPresent": false,
+      "summarizedContext": "证人山野正在描述他发现案发现场的经过。",
+      "difficulty": "easy",
+      "labels": [
+        "temporal",
+        "numerical"
+      ],
+      "reasoning": [
+        "事实1：证人声称在下午1点发现尸体。",
+        "事实2：验尸报告显示死亡时间是下午4点之后。",
+        "推理1：发现尸体的时间必须在死亡时间之后。"
+      ]
+    },
+    {
+      "category": "cross_examination",
+      "newContext": "'成步堂： You found the body at 1:00 PM. You\'re sure? 山野： 嗯。是2点没错。 成步堂： 但是这样是很奇怪的。和解剖纪录上面的资料，明显产生了矛盾。 The autopsy notes the time of death at sometime after 4PM. There was nobody to... er... no "body" to find at 1:00 PM! 为什么会有 山野： !!! Oh, that! Oh, er... 亚内： 亚内： 呃，那个……这个…… 审判长： 这不是什么大问题。应该只是记错了…… ……本院认为应该不是这样。 山野先生。 山野： 为什么你会认为，发现遗体的时间是2点……？ 千寻： ……咦……这、这个，我想想……为什么呢…… 成步堂！你做得很好！ 像这样不断指出矛盾就对了！ 一个谎言，一定会制造出另一个谎言。 山野： 我们只需要看穿他下一个谎言，然后将他逼到绝境！ 审判长： ……啊！我想起来了！ 证言开始 ……那么，就请你再进行一次‘证言’吧？ 山野： ～关于发现遗体的时间～ 在发现遗体的时候，我有听到当时的时间。 声音像是报时……我猜应该是电视传出来的吧。 啊，但是报时的时间慢了两个小时，对吧？ 我猜想，被害人可能是在看录影带吧？ 我一定是因为听到那个报时声，才误以为当时是2点的。 审判长： Hmm... I see. You heard a voice saying the time on a taped program. Mr. Wright, you may cross-examine the witness. 千寻： 只有一台大型电视。 成步堂。 成步堂： 你已经知道该怎么做了吧？ 讯问开始 ……交给我吧。 山野： ～关于发现遗体的时间～ 追问 成步堂： 成步堂： You said 'heard'... Not 'saw'? 山野： ‘听到’……？并不是‘看到’吗？ 是的，应该是…… 总之，当时我的眼睛一直盯着遗体…… 成步堂： 应该也不会想到要去看时钟…… So you\'re saying you 'heard' something. 既然精神那么集中，为什么却听得到‘声音’呢？ 亚内： 亚内： 如果说你的注意力都集中在遗体上，那应该也听不到那些声音…… It\'s ludicrous to suggest he 'wouldn\'t hear anything'! 审判长： 你却一直说‘有可能没听到’，根本就是毫无意义的假设！ Present Blackout Record 成步堂： 转到： 'Hold it right there!' 山野： 在发现遗体的时候，我有听到当时的时间。 追问 成步堂： 成步堂： ……嗯。的确，说得没错。证人，请你继续证言。 山野： 电视吗？不是收音机？ 亚内： 呃。也许是收音机吧。 补充一下，现场并没有收音机。 千寻： ……的确是这样没错…… 成步堂。 Something about 'hearing' the television... 亚内： 我总觉得怪怪的呢…… Present Blackout Record 成步堂： 转到： 'Hold it right there!' 山野： 声音像是报时……我猜应该是电视传出来的吧。 追问 成步堂： 成步堂： 总之，山野先生。你在现场听到报时的声音，对吧？ 审判长： 你能说明为什么会有时间落差吗！ Present Blackout Record 成步堂： 转到： 'Hold it right there!' 山野： 啊，但是报时的时间慢了两个小时对吧？ 追问 成步堂： 成步堂： 你能解释吗？证人？ 山野： ……录影带？ 成步堂： 是啊。如果是录影带的话，有时间落差也不奇怪吧？ 千寻： Wright! 成步堂。 审判长： 我总觉得，问题的关键并不在那里…… Present Blackout Record 成步堂： 转到： 'Hold it right there!' 山野： 我猜想，被害人可能是在看录影带吧？ 追问 成步堂： 成步堂： 总之，你在现场听到报时的声音，没错吧？ 山野： 你说听到的时间是2点，你确定吗？ 审判长： ……是啊。我到现在都还记得很清楚呢。 亚内： 亚内检察官。请问关于这句证言，警方做过确认调查吗？ I, too, have only just learned that the witness 'heard' the time. 山野： 关于证人提到的‘听到报时声音’，这件事我方也是第一次听说…… Present Blackout Record 成步堂： 转到： 'Hold it right there!' 山野： Terribly sorry about the misunderstanding... 追问 成步堂： 成步堂： 不好意思，因为我刚刚才想起这件事…… 请你谨慎提供证言！ 千寻： 真是不好意思，给各位添麻烦了……'",
+      "testimonies": [
+        {
+          "testimony": "在发现遗体的时候，我有听到当时的时间。",
+          "person": "山野",
+          "present": [
+            "停电纪录"
+          ],
+          "source": {
+            "evidence_span": "案发当天下午1点至6点，案发现场的公寓处于停电状态。",
+            "testimony_span": "我听到了时间。",
+            "explanation": "在停电的情况下，电视机无法工作，因此不可能听到电视机报时。",
+            "is_self_contained": "yes", 
+            "context_span": "",
+            "difficulty": "medium"
+          }        
+        },
+        {
+          "testimony": "声音像是报时……我猜应该是电视传出来的吧。",
+          "person": "山野",
+          "present": [
+            "停电纪录"
+          ],
+          "source": {
+            "evidence_span": "案发当天下午1点至6点，案发现场的公寓处于停电状态。",
+            "testimony_span": "我听到了时间。",
+            "explanation": "在停电的情况下，电视机无法工作，因此不可能听到电视机报时。",
+            "is_self_contained": "yes", 
+            "context_span": "",
+            "difficulty": "medium"
+          }        
+        },
+        {
+          "testimony": "啊，但是报时的时间慢了两个小时对吧？",
+          "person": "山野",
+          "present": [
+            "停电纪录"
+          ],
+          "source": {
+            "evidence_span": "案发当天下午1点至6点，案发现场的公寓处于停电状态。",
+            "testimony_span": "我听到了时间。",
+            "explanation": "在停电的情况下，电视机无法工作，因此不可能听到电视机报时。",
+            "is_self_contained": "yes", 
+            "context_span": "",
+            "difficulty": "medium"
+          }
+        },
+        {
+          "testimony": "我猜想，被害人可能是在看录影带吧？",
+          "person": "山野",
+          "present": [
+            "停电纪录"
+          ],
+          "source": {
+            "evidence_span": "案发当天下午1点至6点，案发现场的公寓处于停电状态。",
+            "testimony_span": "我听到了时间。",
+            "explanation": "在停电的情况下，电视机无法工作，因此不可能听到电视机报时。",
+            "is_self_contained": "yes", 
+            "context_span": "",
+            "difficulty": "medium"
+          }
+        },
+        {
+          "testimony": "That's why I thought it was 1:00 PM!",
+          "person": "山野",
+          "present": [
+            "停电纪录"
+          ],
+          "source": {
+            "evidence_span": "案发当天下午1点至6点，案发现场的公寓处于停电状态。",
+            "testimony_span": "我听到了时间。",
+            "explanation": "在停电的情况下，电视机无法工作，因此不可能听到电视机报时。",
+            "is_self_contained": "yes", 
+            "context_span": "",
+            "difficulty": "medium"
+          }
+        },
+        {
+          "testimony": "Terribly sorry about the misunderstanding...",
+          "person": "山野",
+          "present": []
+        }
+      ],
+      "summarizedContext": "证人山野正在描述他发现案发现场时的情况。",
+      "noPresent": false,
+      "difficulty": "medium",
+      "labels": [
+        "temporal",
+        "numerical",
+        "object property"
+      ],
+      "reasoning": [
+        "事实1：证人声称在下午4点听到电视机报时。",
+        "事实2：案发当天的中午到下午6点，公寓处于停电状态。",
+        "推理1：如果电视发出声音，电视机必须是开着的。",
+        "推理2：如果停电了，电视机就无法工作。"
+      ]    
+    },
+    {
+      "category": "cross_examination",
+      "newContext": "'成步堂： （……现在追究他的粗心大意，也无济于事吧。） 山野： 请等一下！当时公寓不是停电吗？这份纪录可以证明当时停电的事实！ 成步堂： ……！ 山野： 不管是电视还是录影带，当时应该都无法使用啊！ ……！！ 审判长： 这……这个…… 山野： No, I... I find it quite puzzling myself! Quite! ... ……………… W-wait! I remember now! 审判长： 对、对了！我想起来啦！ ……山野先生。 请你特别注意，证言一定要正确诚实，不可反反复复。 我总觉得，你这个人越看越可疑了。 山野： 而且身体还一直扭来扭去的。 M-my apologies, Your Honor! 对、对不起。 审判长： ……因为第一次看到遗体，让我有些受惊，无法冷静下来…… 证言开始 算了，我知道了。那就请你继续‘证言’吧。 山野： Actually, I didn\'t \'hear\' the time... I \'saw\' it! 现在想想，其实时间应该不是‘听到’的，而是‘看到’的！ 现场不是有个时钟吗？ 就是犯人殴打被害人的时候，使用的那个凶器啊！ 审判长： You saw a clock? I guess that would explain it. The defense may cross-examine the witness. 成步堂： ‘看到了时钟’……若是这样的话，倒是可以理解。那么，辩护人。请你进行‘讯问’。 讯问开始 好的。 山野： Actually, I didn\'t \'hear\' the time... I \'saw\' it! 追问 成步堂： 成步堂： ……好了，找出矛盾的地方吧！ 山野： ……怎么会有这种怪异的误会呢？ 是。我自己也这么觉得…… 审判长： A \'table clock\'? 山野： 现在想想，其实时间应该不是‘听到’的，而是‘看到’的！ 追问 成步堂： 成步堂： A \'table clock\'? Was there a clock at the scene? 审判长： ‘时钟’……?现场有那样的东西吗？ Present Statue 成步堂： 转到： \'总之就是你在现场看到了时钟，是吧？\' 山野： 现场不是有个时钟吗？ 追问 成步堂： 成步堂： ……我也是第一次听说。 山野： 你说凶器……吗？ 是啊。就是犯人拿来打人的那个时钟。 成步堂： ……你没有注意听我说话吗？ Present Statue 成步堂： 转到： \'Wait just a moment!\' 山野： 就是犯人殴打被害人的时候，使用的那个凶器啊！ 追问 成步堂： 成步堂： （……总觉得怪怪的……） 山野： 为什么你一开始不这样说呢？ 我现在才回想起来啊…… 亚内： 我也不知道为何会这样。很抱歉，给您添麻烦了。 Present Statue 成步堂： 转到： \'Wait just a moment!\' 千寻： 应该就是看到那个，我才知道当时的时间的……'",
+      "testimonies": [
+        {
+          "testimony": "Actually, I didn't \"hear\" the time... I \"saw\" it!",
+          "person": "山野",
+          "present": []
+        },
+        {
+          "testimony": "现在想想，其实时间应该不是“听到”的，而是“看到”的！",
+          "person": "山野",
+          "present": [
+            "思考者雕像"
+          ],
+          "source": {
+            "evidence_span": "'沉思者'造型的装饰品。相当沉重。",
+            "testimony_span": "现场不是有个时钟吗？",
+            "explanation": "仅凭外表看不出雕像是时钟，所以证人不可能知道这一点。",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "common sense",
+            "labels": [
+              "object property"
+            ]
+          }
+        },
+        {
+          "testimony": "现场不是有个时钟吗？",
+          "person": "山野",
+          "present": [
+            "思考者雕像"
+          ],
+          "source": {
+            "evidence_span": "'沉思者'造型的装饰品。相当沉重。",
+            "testimony_span": "现场不是有个时钟吗？",
+            "explanation": "仅凭外表看不出雕像是时钟，所以证人不可能知道这一点。",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "common sense",
+            "labels": [
+              "object property"
+            ]
+          }
+        },
+        {
+          "testimony": "就是犯人殴打被害人的时候，使用的那个凶器啊！",
+          "person": "山野",
+          "present": [
+            "思考者雕像"
+          ],
+          "source": {
+            "evidence_span": "'沉思者'造型的装饰品。相当沉重。",
+            "testimony_span": "现场不是有个时钟吗？",
+            "explanation": "仅凭外表看不出雕像是时钟，所以证人不可能知道这一点。",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "common sense",
+            "labels": [
+              "object property"
+            ]
+          }
+        },
+        {
+          "testimony": "应该就是看到那个，我才知道当时的时间的……",
+          "person": "山野",
+          "present": [
+            "思考者雕像"
+          ],
+          "source": {
+            "evidence_span": "'沉思者'造型的装饰品。相当沉重。",
+            "testimony_span": "现场不是有个时钟吗？",
+            "explanation": "仅凭外表看不出雕像是时钟，所以证人不可能知道这一点。",
+            "is_self_contained": "yes",
+            "context_span": "",
+            "difficulty": "common sense",
+            "labels": [
+              "object property"
+            ]
+          }        
+        }
+      ],
+      "summarizedContext": "证人山野在描述他如何知道案发现场的时间。",
+      "noPresent": false,
+      "difficulty": "common sense",
+      "labels": [
+        "object property"
+      ],
+      "reasoning": [
+        "事实1：证人声称凶器是一个时钟。",
+        "事实2：证据表明凶器只是一个雕像。",
+        "推理1：仅凭外表看不出雕像是时钟，所以证人不可能知道这一点。"
+      ]
+    }
+  ]
+}

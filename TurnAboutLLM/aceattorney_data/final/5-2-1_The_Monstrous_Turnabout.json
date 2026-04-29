@@ -1,0 +1,187 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Trucy Wright",
+      "age": "• Age: 16",
+      "description1": "An aspiring magician who Mr. Wright adopted when duty called."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Jinxie Tenma",
+      "age": "• Age: 15",
+      "description1": "The maid of Kyubi Manor and a friend of Trucy. She thinks I'm a demon."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "The Amazing Nine-Tails",
+      "age": "• Age: ?",
+      "description1": "A masked wrestler of unknown identity and origin. The nine-tailed cape he sports is the signature piece of his costume."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Damian Tenma",
+      "age": "• Age: 45",
+      "description1": "Jinxie's father and the mayor of Tenma Town. He was found unconscious at the scene of the crime."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Rex Kyubi",
+      "age": "• Age: 46",
+      "description1": "The deceased alderman of Nine-Tails Vale. His snow-white hair was particularly striking."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Athena Cykes",
+      "age": "• Age: 18",
+      "description1": "The latest lawyer to join our agency. She apparently studied psychology while she was in Europe!"
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Phineas Filch",
+      "age": "• Age: 50",
+      "description1": "The caretaker of Kyubi Manor. He says he was guarding the entrance at the time of the murder."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Bobby Fulbright",
+      "age": "• Age: 33",
+      "description1": "The detective investigating the murder in Nine-Tails Vale. He's a self-styled champion of justice and keeper of the peace."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Florent L'Belle",
+      "age": "• Age: 33",
+      "description1": "Mayor Tenma's aide. He was supposedly in the foyer with Filch at the time of the murder."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Phoenix Wright",
+      "age": "• Age: 34",
+      "description1": "A brilliant former defense attorney who is supposed to be in retirement..."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Simon Blackquill",
+      "age": "• Age: 28",
+      "description1": "A prosecutor and prison inmate. He has mastered the use of psychological manipulation in courtroom battles."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Attorney's Badge",
+      "description1": "My cherished attorney's badge. Just putting it on makes me feel... ready."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Yokai Legend Scroll",
+      "description1": "A scroll depicting the demon Tenma Taro and the Nine-Tailed Fox.",
+      "description2": "The sole document showing what Tenma Taro looks like. It seems those who foolishly choose to depict the demon are cursed."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Tenma Taro Warding Charm",
+      "description1": "The Tenma Taro warding charm that Jinxie gave me when I set out for the scene of the crime."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Nine-Tails Flower",
+      "description1": "A flower found only in Nine-Tails Vale. It boosts Jinxie's courage because it was her mother's favorite."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Special Edition Paper",
+      "description1": "A newspaper with a photo of Tenma Taro soaring through the air."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Crime Scene Diagram",
+      "description1": "A diagram showing the scene of the crime."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Foyer Diagram",
+      "description1": "A diagram of the foyer, including the office used by the caretaker, Phineas Filch."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Fox and Demon Statue",
+      "description1": "A statue that was at the crime scene. It depicts Tenma Taro and the Nine-Tailed Fox locked in battle.",
+      "description2": "The weapon used to bludgeon the mayor. The mayor's blood was found on it, but no fingerprints could be lifted.",
+      "description3": "The weapon used to bludgeon the mayor. Wrapped in a large cloth. (2 pages.)",
+      "description4": "A token of goodwill made in secret. Jinxie is now the only one who knows what the original looked like."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Golden Fur",
+      "description1": "Some fur that was found at the scene of the crime. It's long and soft, and appears to be from some animal."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Crime Photo",
+      "description1": "A photo of the Fox Chamber. There are bloody footprints and black feathers scattered on top of the blood."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Amazing Nine-Tails Mask",
+      "description1": "A mask that washed up by the riverside. There's white hair inside.",
+      "description2": "A mask found washed up by the riverside. It might have been at the crime scene. White hair inside."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Amazing Nine-Tails Glossy",
+      "description1": "A photo of the hero who sparked the monster craze and saved Nine-Tails Vale from becoming a ghost town."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Jinxie's Statement",
+      "description1": "Jinxie's eyewitness account of the demon in the hallway near the crime scene. She says it fled toward the foyer."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "TV Listings",
+      "description1": "Filch's TV program guide. The afternoon wrestling match was a total disaster."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Kyubi's Autopsy Report",
+      "description1": "Cause of death: Stabbed with a spear. Est. time of death: Around 3:20 PM. The victim had been in a drug-induced slumber."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Blackmail Letter",
+      "description1": "A threatening letter discovered in one of Alderman Kyubi's pockets.",
+      "description2": "The threatening letter sent to the mayor. It's highly likely that it was L'Belle who took it from the mayor's briefcase."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Village Superstitions",
+      "description1": "Superstitions that have been handed down generation to generation in Nine-Tails Vale."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Forbidden Chamber Key",
+      "description1": "The key that the mayor took from the killer and swallowed. No fingerprints could be lifted from it.",
+      "description2": "The key that the mayor took from the killer and swallowed. There's only one of its kind."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Couleur Me L'Belle!",
+      "description1": "Hair color that washes out with water. It's Florent L'Belle's own brand and isn't available to the general public."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Hand Cream",
+      "description1": "An item that was dropped in the Forbidden Chamber. It bears the \"Je suis L'Belle\" logo."
+    },
+    {
+      "currentChapter": "The Monstrous Turnabout",
+      "name": "Forbidden Chamber Figure → Azuki Kozo Figure",
+      "description1": "A figure that had been left inside the Tenma Taro statue. A thick layer of dust and dirt suggests it had been there for some time.",
+      "description2": "A figure discovered inside the Tenma Taro statue. Apparently, it's something a certain thief leaves at the scene of a theft."
+    }
+  ],
+  "turns": []
+}

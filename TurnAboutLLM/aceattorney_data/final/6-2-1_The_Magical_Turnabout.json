@@ -1,0 +1,150 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Trucy Wright",
+      "age": "• Age: 17",
+      "description1": "A particular set of circumstances led to her being adopted by Mr. Wright. A world-class magician on the rise."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Athena Cykes",
+      "age": "• Age: 19",
+      "description1": "The youngest lawyer in our agency. She apparently studied psychology in Europe."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Phoenix Wright",
+      "age": "• Age: 35",
+      "description1": "My boss. He's taught me a lot about what it means to be a lawyer."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Bonny → Bonny de Famme",
+      "age": "• Age: ? → 19",
+      "description1": "A bunny-themed assistant who appeared onstage with Trucy.",
+      "description2": "A magician who performed teleportation magic during the show."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Mr. Retinz → Roger Retinz",
+      "age": "• Age: ? → 35",
+      "description1": "A man somehow connected to the magic show. He showed up at the theater after the incident took place.",
+      "description2": "A producer at Take-2 TV known as the Ratings Rajah. He's famous, apparently."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "The Great Mr. Reus",
+      "age": "• Age: 30",
+      "description1": "The victim in this case. A magician who took the stage with Trucy.",
+      "description2": "The victim in this case. His real name is Manov Mistree."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Ema Skye",
+      "age": "• Age: 27",
+      "description1": "A detective. It looks like she finally became the forensic investigator she always wanted to be."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Nahyuta Sahdmadhi",
+      "age": "• Age: 25",
+      "description1": "A prosecutor from Khura'in. He's also a monk, which explains why he's known as the \"Last Rites Prosecutor.\""
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Betty de Famme",
+      "age": "• Age: 19",
+      "description1": "A magician who performed with Trucy. She is actually Bonny's twin sister."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Attorney's Badge",
+      "description1": "My beloved attorney's badge. Wearing it gets me raring to go."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Stage Diagram",
+      "description1": "A diagram depicting the stage where the show was performed and the understage passage."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Crime Photo",
+      "description1": "There are traces of blood in one of the coffin's holes. It's possible the blood was placed there after the fact."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Fingerprinting Results",
+      "description1": "In addition to prints from the victim and Bonny, Betty de Famme's fingerprints were found on the top."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Fire Bucket",
+      "description1": "A bucket to be used in case of fire. Not only was it empty, but dust lines the inside of the pail."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Gramarye Notebook",
+      "description1": "The Troupe Gramarye creed, \"A true entertainer always keeps a smile on their face,\" is written inside."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Thirteen-Year-Old Poster",
+      "description1": "Mr. Reus was apparently ousted from Troupe Gramarye thirteen years ago due to an injury he sustained."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Show Script",
+      "description1": "Bonny's script. The fire trick was canceled due to the incident."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Contract",
+      "description1": "A contract signed by Trucy herself. It details liability for compensation."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Trucy's Statement",
+      "description1": "Trucy moved the stage lifts to cover for Bonny's mistake. She told no one about this."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Sword Stand",
+      "description1": "Contains the rubber sword Trucy says she swapped in for the trick."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Stage Lift #2",
+      "description1": "The stage lift Trucy had to move out of the way during the show since it was already all the way up."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Show Footage",
+      "description1": "A disc with a recording of Trucy's escape trick on it."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Clipboard",
+      "description1": "The clipboard used by Trucy to sign her contract. It was also instrumental in the Ratings Rajah's dishonest dealings."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Autopsy Report",
+      "description1": "The victim's real name was Manov Mistree. His blood is on the murder weapon."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Prank Plan Script",
+      "description1": "The corpse appearing and the set piece falling were staged by Roger Retinz."
+    },
+    {
+      "currentChapter": "The Magical Turnabout",
+      "name": "Trucy's Note",
+      "description1": "A note found in the dressing room after the incident that bears Trucy's signature."
+    }
+  ],
+  "turns": []
+}

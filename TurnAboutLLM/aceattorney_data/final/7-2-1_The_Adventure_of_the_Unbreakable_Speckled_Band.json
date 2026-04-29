@@ -1,0 +1,121 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Kazuma Asogi",
+      "age": "23",
+      "gender": "",
+      "description1": "A certified lawyer and my best friend. He was on his way to London for a study tour when he was taken from this world."
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Susato Mikotoba",
+      "age": "16",
+      "gender": "",
+      "description1": "A judicial assistant who was travelling with Kazuma to London for a study tour. She is the epitome of a refined Japanese lady."
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Herlock Sholmes",
+      "age": "34",
+      "gender": "",
+      "description1": "There's not a person in the world who hasn't heard of this famous 'great detective'. Not a person except me, apparently."
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Satoru Hosonaga",
+      "age": "29",
+      "gender": "",
+      "description1": "A chief inspector in the Imperial Police Bureau who's on an undercover mission, posing as a member of the ship's crew."
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Bif Strogenov",
+      "age": "37",
+      "gender": "",
+      "description1": "A real wall of a man and a senior member of the Russian crew who's in charge of security around the first-class cabins."
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Grimesby Roylott → Nikolina Pavlova",
+      "age": "?? → 15",
+      "gender": "",
+      "description1": "An older Russian gentleman travelling on the ship. He's staying in the first-class cabin next to Kazuma's.",
+      "description2": "A young ballerina who's fled her homeland of Russia to escape the Novavich Ballet."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "University Collar Pin",
+      "type": "",
+      "obtained": "",
+      "description1": "Proof that I'm a student at the Imperial Yumei University. I always wear it on the collar of my uniform jacket."
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Paper Seal",
+      "type": "",
+      "obtained": "",
+      "description1": "Kazuma would stick this over the doors of the wardrobe for me. It says 'Keep out' in Japanese, though I'm not sure the Russian crew can actually read it."
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Crime Scene Photograph",
+      "type": "",
+      "obtained": "",
+      "description1": "The Russian word for 'wardrobe' in purple ink. It would appear to have been written in the victim's final moments."
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Article About Revolutionary",
+      "type": "",
+      "obtained": "",
+      "description1": "An article on the front page of a Russian newspaper. The headline reads: 'Revolutionary Vilen Borshevik Flees Russia via Shanghai'."
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Article About Ballerina",
+      "type": "",
+      "obtained": "",
+      "description1": "An article on the back page of a Russian newspaper. The headline reads: 'Renowned Prima Ballerina of the Novavich Ballet Disappears from Shanghai!'"
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Kazuma's Diary",
+      "type": "",
+      "obtained": "",
+      "description1": "A diary Kazuma was keeping of his trip to London. According to the last entry he made before his death, he spied what appeared to be a 'speckled band'."
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Post-Mortem Report",
+      "type": "",
+      "obtained": "",
+      "description1": "A report from the SS Burya's medical officer, giving the cause of death as a cervical spine injury. There were no traces of external injury or poison."
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Mark on Floor",
+      "type": "",
+      "obtained": "",
+      "description1": "A piece of a small glass object and what looks like a scuff mark made by Kazuma's shoes were found by the victim's body."
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Ship's Log",
+      "type": "",
+      "obtained": "",
+      "description1": "A record kept by the crew assigned to the first-class cabin area. There are virtually no entries from 2 a.m. until early this morning."
+    },
+    {
+      "currentChapter": "The Adventure of the Unbreakable Speckled Band",
+      "name": "Pavlova & Darka Photograph",
+      "type": "",
+      "obtained": "",
+      "description1": "A photograph of Miss Pavlova and her 'friend' - a kitten named Darka. The tiara she would wear on stage can also be seen."
+    }
+  ],
+  "turns": []
+}

@@ -1,0 +1,276 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Phoenix Wright",
+      "age": "26",
+      "gender": "Male",
+      "description1": "Me. What more can I say? This is my third year as a young (but skilled!) lawyer."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Mia Fey",
+      "age": "deceased",
+      "gender": "Female",
+      "description1": "Maya's older sister and my eternal mentor in life and law. Passed away 2 years ago."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Maya Fey",
+      "age": "19",
+      "gender": "Female",
+      "description1": "My assistant and a disciple in the Kurain Tradition of spirit channeling."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Pearl Fey",
+      "age": "9",
+      "gender": "Female",
+      "description1": "Maya's cousin, and channeling prodigy. She has amazingly powerful spiritual abilities."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Adrian Andrews",
+      "age": "24",
+      "gender": "Female",
+      "description1": "Head of planning, promotion, and security of the Treasures of Kurain Exhibit."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Dick Gumshoe",
+      "age": "32",
+      "gender": "Male",
+      "description1": "Homicide detective at the local precinct. In charge of the initial investigation."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Mask☆DeMasque",
+      "age": "???",
+      "gender": "?",
+      "description1": "A flashy thief who steals valuable works of art. Sends a calling card before a heist."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Luke Atmey",
+      "age": "34",
+      "gender": "Male",
+      "description1": "An Ace Detective. Has great powers of deduction, yet rarely makes sense.",
+      "description2": "An Ace Detective. Has acknowledged that he is in fact Mask☆DeMasque."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Ron DeLite",
+      "age": "23",
+      "gender": "Male",
+      "description1": "A young man who turned himself in as Mask☆DeMasque. A bit of a pitiful guy.",
+      "description2": "Claims he is Mask☆DeMasque. Used to work as a guard for KB Security."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Desirée DeLite",
+      "age": "23",
+      "gender": "Female",
+      "description1": "Ron DeLite's wife. Seems to be a very friendly and out-going lady.",
+      "description2": "Ron DeLite's wife. Hates criminals and cowards more than anything."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Larry Butz",
+      "age": "25",
+      "gender": "Male",
+      "description1": "My friend. I've known this trouble magnet ever since grade school.",
+      "description2": "My friend. Picked up Ron DeLite's wallet while working on the night of the crime."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Godot",
+      "age": "???",
+      "gender": "Male",
+      "description1": "A prosecutor who is shrouded in mystery. He seems to know me somehow."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Kane Bullard",
+      "age": "48",
+      "gender": "Male",
+      "description1": "CEO of KB Security. His body was found inside his safe."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Attorney's Badge",
+      "type": "Other",
+      "obtained": "One of my possessions.",
+      "description1": "It's my all-important badge. It shows that I am a defense attorney."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Maya's Magatama",
+      "type": "Other",
+      "obtained": "Received from Maya Fey.",
+      "description1": "A present from Maya. It reacts to people who have secrets in their hearts."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Treasure Exhibit Poster",
+      "type": "Other",
+      "obtained": "Received from Maya Fey.",
+      "description1": "A poster for the Treasures of Kurain exhibit. Click here for details."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Ami Fey's Golden Statue",
+      "type": "Other",
+      "obtained": "Obtained in Lordly Tailor's Basement Warehouse.",
+      "description1": "A statue of the founder of the Kurain Channeling Technique. Is holding the Shichishito.",
+      "description2": "A statue of the founder of the Kurain Channeling Technique. Moved the night of the crime.",
+      "description3": "Carried into the basement warehouse the day of the crime. Moved again that night."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Sacred Urn",
+      "type": "Other → Evidence",
+      "obtained": "Received from Maya Fey.  → Submitted as evidence by Desirée DeLite.",
+      "description1": "One of the treasures of Kurain Village. Supposedly priceless, it looks like a plain old pot.",
+      "description2": "One of the treasures of Kurain Village. Supposedly priceless, but has no monetary value.",
+      "description3": "Found in the office of Luke Atmey. Has pink splotches all over it.",
+      "description4": "Found in Atmey's Office. Covered in pink splotches, but it's the genuine article.",
+      "description5": "Broken and repaired by Adrian 2 weeks ago, then replaced in its box. Kept out of sight."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "DeMasque's Calling Card",
+      "type": "Documents",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "Sent before a heist, the emblem is top-secret. Click here for details."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Shichishito",
+      "type": "Other",
+      "obtained": "Obtained in Lordly Tailor's Basement Warehouse.",
+      "description1": "A ceremonial sword held in the hand of Ami Fey's statue. Wasn't bent before the crime.",
+      "description2": "DeMasque knocked Atmey out during the crime w/ a blow to the back of the head."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Camera Data",
+      "type": "Documents",
+      "obtained": "Obtained in Lordly Tailor's Basement Warehouse.",
+      "description1": "The warehouse camera went off at around 1 AM on the night of the crime."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Desirée's Letter",
+      "type": "Documents",
+      "obtained": "Received from Desirée DeLite.",
+      "description1": "Addressed to her husband Ron DeLite. Apparently contains something important."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Security Camera Photo",
+      "type": "Photographs",
+      "obtained": "Received from Luke Atmey.",
+      "description1": "Photo of storeroom entrance taken by the camera. Click here for details."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Blackmail Letter",
+      "type": "Documents",
+      "obtained": "Found in DeMasque's Hideout.",
+      "description1": "Written with a fountain pen. Found in Ron's room. Click here to read.",
+      "description2": "Found in Ron DeLite's room. Written by Bullard. Click here to read."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Ron's Wallet",
+      "type": "Other",
+      "obtained": "Received from Larry Butz.",
+      "description1": "Found by Larry at his part-time security job's company building (night of the crime)."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Key Card → CEO Office Key Card",
+      "type": "Other → Evidence",
+      "obtained": "Received from Larry Butz.",
+      "description1": "Found inside Ron's wallet. Apparently used for the building of his part-time job.",
+      "description2": "Found in Ron's wallet. Opens the KB Security CEO's office. Leaves a record when used.",
+      "description3": "Found in Ron's wallet. Used on October 12th, the night of the crime, at 1 AM."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Publicity Photo",
+      "type": "Other",
+      "obtained": "Received from Maya Fey.",
+      "description1": "A shot of Mask☆DeMasque striking a pose. Click here for details."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "DeMasque's Broach",
+      "type": "Evidence",
+      "obtained": "Submitted as evidence by Godot.",
+      "description1": "Found in the shadow of Ami Fey's statue. Looks like it was torn off of some clothing."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Kane's Autopsy Report",
+      "type": "Reports",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "Time of death: 10/12 at 1 AM. Cause: Cerebral hemorrhaging from blunt trauma to the head."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Newspaper Clipping",
+      "type": "Other",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "An article on Mask☆DeMasque's first heist. Click here for details.",
+      "description2": "About first heist. Guard in photo is Ron DeLite. Click here for details."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "CEO Office Buzzer",
+      "type": "Other",
+      "obtained": "Found in the KB Security CEO's Office.",
+      "description1": "Connected to the basement Security Guard Office. There are no fingerprints on it."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Kane's List",
+      "type": "Documents",
+      "obtained": "Found in the KB Security CEO's Office.",
+      "description1": "Found on a table at the crime scene. Click here for details."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Buzzer Record",
+      "type": "Documents",
+      "obtained": "Received from Larry Butz.",
+      "description1": "The buzzer went off once at 1:02 AM on October 12 in the CEO's office."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Ron's Testimony",
+      "type": "Documents",
+      "obtained": "Received from Ron DeLite.",
+      "description1": "From DeMasque's 2nd heist on, he was stealing as directed by blackmail letters."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Urn Box",
+      "type": "Other",
+      "obtained": "Obtained in Lordly Tailor's Basement Warehouse.",
+      "description1": "A wooden box that had the Sacred Urn in it. Has pink paint stains on it."
+    },
+    {
+      "currentChapter": "The Stolen Turnabout",
+      "name": "Paint Marks",
+      "type": "Other",
+      "obtained": "Obtained in Lordly Tailor's Basement Warehouse.",
+      "description1": "Completely dry. The box of the Sacred Urn fits in the gap perfectly.",
+      "description2": "When Adrian dropped the urn's box 2 weeks ago she also knocked over some paint."
+    }
+  ],
+  "turns": []
+}

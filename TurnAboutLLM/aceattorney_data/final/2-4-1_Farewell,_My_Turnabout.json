@@ -1,0 +1,337 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Maya Fey",
+      "age": "18",
+      "gender": "Female",
+      "description1": "My assistant and a disciple in the Kurain tradition of spirit channeling."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Pearl Fey",
+      "age": "8",
+      "gender": "Female",
+      "description1": "Maya's cousin. A channeling prodigy with intense spiritual power. Also the youngest."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Will Powers",
+      "age": "24",
+      "gender": "Male",
+      "description1": "Was the Steel Samurai. His face is a bit intimidating, so he's got hard luck in showbiz."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Security Lady",
+      "age": "??",
+      "gender": "Female",
+      "description1": "Member of hotel security. I'm pretty sure her real name is Wendy Oldbag."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Lotta Hart",
+      "age": "23",
+      "gender": "Female",
+      "description1": "Claims to be an investigative photographer. Latest field: the seedy world of tabloids."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Dick Gumshoe",
+      "age": "31",
+      "gender": "Male",
+      "description1": "Detective at the local precinct. In charge of the initial investigation."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Juan Corrida",
+      "age": "21",
+      "gender": "Male",
+      "description1": "The victim. A young star who played the Jammin' Ninja. Was on bad terms with Engarde."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Matt Engarde",
+      "age": "21",
+      "gender": "Male",
+      "description1": "Popular young actor who plays the Nickel Samurai. Is rivals with the Jammin' Ninja.",
+      "description2": "My client. A hot-shot star who plays the Nickel Samurai. Is rivals with the Jammin' Ninja."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Adrian Andrews",
+      "age": "23",
+      "gender": "Female",
+      "description1": "Engarde's manager. An intelligent woman who seems to have it all together."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Franziska von Karma",
+      "age": "18",
+      "gender": "Female",
+      "description1": "A prosecutor in Germany since age 13, she has come to America to defeat me in court."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Celeste Inpax",
+      "age": "deceased",
+      "gender": "Female",
+      "description1": "Was Andrews' mentor and Corrida's manager. Killed herself two years ago.",
+      "description2": "Killed herself two years ago. Was Corrida's manager and fiancée, and Andrews' mentor."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Miles Edgeworth",
+      "age": "25",
+      "gender": "Male",
+      "description1": "A gifted prosecutor. He disappeared suddenly a year ago."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "John Doe",
+      "age": "??",
+      "gender": "Male",
+      "description1": "The butler of Engarde Mansion. But for some reason, I get the feeling we've met before..."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Shelly de Killer",
+      "age": "??",
+      "gender": "Male",
+      "description1": "A professional assassin. Always leaves a Shelly card near his victim's body."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Attorney's Badge",
+      "type": "Other",
+      "obtained": "One of my possessions.",
+      "description1": "It's my all-important badge. It shows that I am a defense attorney."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Maya's Magatama",
+      "type": "Other",
+      "obtained": "Received from Maya Fey.",
+      "description1": "Slightly translucent. It radiates softly with a mysterious light."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "The Nickel Samurai",
+      "type": "Other",
+      "obtained": "Received from Maya Fey.",
+      "description1": "A glossy photo Maya pushed onto me. Click here for details."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Press Conference Ticket",
+      "type": "Other",
+      "obtained": "Received from Will Powers.",
+      "description1": "Seems like the Nickel Samurai is to confess something after the post-ceremony stage show."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Radio Transceiver",
+      "type": "Other",
+      "obtained": "Received from Will Powers.",
+      "description1": "Originally from the Bellboy. It can transmit and receive signals over great distances.",
+      "description2": "Originally from Maya's kidnapper, who goes by the name of \"De Killer\"."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Lotta's Camera",
+      "type": "Other",
+      "obtained": "Received from Lotta Hart.",
+      "description1": "A very expensive item valued at $1,600. It was stolen around the time of the murder.",
+      "description2": "Stolen on the night of the murder. Tabloid article about the victim was in the case."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Hotel Guidemap",
+      "type": "Maps",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "Map of the Gatewater Hotel around the crime scene. Click here for details."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Guitar Case",
+      "type": "Evidence",
+      "obtained": "Retrieved from Corrida's Hotel Room.",
+      "description1": "Found next to the victim. Empty. There is some water, but only on top of the lid.",
+      "description2": "Empty. There is some water, but only on top of the lid. Bears Corrida's fingerprints."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Wine Glass",
+      "type": "Evidence",
+      "obtained": "Retrieved from Corrida's Hotel Room.",
+      "description1": "Found next to the victim. It's filled with tomato juice. No sign it's been drank.",
+      "description2": "Found next to the victim. It's filled with tomato juice. Bears Andrews' fingerprints."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Crime Photo",
+      "type": "Photographs",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "Photo of Juan Corrida's murder scene. Click here for details."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Autograph",
+      "type": "Other",
+      "obtained": "Retrieved from Corrida's Hotel Room.",
+      "description1": "Juan Corrida's autograph. \"To my dearest Wendy\" is written on it."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Magazine Clipping",
+      "type": "Other",
+      "obtained": "Received from Will Powers.",
+      "description1": "An \"article\" from the tabloid \"Gossip Land\". Click here for details."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Suicide Report",
+      "type": "Reports",
+      "obtained": "Received from Miles Edgeworth.",
+      "description1": "Deceased: Celeste InpaxFound by: Juan CorridaWas her suicide note hidden?"
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Attempted Suicide Report",
+      "type": "Reports",
+      "obtained": "Received from Miles Edgeworth.",
+      "description1": "Attempter: Adrian AndrewsReason: Shock from Celeste Inpax's suicide."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Juan's Autopsy Report",
+      "type": "Reports",
+      "obtained": "Submitted as evidence by Detective Gumshoe.",
+      "description1": "Time of death: 8:15 PMCause: Strangled with a scarf, then stabbed with a knife."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Knife",
+      "type": "Weapons",
+      "obtained": "Submitted as evidence by Detective Gumshoe.",
+      "description1": "Bears the victim's blood and Engarde's fingerprints. In the grip, \"Gatewater\" is engraved."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Jammin' Ninja's Button",
+      "type": "Evidence",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "Was ripped from his costume. Is covered in Corrida's blood. Found in Engarde's \"hakama\"."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Lotta's Photo",
+      "type": "Photographs",
+      "obtained": "Submitted as evidence by Miles Edgeworth.",
+      "description1": "Picture taken in the Hallway right after the murder. Click here for details."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Picture Card",
+      "type": "Other",
+      "obtained": "Received from Miles Edgeworth.",
+      "description1": "Was placed next to the victim at the time of the murder. Ms. Andrews was carrying it."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Letter of Introduction",
+      "type": "Other",
+      "obtained": "Received from Miles Edgeworth.",
+      "description1": "Received from Edgeworth. Allows bearer to freely investigate the crime scene."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Matt's Note",
+      "type": "Other",
+      "obtained": "Received from Matt Engarde.",
+      "description1": "\"Please feed my cat, Shoe. My house is just a little ways down from the hotel.\""
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Spy Camera",
+      "type": "Evidence",
+      "obtained": "Retrieved from Corrida's Hotel Room.",
+      "description1": "Set to record the victim's room from 8 PM for 1 hour. Was running at time of murder."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Transmitter",
+      "type": "Evidence",
+      "obtained": "Retrieved from Corrida's Hotel Room.",
+      "description1": "Changes the footage taken by the spy camera into radio waves and transmits the data."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Stuffed Bear",
+      "type": "Evidence",
+      "obtained": "Retrieved from Corrida's Hotel Room.",
+      "description1": "The spy camera was set in its right eye. Found in the victim's room."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Credit Card Receipt",
+      "type": "Evidence",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "A receipt for $3,800. Proof Engarde bought a stuffed bear identical to one in evidence."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Figurine",
+      "type": "Other",
+      "obtained": "Retrieved from Engarde Mansion - Living Room.",
+      "description1": "A wooden bear-shaped figurine. It's covered in many thin cuts.",
+      "description2": "A wooden puzzle with a hollow inside. Only Corrida and Andrews know how to open it."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Celeste's Photo",
+      "type": "Photographs",
+      "obtained": "Retrieved from Engarde Mansion - Wine Cellar.",
+      "description1": "Found at Engarde Mansion. \"With Love... Celeste\" is written on it."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Celeste's Suicide Note",
+      "type": "Documents",
+      "obtained": "Found inside the Figurine.",
+      "description1": "Found inside the Figurine. It tells of Engarde's horrible misdeeds."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Pistol",
+      "type": "Weapons",
+      "obtained": "Submitted as evidence by Franziska von Karma.",
+      "description1": "<if not asked for details> One of the items retrieved from De Killer's hideout. Nothing else is known.  <if asked for details> A small caliber pistol that is thought to have been fired by De Killer at Franziska."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Video Tape",
+      "type": "Evidence",
+      "obtained": "Submitted as evidence by Franziska von Karma.",
+      "description1": "<if not asked for details> One of the items retrieved from De Killer's hideout. Nothing else is known.  <if asked for details> One of the items retrieved. De Killer violently tried to recover it. Contents unknown."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Bellboy's Uniform",
+      "type": "Evidence",
+      "obtained": "Submitted as evidence by Franziska von Karma.",
+      "description1": "<if not asked for details> One of the items retrieved from De Killer's hideout. Nothing else is known.<if asked for details> Worn by De Killer on the night of the murder. One of its special buttons is missing."
+    },
+    {
+      "currentChapter": "Farewell, My Turnabout",
+      "name": "Whip",
+      "type": "Other",
+      "obtained": "Received from Franziska von Karma.",
+      "description1": "Thrown away by Franziska von Karma, it has a certain mysterious nostalgia to it."
+    }
+  ],
+  "turns": []
+}

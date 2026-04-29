@@ -1,0 +1,231 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Athena Cykes",
+      "age": "Age: 18",
+      "description1": "A new lawyer at my agency. She studied psychology while she was in Europe."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Apollo Justice",
+      "age": "Age: 23",
+      "description1": "An ardent young lawyer in my agency. His special feature is his very loud voice."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Trucy Wright",
+      "age": "Age: 16",
+      "description1": "My daughter, who also happens to be an aspiring magician. I adopted her eight years ago."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Sasha Buckler",
+      "age": "Age: 22",
+      "description1": "An orca trainer and performer in the Swashbuckler Spectacular. She appears to be best friends with Orla."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Bobby Fulbright",
+      "age": "Age: 33",
+      "description1": "The detective assigned to this case. He sure makes a lot of noise, but he appears to be on the side of justice."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Ora Shipley",
+      "age": "Age: ?",
+      "description1": "The orca accused of murder. Though \"Ora\" is her real name, people like to call her \"Orla\". She likes to wear hats.",
+      "description2": "An orca nicknamed Orla. She has a wound on her head, and luminol revealed traces of blood on her body."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Jack Shipley",
+      "age": "Age: 57",
+      "description1": "The owner of Shipshape Aquarium. He was found dead in the orca pool."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Norma DePlume",
+      "age": "Age: 36",
+      "description1": "An aquarium visitor. She seems to know something about what happened.",
+      "description2": "The aquarium visitor who saw Orla attack the aquarium owner. It turns out she's a nonfiction writer."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Marlon Rimes",
+      "age": "Age: 21",
+      "description1": "Shipshape Aquarium's new animal keeper. He loves animals as much as he loves rapping."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Rifle",
+      "age": "Age: ?",
+      "description1": "A penguin that always shoots straight at her mark. She seems to love the smell of fish.",
+      "description2": "A penguin, not a deadly weapon! The bottoms of her flippers are stained pink, and a good luck charm was found in her stomach."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Pearl Fey",
+      "age": "Age: 17",
+      "description1": "A spirit medium in training. Her psychic powers are beyond question."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Simon Blackquill",
+      "age": "Age: 28",
+      "description1": "A prosecutor and prison inmate. He has mastered the use of psychological manipulation in courtroom battles."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Herman Crab",
+      "age": "Age: 40",
+      "description1": "Shipshape Aquarium's resident vet. A baby penguin lives in his hair."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Azura Summers",
+      "age": "Age: Deceased",
+      "description1": "The trainer who preceded Sasha. She died during a show on July 20th last year."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Attorney's Badge",
+      "description1": "It's my all-important badge. Proof of my profession."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Swashbuckler Flyer",
+      "description1": "An advertisement showing an orca dressed up like a pirate. It was dropped by a penguin.",
+      "description2": "An advertisement for a new show. It was dropped by a penguin.",
+      "description3": "An advertisement for a new show. It appears that Sasha was not slated to return."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Photo of the Body",
+      "description1": "A crime scene photo taken in the orca pool room. It's hard to make out details of the body.",
+      "description2": "Crime scene photos taken in the orca pool room. (2 photos.)"
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Orca Pool Diagram",
+      "description1": "A cross-section view of the 1st- and 2nd-floor sections of the orca pool. The pool is about 65 feet deep.",
+      "description2": "A cross-section view of the 1st- and 2nd-floor sections of the orca pool. Pearls apparently entered the staff corridor.",
+      "description3": "It also has information about the area around the orca pool on the first and second floor. The pool is about 65 feet deep."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Whistle",
+      "description1": "A whistle for issuing instructions to Orla. Anyone can use one to command her, as long as they know the right signals.",
+      "description2": "Orla performs one trick per signal. She can't do two at a time."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Security Footage",
+      "description1": "Video showing the orca pool from the visitor's corridor. The footage starts at the aquarium's 10 AM opening time.",
+      "description2": "Video showing the orca pool. The footage starts at the aquarium's 10 AM opening time. (2 pages.)"
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Fish",
+      "description1": "A large quantity of fish for feeding Rifle the penguin. Not surprisingly, it has a horribly fishy smell!"
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Walkie-Talkie",
+      "description1": "Issued to all aquarium staff for communication. It can apparently also be used to broadcast inside the aquarium."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Calendar",
+      "description1": "A penguin-shaped calendar that Pearls bought at the aquarium. It smells fishy for some reason.",
+      "description2": "Apparently belongs to Rimes. It was accidently [sic] switched with Pearls's calendar around 10:10 AM.",
+      "description3": "Apparently belongs to Sasha. A meeting with the victim was scheduled for 7 AM on the 20th.",
+      "description4": "It turns out this doesn't belong to Sasha. A meeting with the victim was scheduled for 7 AM on the 20th.",
+      "description5": "A calendar that Azura Summers gave to Dr. Crab. A meeting with the victim was scheduled for 7 AM on the 20th."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Bloodstained Coin",
+      "description1": "A single coin seems to have fallen by the side of the orca pool.",
+      "description2": "Discovered by the side of the orca pool. There are 300 coins in all, weighing 7 pounds total. This makes it a likely murder weapon."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Swashbuckler Video",
+      "description1": "A TV recording of a performance featuring Orla, Sasha and Jack Shipley as pirates.",
+      "description2": "The show song on the video is different from the one DePlume heard."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "TV Phone",
+      "description1": "A cell phone used by Shipshape Aquarium staff. This model can connect to TVs and be used to conduct teleconferencing.",
+      "description2": "Summers's boyfriend has videos of her using a whistle to make the orca do tricks.",
+      "description3": "A cell phone used by Shipshape Aquarium staff. Videos of Summers can be viewed. (2 pages.)"
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Shipley's Autopsy Report → Shipley's Data",
+      "description1": "Instant death from a brain contusion. There are signs of blunt force trauma all over the body.",
+      "description2": "Instant death from a brain contusion. There are signs of blunt force trauma all over the body. Details updated.",
+      "description3": "Shipley's walkie-talkie hasn't been found. (3 pages.)"
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "\"The Killer Killer Whale\"",
+      "description1": "A nonfiction book by Norma DePlume. It's about the case from last year."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Security Card",
+      "description1": "A key card for gaining access to the orca pool. Only the victim and Sasha had one."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Prescription Bag",
+      "description1": "Seized from Sasha's residence. She apparently had this filled at the Hickfield Clinic."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Skull Rock",
+      "description1": "There's a bloodstain on the rock. The victim may have struck it when he fell to his death.",
+      "description2": "A new show prop that was at the orca pool. The victim struck it when he fell.",
+      "description3": "Moved from the show pool during cleaning time. The victim struck it when he fell to his death.",
+      "description4": "The victim slammed into it when he fell. Orla also rammed into it. It had been moved from the show pool."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Pool Bottom Photo",
+      "description1": "A photo of the bottom of the pool. The locations of the bloodstains detected with luminol are sketched in."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Mysterious Capsule → \"3 Zs\" Sleeping Pill",
+      "description1": "The strange capsule that was found in Orla's stomach. \"3 Zs\" is printed on it.",
+      "description2": "The strange capsule that was found in Orla's stomach. It's a sleeping pill, not some kind of poison."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Handmade Sign",
+      "description1": "A sign Sasha made for the new show. It's been left to dry since the early hours of the 20th."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Ladder Prints",
+      "description1": "The fingerprints discovered by Pearls at the show stage. They're Rimes's, but there's something odd about them."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "Charm",
+      "description1": "Discovered in Rifle's stomach. It might belong to Azura Summers's boyfriend."
+    },
+    {
+      "currentChapter": "Turnabout Reclaimed",
+      "name": "TORPEDO Data",
+      "description1": "TORPEDO data shows that Rifle ate around 4:00 AM on July 20th, but that Orla didn't eat anything."
+    }
+  ],
+  "turns": []
+}

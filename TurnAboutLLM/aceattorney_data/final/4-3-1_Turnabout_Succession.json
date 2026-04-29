@@ -1,0 +1,367 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Phoenix Wright",
+      "age": "33",
+      "gender": "Male",
+      "description1": "A pianist who can't play a lick. Formerly an ace defense attorney of some renown."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Trucy Enigmar → Trucy Wright",
+      "age": "8 → 15",
+      "gender": "Female",
+      "description1": "Future star magician, and Phoenix Wright's daughter. Fond of her Mr. Hat trick.",
+      "description2": "Zak Gramarye's daughter. Already dresses the part of a magician to the hilt.",
+      "description3": "Future star magician, and Phoenix Wright's daughter. Fond of her Mr. Hat trick."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Vera Misham",
+      "age": "12 → 19",
+      "gender": "Female",
+      "description1": "My client, apparently. I know nothing other than her name and mailing address.",
+      "description2": "The defendant. Accused of poisoning her father, Drew Misham.",
+      "description3": "Arrested on suspicion of poisoning her father, Drew Misham. Currently on trial."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Ema Skye",
+      "age": "25",
+      "gender": "Female",
+      "description1": "Detective obsessed with forensics. In charge of the initial investigation."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Drew Misham",
+      "age": "45 → 52",
+      "gender": "Male",
+      "description1": "Painter known for his illustrations. Poisoned at Drew Studio.",
+      "description2": "Painter. Summoned to this trial by the authority of Prosecutor Gavin.",
+      "description3": "Painter known for his illustrations. Poisoned at Drew Studio."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Valant Gramarye",
+      "age": "37 → 44",
+      "gender": "Male",
+      "description1": "Popular stage magician. His overly loquacious manner can get annoying.",
+      "description2": "Zak's young partner and understudy. The two of them on stage was a sight to see.",
+      "description3": "The most popular stage magician today. Once performed with his partner, Zak."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Spark Brushel",
+      "age": "29 → 36",
+      "gender": "Male",
+      "description1": "Freelance journalist. Can smell a scoop from miles away."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Klavier Gavin",
+      "age": "17 → 24",
+      "gender": "Male",
+      "description1": "Star prosecutor and leader/vocalist for the rock group, the Gavinners."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Shadi Enigmar → Zak Gramarye",
+      "age": "40 → 47",
+      "gender": "Male",
+      "description1": "My client in this case. Usually goes by his stage name, \"Zak Gramarye\".",
+      "description2": "Trucy's father. Defendant in a trial, vanished just before the verdict was announced."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Magnifi Gramarye",
+      "age": "67 → deceased",
+      "gender": "Male",
+      "description1": "The victim in this case. Died after being shot in the head while in the hospital.",
+      "description2": "Founder of Troupe Gramarye, and a great magician. Mentor to Zak and Valant."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Dick Gumshoe",
+      "age": "32",
+      "gender": "Male",
+      "description1": "Homicide detective at the local precinct. In charge of the initial investigation."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Apollo Justice",
+      "age": "15 → 22",
+      "gender": "Male",
+      "description1": "A greenhorn defense attorney I happened to meet. I call him Apollo."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Kristoph Gavin",
+      "age": "25 → 32",
+      "gender": "Male",
+      "description1": "Incarcerated at the Central Penitentiary for the murder of Shadi Smith."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Thalassa Gramarye",
+      "age": "33 → 40",
+      "gender": "Female",
+      "description1": "Trucy's mother. Still missing after her sudden disappearance.",
+      "description2": "Trucy's mother, and the daughter of Magnifi Gramarye. Whereabouts currently unknown."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Mike Meekins",
+      "age": "24 → 31",
+      "gender": "Male",
+      "description1": "Bailiff responsible for security at the trial where Zak Gramarye vanished."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Shadi Smith",
+      "age": "47",
+      "gender": "Male",
+      "description1": "In reality, the magician Zak. Murdered at Russian eatery: the Borscht Bowl Club."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Attorney's Badge",
+      "type": "Other",
+      "obtained": "One of my possessions.",
+      "description1": "How long did I yearn for one of these? Just putting it on makes me feel... ready.* (when playing as Apollo Justice)",
+      "description2": "It's my all-important badge. It shows that I am a defense attorney.* (when playing as Phoenix Wright)"
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Magic Show Ticket",
+      "type": "Other",
+      "obtained": "Received from Trucy Wright.",
+      "description1": "For premier showing of a grand illusion, to be performed by the magician, Valant Gramarye."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Gramarye Envelope",
+      "type": "Documents",
+      "obtained": "Received from Phoenix Wright.",
+      "description1": "Envelope from Mr. Wright. Do not open until the time is right."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Vera's Card",
+      "type": "Documents",
+      "obtained": "Received from Vera Misham.",
+      "description1": "Defendant's business card. The address for Drew Studio is on the front."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Portrait",
+      "type": "Other",
+      "obtained": "Retrieved from Drew Studio.",
+      "description1": "Obtained at Drew Studio. That bit in the middle is supposed to be a person."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Acrylic",
+      "type": "Other",
+      "obtained": "Retrieved from Drew Studio.",
+      "description1": "Obtained at Drew Studio. An undersea scene in vivid colors."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Landscape",
+      "type": "Other",
+      "obtained": "Retrieved from Drew Studio.",
+      "description1": "Obtained at Drew Studio. Only half finished, the rough sketch is still visible."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Coffee Mug",
+      "type": "Evidence",
+      "obtained": "Retrieved from Drew Studio.",
+      "description1": "The victim's last mug of coffee. The scrawl on the side is Drew Misham's signature.",
+      "description2": "Traces of the slow-acting deadly poison atroquinine were found on the rim."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Hidden Painting",
+      "type": "Other",
+      "obtained": "Retrieved from Drew Studio.",
+      "description1": "Found at Drew Studio. Notable for the large peach in the foreground."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Red Envelope",
+      "type": "Documents",
+      "obtained": "Retrieved from Drew Studio.",
+      "description1": "Found in the victim's desk drawer. Appears to have been opened once and resealed.",
+      "description2": "Found in the victim's desk drawer. Contains two sheets of writing paper."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Letter Box",
+      "type": "Other",
+      "obtained": "Retrieved from Drew Studio.",
+      "description1": "Drew Misham's contact with the outside world. It's empty."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Tiny Frame",
+      "type": "Evidence",
+      "obtained": "Retrieved from Drew Studio.",
+      "description1": "Frame measuring two inches by two inches. Bears traces of deadly poison atroquinine."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Brushel's Card",
+      "type": "Documents",
+      "obtained": "Received from Ema Skye.",
+      "description1": "This business card reads \"Spark Brushel, Freelance Journalist\"."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Misham's Autopsy Report",
+      "type": "Reports",
+      "obtained": "Submitted as evidence by Prosecutor Gavin.",
+      "description1": "Death by atroquinine poisoning. Estimated time of death: 9:00-9:30 PM."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Crime Photo",
+      "type": "Photographs",
+      "obtained": "Received during the preliminary hearing.",
+      "description1": "Body found in hospital room, shot in the forehead. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Magnifi's Autopsy Report",
+      "type": "Reports",
+      "obtained": "Received during the preliminary hearing.",
+      "description1": "Cause of death: single gunshot to the head. Estimated time of death: 11:00-11:30 PM."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Notebook Page",
+      "type": "Documents",
+      "obtained": "Received from Trucy Enigmar.  → Submitted as evidence by Prosecutor Gavin.",
+      "description1": "Mysterious paper received just before the trial. Click here for details.",
+      "description2": "Forged to look like a page of Magnifi's diary. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Magnifi's Chart",
+      "type": "Documents",
+      "obtained": "Submitted as evidence by Prosecutor Gavin.",
+      "description1": "Diagnosed with a malignant tumor. Given 3 months. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Small Syringe",
+      "type": "Evidence",
+      "obtained": "Submitted as evidence by Prosecutor Gavin.",
+      "description1": "Used for administering insulin shots. Has been washed and shows no sign of use."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Magnifi's Letter",
+      "type": "Documents",
+      "obtained": "Submitted as evidence by Prosecutor Gavin.",
+      "description1": "Letter asking Zak to shoot him. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Stage Pistol",
+      "type": "Weapons",
+      "obtained": "Submitted as evidence by Detective Gumshoe.",
+      "description1": "Fires one real bullet. Rifling marks match bullet found in victim. No fingerprints found."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Magnifi's Letter 2",
+      "type": "Documents",
+      "obtained": "Submitted as evidence by Prosecutor Gavin.",
+      "description1": "Letter telling Valant to come at 11:20 PM. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "IV Report",
+      "type": "Reports",
+      "obtained": "Submitted as evidence by Prosecutor Gavin.",
+      "description1": "IV stopped 10 min. after administration began. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Magnifi's Diary",
+      "type": "Documents",
+      "obtained": "Submitted as evidence by Prosecutor Gavin.",
+      "description1": "A memoir of sorts. Written in up to just before he died."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "The Amazing Mr. Hat",
+      "type": "Other",
+      "obtained": "Received from Trucy Enigmar.",
+      "description1": "Trucy's favorite trick. Startlingly realistic."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Trucy's Locket",
+      "type": "Other",
+      "obtained": "Received from Trucy Enigmar.",
+      "description1": "Contains a photo of Trucy's mother, Thalassa."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Transferal of Rights",
+      "type": "Documents",
+      "obtained": "Received from Shadi Smith.",
+      "description1": "Document tranferring the right to perform the Gramarye repertoire to daughter Trucy."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Nail Polish",
+      "type": "Other",
+      "obtained": "Received from Solitary Cell 13.",
+      "description1": "Retrieved from Kristoph Gavin's cell. The nail polish is colorless."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Commemorative Stamp",
+      "type": "Other",
+      "obtained": "Received from Drew Studio.",
+      "description1": "Commemorative stamp showing Troupe Gramarye. Click here for details.",
+      "description2": "Sent from the real \"client\". Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Thalassa's Portrait",
+      "type": "Other",
+      "obtained": "Received from Spark Brushel.",
+      "description1": "Photo of a young Thalassa, Trucy's mother. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Zak's Confession",
+      "type": "Documents",
+      "obtained": "Received from Shadi Smith.",
+      "description1": "Confession to the slaying of Magnifi Gramarye. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Letter from Misham",
+      "type": "Evidence",
+      "obtained": "Retrieved from Solitary Cell 13.",
+      "description1": "Letter posted by Drew Misham just before dying. Poison traces found on the stamp."
+    },
+    {
+      "currentChapter": "Turnabout Succession",
+      "name": "Letter from Mr. Wright",
+      "type": "Evidence",
+      "obtained": "Received from Phoenix Wright.",
+      "description1": "Reproduction of information found by Mr. Wright during his investigation."
+    }
+  ],
+  "turns": []
+}

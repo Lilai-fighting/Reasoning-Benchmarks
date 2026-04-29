@@ -1,0 +1,300 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Maya Fey",
+      "age": "19",
+      "gender": "Female",
+      "description1": "My assistant and a disciple in the Kurain Tradition of spirit channeling."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Mia Fey",
+      "age": "deceased",
+      "gender": "Female",
+      "description1": "Maya's older sister and my eternal mentor in life and law. Passed away 2 years ago."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Godot",
+      "age": "???",
+      "gender": "Male",
+      "description1": "A prosecutor who is shrouded in mystery. He seems to know me somehow."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Dick Gumshoe",
+      "age": "32",
+      "gender": "Male",
+      "description1": "Homicide detective at the local precinct. In charge of the initial investigation."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Maggey Byrde",
+      "age": "23",
+      "gender": "Female",
+      "description1": "A waitress at Trés Bien. Was found guilty of murder thanks to the phony me."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Jean Armstrong",
+      "age": "39",
+      "gender": "Male",
+      "description1": "Trés Bien's owner and chef. A witness in the case who is also into aromatherapy.",
+      "description2": "Trés Bien's owner and chef. Has a long debt and prior convictions for theft."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Glen Elg",
+      "age": "28",
+      "gender": "Male",
+      "description1": "The victim. Was a programmer. Maggey had apparently never even seen him before.",
+      "description2": "The victim. Was a programmer. His left eardrum was broken the day before the incident.",
+      "description3": "The victim. Was a programmer. Wore an HMD over left eye. Left eardrum was ruptured."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Victor Kudo",
+      "age": "68",
+      "gender": "Male",
+      "description1": "Was in Trés Bien at the time of the incident. Has a thing for waitresses.",
+      "description2": "Was in Trés Bien at the time of the incident. Called the police by pay phone."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Lisa Basil",
+      "age": "???",
+      "gender": "Female",
+      "description1": "The CEO of Blue Screens, Inc., and Glen Elg's boss. Absolutely not a robot."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Violetta → Viola Cadaverini",
+      "age": "??? → 25",
+      "gender": "Female",
+      "description1": "Possibly part of the staff at Tender Lender? A thoroughly bitter person.",
+      "description2": "The granddaughter of crime boss Bruto Cadaverini. A thoroughly bitter person."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Furio Tigre",
+      "age": "42",
+      "gender": "Male",
+      "description1": "The head of Tender Lender loan company. Also known as \"The Tiger\"."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Bruto Cadaverini",
+      "age": "78",
+      "gender": "Male",
+      "description1": "The head of the Cadaverini Family crime syndicate. Seems to live for his granddaughter."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Attorney's Badge",
+      "type": "Other",
+      "obtained": "One of my possessions.",
+      "description1": "It's my all-important badge. It shows that I am a defense attorney."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Maya's Magatama",
+      "type": "Other",
+      "obtained": "Received from Maya Fey.  → Found in the Kitchen.",
+      "description1": "A present from Maya. It reacts to people who have secrets in their hearts.",
+      "description2": "On loan from Maya. Recovered in the kitchen of Trés Bien."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Magazine Clipping",
+      "type": "Other",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "An article from December 5th. Says I was trounced and my client was found guilty."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Sports Paper",
+      "type": "Other",
+      "obtained": "Obtained at Trés Bien.",
+      "description1": "Dates from December 3rd, the day of the incident. Click here for details.",
+      "description2": "Left by a costumer in Trés Bien on Dec. 3rd. Click here for details.",
+      "description3": "Left by the victim. Doodle is in victim's handwriting. Click here for details."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Job Listings",
+      "type": "Other",
+      "obtained": "Found at Vitamin Square.",
+      "description1": "Picked up from a bench in Vitamin Square. Thrown away by the old man."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Lunch Special",
+      "type": "Other",
+      "obtained": "Obtained at Trés Bien.",
+      "description1": "Trés Bien lunch special. Costs 20 dollars despite how unbelievably bad it tastes."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Small Bottle",
+      "type": "Other",
+      "obtained": "Found in the Kitchen.",
+      "description1": "Found in the kitchen. Shape is different from the others bottles. Contents unknown.",
+      "description2": "The victim's ear medicine. Found covered in unidentified fingerprints in the kitchen.",
+      "description3": "The victim's ear medicine. Covered in Furio Tigre's fingerprints."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Scooter",
+      "type": "Other",
+      "obtained": "Found at Vitamin Square.",
+      "description1": "Ridden by my phony. The wheel guard is all smashed up."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Jean's Loan Contract",
+      "type": "Documents",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "Jean's debt is half a million dollars. The owner of the loan is Tender Lender."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Victor's Note",
+      "type": "Documents",
+      "obtained": "Received from Victor Kudo.",
+      "description1": "\"Convicted before, a wicked man or woman, repeat offender -- Victor Kudo\""
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Glen's Autopsy Report",
+      "type": "Reports",
+      "obtained": "Submitted as evidence by Detective Gumshoe.",
+      "description1": "Died of potassium cyanide poisoning. Time of death was between 1:30 and 2:30 PM."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Trés Bien Floor Plans",
+      "type": "Maps",
+      "obtained": "Submitted as evidence by Detective Gumshoe.",
+      "description1": "Blueprints of the crime scene. Click here for details. X = victim's seat."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Crime Photo",
+      "type": "Photographs",
+      "obtained": "Submitted as evidence by Detective Gumshoe.",
+      "description1": "A photo of the scene taken from near the kitchen. Click here for details."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Coffee Cup",
+      "type": "Evidence",
+      "obtained": "Submitted as evidence by Godot.",
+      "description1": "The coffee contained potassium cyanide. Covered in the victim and Maggey's fingerprints."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Victim's Lottery Ticket",
+      "type": "Evidence",
+      "obtained": "Submitted as evidence by Godot.",
+      "description1": "A winning ticket for half a million dollars. Found during a body search of Maggey."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Apron",
+      "type": "Evidence",
+      "obtained": "Submitted as evidence by Godot.",
+      "description1": "Worn by Maggey at the time of the incident. Has small pockets but big stains."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Potassium Cyanide",
+      "type": "Evidence",
+      "obtained": "Submitted as evidence by Godot.",
+      "description1": "A deadly powdery poison. Bears Maggey's fingerprints. Found in her apron pocket."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Victim's Prescription Bag",
+      "type": "Other",
+      "obtained": "Submitted as evidence during the trial.",
+      "description1": "The victim got this from the doctor before going to Trés Bien. The bag is empty."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Victor's Testimony",
+      "type": "Documents",
+      "obtained": "Received from the Judge.",
+      "description1": "\"When the incident occurred, I broke the vase at my seat. I'm sorry.\""
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Millionaire Radio Flyer",
+      "type": "Other",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "Experience the most thrilling ten minutes of your life every Monday at 1:30 PM!"
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Glen's Calendar",
+      "type": "Other",
+      "obtained": "Found at Blue Screens, Inc.",
+      "description1": "On Dec. 3rd, the day of the incident, there is a note saying, \"Meet with The Tiger\"."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Losing Horse Racing Tickets",
+      "type": "Other",
+      "obtained": "Found at Blue Screens, Inc.",
+      "description1": "Horse racing betting tickets. Found in Glen Elg's desk. There's over 500 of them!"
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Gumshoe's Lunchbox",
+      "type": "Other",
+      "obtained": "Received from Detective Gumshoe.",
+      "description1": "A tenderly handmade lunchbox. Fills the stomach with love and plenty of weenies."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "MC Bomber",
+      "type": "Other",
+      "obtained": "Found at Tender Lender.",
+      "description1": "Found at Tender Lender. A sample disc with the name written in marker.",
+      "description2": "Found at Tender Lender. Contains a computer virus program.",
+      "description3": "A computer virus made by Glen Elg. Potentially worth million of dollars."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Trés Bien Matches",
+      "type": "Other",
+      "obtained": "Found at Tender Lender.",
+      "description1": "Matches used for advertising. Found lying in Tender Lender."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Repair Bill",
+      "type": "Documents",
+      "obtained": "Found at Tender Lender.",
+      "description1": "A car repair bill for $15,000. Paid by Tigre to the Cadaverini Family."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Paper Badge",
+      "type": "Other",
+      "obtained": "Found at Tender Lender.",
+      "description1": "Found at Tender Lender. Made of cardboard and painted to look authentic."
+    },
+    {
+      "currentChapter": "Recipe for Turnabout",
+      "name": "Viola's Medical Papers",
+      "type": "Documents",
+      "obtained": "Received from Viola Cadaverini.",
+      "description1": "A 1 million dollar bill for cranial surgery. Payment was due last year."
+    }
+  ],
+  "turns": []
+}

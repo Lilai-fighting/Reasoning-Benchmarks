@@ -1,0 +1,144 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Dick Gumshoe",
+      "age": "32",
+      "gender": "Male",
+      "description1": "Homicide detective from the local precinct who's always first on the scene at any murder investigation."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Di-Jun Wang",
+      "age": "58",
+      "gender": "Male",
+      "description1": "The current president of Zheng Fa. An attempt was made on his life as he gave a speech at an event held in his honor."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Tabby Lloyd",
+      "age": "20",
+      "gender": "Female",
+      "description1": "A journalist who attended the president's speech hoping to snap up a scoop."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Kay Faraday",
+      "age": "17",
+      "gender": "Female",
+      "description1": "A self-styled Great Thief and so-called \"second Yatagarasu\" who's always looking to bag the greatest treasure of all -- the truth."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "John Doe → Shelly de Killer",
+      "age": "??",
+      "gender": "Male",
+      "description1": "An ice cream seller who's currently my prime suspect. He certainly ticks all the right boxes...",
+      "description2": "A professional assassin who appears to have some kind of connection to the victim.",
+      "description3": "A professional assassin who attempted to kill the president two days ago. Rook managed to intercept him then, and injure his left arm."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Bronco Knight",
+      "age": "24",
+      "gender": "Male",
+      "description1": "Second-in-command of the president's security detail. Appears to be something of a specialist when it comes to handling firearms.",
+      "description2": "Second-in-command of the president's security detail. An injury means that he is unable to turn his head to his right."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Bastian Rook",
+      "age": "35",
+      "gender": "Male",
+      "description1": "The victim. He was the leader of the president's security detail, and appears to have died in the line of duty."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Prosecutor's Badge",
+      "description1": "Proof of my profession. However, I prefer to keep it in my pocket."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Newspaper Article",
+      "description1": "A special report about President Di-Jun Wang. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Steel Samurai Balloon",
+      "description1": "Started out floating to the right of the lakeside stage, but has since been popped."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Ms. Lloyd's Tape",
+      "description1": "A recording of the president's speech. Two gunshots can clearly be heard."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Bullet Trajectory",
+      "description1": "Extrapolations from bullet trajectories suggest that the two shots were fired from the left side of the spectator area.",
+      "description2": "Extrapolations from bullet trajectories suggest that Knight fired the shots that popped the balloon."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Security Plan",
+      "description1": "A diagram of the president's security arrangements. Almost certainly classified.",
+      "description2": "A diagram of the president's security arrangements, which were changed only yesterday."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Revolver → Assassin's Revolver → Mr. Knight's Revolver",
+      "description1": "Found in a trash can on the left side of the spectator area. Fitted with a laser sight. Two spent bullets.",
+      "description2": "Found in a trash can on the left side of the spectator area. Fitted with a laser sight. Two spent bullets. Used in the attempt.",
+      "description3": "Found in a trash can on the left side of the spectator area. Two spent bullets. Same model as the victim's.",
+      "description4": "Switched for the one found in the spectator area. Bullet markings match those of the bullet fired in the incident"
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Kay's Photograph → Kay's Photographs",
+      "description1": "A photograph of the president at the exact moment the incident occurred. Click here for details.",
+      "description2": "Three photographs taken before, during and after the shooting."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Red Raincoat",
+      "description1": "Seemingly discarded by the person in the red hood. Found under the Samurai Dog stand.",
+      "description2": "Missing a button from the right sleeve. Its wearer has an injury on the left side of their body.",
+      "description3": "There's blood on the inside. The person who was wearing it must have an injured left arm."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Security Monitors",
+      "description1": "Screens showing footage from in and around the aircraft. One monitor is missing."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Bulletproof Attaché Case",
+      "description1": "Designed to provide protection from gunfire. Knight and Rook were each issued one."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Crime Scene Notes",
+      "description1": "The victim bled to death from a gunshot wound to the torso. The bullet passed clean through his body."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Bulletproof Vest",
+      "description1": "Stopped the bullet that passed through the victim. The bullet itself was crushed flat by the impact.",
+      "description2": "A prop used in the staged assassination attempt. The flattened bullet was also planted ahead of time."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Calling Card",
+      "description1": "Left behind by the assassin Shelly de Killer when he made his escape. Adorned with his distinctive seashell emblem."
+    },
+    {
+      "currentChapter": "Turnabout Trigger",
+      "name": "Bloody Bullet",
+      "description1": "Found in a security monitor. This seems to be the bullet that killed Rook."
+    }
+  ],
+  "turns": []
+}

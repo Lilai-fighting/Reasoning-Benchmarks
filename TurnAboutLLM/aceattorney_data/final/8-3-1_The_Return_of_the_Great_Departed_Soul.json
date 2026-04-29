@@ -1,0 +1,245 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Susato Mikotoba",
+      "age": "16",
+      "description1": "A judicial assistant sent to Britain on a study tour. She's the epitome of a refined Japanese lady and a huge help to me always."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Iris Wilson",
+      "age": "10",
+      "description1": "An extraordinary young girl who lives with Mr Sholmes. She has a degree in medicine and is the author of a popular series of short stories."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Herlock Sholmes",
+      "age": "34",
+      "description1": "There's not a person in the world who hasn't heard of this famous great detective, whose deductions never fail to surprise."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Mael Stronghart",
+      "age": "53",
+      "description1": "The Lord Chief Justice, who wields absolute authority in judicial matters, including the appointment of lawyers. He's a thoroughly intimidating man."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Odie Asman",
+      "age": "47",
+      "description1": "The man who perished in the explosion on the experimentation stage at the Great Exhibition of London.↳The man who perished in the explosion on the experimentation stage. He was Professor Harebrayne's financial backer and the boss of a large criminal organisation."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Albert Harebrayne",
+      "age": "33",
+      "description1": "A scientist who invented a machine to demonstrate super-high-voltage instantaneous kinesis. However, it exploded in use, and he is now accused of murder.↳A scientist who invented a machine to demonstrate super-high-voltage instantaneous kinesis. He's the defendant of this case and a friend to Lord van Zieks, apparently."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Barok van Zieks",
+      "age": "33",
+      "description1": "A prosecutor known as the Reaper of the Bailey. Supposedly, the souls of those he prosecutes are eternally damned, one way or another."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Masked Man",
+      "age": "??",
+      "description1": "An apprentice of Lord van Zieks whose face is always covered by a mask. He has the air of a completely unassailable man."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Gina Lestrade",
+      "age": "18",
+      "description1": "A mostly reformed pickpocket who's now a self-appointed 'detective inspector'. She's really making waves in her new apprenticeship."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Tobias Gregson",
+      "age": "45",
+      "description1": "The detective inspector in charge of Scotland Yard's investigation of the case. He's stern and single-minded in his approach, and a great lover of fish and chips."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Esmeralda Tusspells",
+      "age": "26",
+      "description1": "The proprietress of the Madame Tusspells Museum of Waxwork and the latest in a line of artisans privy to the secret Tusspells technique of capturing a perfect likeness."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Balthazar Lune",
+      "age": "42",
+      "description1": "The impresario of short pleasure voyages in flying balloons. The balloons above the experimentation state all belonged to this man."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Bohemian Boy",
+      "age": "11",
+      "description1": "A young boy who came to London to visit the Great Exhibition. His real name is Wilhelm Gottsreich Sigismond Ormstein.↳A young prince from the royal family of Bohemia with an excessively long name. He witnessed the explosion at the Great Exhibition."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Courtney Sithe",
+      "age": "39",
+      "description1": "Scotland Yard coroner, leader of the Forensic Investigation Team and one of Lord Stronghart's most trusted allies."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Enoch Drebber",
+      "age": "35",
+      "description1": "A trickster who seems to be both an engineer and a magician. He constructed the machine for Professor Harebrayne's demonstration."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Armband",
+      "type": "",
+      "obtained": "",
+      "description1": "An armband I inherited from Kazuma. It identifies the wearer as a defence lawyer throughout the Empire of Japan."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Great Exhibition Newspaper",
+      "type": "",
+      "obtained": "",
+      "description1": "A newspaper containing various articles about the world-leading science and technology on show at the Great Exhibition being held in London."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Experiment Sketch",
+      "type": "",
+      "obtained": "",
+      "description1": "A diagram showing the relative positions of the Crystal Tower and Professor Harebrayne's machine that exploded."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Mysterious Contraption → Crossbow",
+      "type": "",
+      "obtained": "",
+      "description1": "A very curious device found behind a tree under the experimentation stage at the exhibition grounds, almost as if it had been hidden there deliberately.",
+      "description2": "A weapon found hidden behind a tree under the experimentation stage at the exhibition grounds. It turns out that it's a folding crossbow.",
+      "description3": "A crossbow found hidden behind a tree under the experimentation stage at the exhibition grounds. It belongs to Mr Enoch Drebber."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Piece of Green Cloth",
+      "type": "",
+      "obtained": "",
+      "description1": "A torn piece of canvas-like material backed with rubber that was found under the experimentation stage at the exhibition grounds. There are scorch marks at the edges."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Photograph of the Victim",
+      "type": "",
+      "obtained": "",
+      "description1": "A photographic print of the victim taken after he had ostensibly been 'beamed' to the Crystal Tower. It shows an apparent stab wound to the chest."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Autopsy Report",
+      "type": "",
+      "obtained": "",
+      "description1": "The autopsy report of the victim, Mr Asman. His neck was broken from the impact of a violent fall and he was stabbed in the chest with a sharp object."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Screwdriver",
+      "type": "",
+      "obtained": "",
+      "description1": "Professor Harebrayne's trusty screwdriver that he's named 'Andrew'. There are traces of blood at the tip and it matches the shape of the victim's wound.",
+      "description2": "A metal screwdriver that was found poking through the grille in the base of what remains of the kinesis machine. It has a very distinctive handle."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Photograph of the Balloon",
+      "type": "",
+      "obtained": "",
+      "description1": "A photograph taken by Gotts whilst he was riding in a balloon. It shows another balloon that he claims was green and exploded moments after he took this shot."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Drebber's Card",
+      "type": "",
+      "obtained": "",
+      "description1": "Mr Enoch Drebber's business card, though it shows only the man's name. There is no address.",
+      "description2": "Mr Enoch Drebber's business card, which lists no address for the man. There is a smear of machine oil on the reverse."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Wooden 'Birdcage'",
+      "type": "",
+      "obtained": "",
+      "description1": "The wooden cage that was used for Professor Harebrayne's experiment. This cage, with the victim inside, crashed down into the Crystal Tower.",
+      "description2": "The wooden cage that was used for the demonstration. It crashed down, with the victim inside, into the Crystal Tower causing damage to its base."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Photograph of Drebber",
+      "type": "",
+      "obtained": "",
+      "description1": "A photographic print of the engineer, Mr Enoch Drebber. It's hard to make out, but he appears to be wearing a monocle with black glass."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Camera",
+      "type": "",
+      "obtained": "",
+      "description1": "The camera from around the neck of a waxwork in the Madame Tusspells Special Exhibit.",
+      "description2": "The actual camera that Mr Drebber had with him ten years ago when he went graverobbing.",
+      "description3": "The actual camera that Mr Drebber had with him ten years ago when he went graverobbing. When the lens is extended, dark staining can be seen on the bellows."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Piece of Broken Glass",
+      "type": "",
+      "obtained": "",
+      "description1": "A small fragment of very unusual and thick glass that was found in the folds of the clothing of the Professor waxwork. It would appear to be from the Crystal Tower."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Science Trophy",
+      "type": "",
+      "obtained": "",
+      "description1": "A Royal Society trophy for excellence in science that was found in Mr Drebber's workshop. It's a very prestigious award for a young scientist."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Waxwork Head",
+      "type": "",
+      "obtained": "",
+      "description1": "The head of the Professor waxwork that was stolen from the Madame Tusspells Special Exhibit."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Killer's Autopsy Report",
+      "type": "",
+      "obtained": "",
+      "description1": "The autopsy report of the mass murderer known as the Professor, who was tried and found guilty by closed trial ten years ago."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Post-Explosion Photograph",
+      "type": "",
+      "obtained": "",
+      "description1": "A photographic print of the experimentation stage after it was completely levelled by a time bomb. The metal floor of the stage has been blown open by the explosion."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Drebber's Contract",
+      "type": "",
+      "obtained": "",
+      "description1": "The contract between Mr Asman and Mr Drebber detailing the terms by which they would profit from the kinesis experiment."
+    },
+    {
+      "currentChapter": "The Return of the Great Departed Soul",
+      "name": "Ten-Year-Old Article",
+      "type": "",
+      "obtained": "",
+      "description1": "A newspaper article recounting the tale of an eyewitness to the alleged 'resurrection' of the Professor from his grave on the night of his execution."
+    }
+  ],
+  "turns": []
+}

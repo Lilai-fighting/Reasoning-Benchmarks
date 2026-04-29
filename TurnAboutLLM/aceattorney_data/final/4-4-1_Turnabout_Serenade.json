@@ -1,0 +1,234 @@
+{
+  "previousContext": "",
+  "characters": [
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Phoenix Wright",
+      "age": "33",
+      "gender": "Male",
+      "description1": "A pianist who can't play a lick. Formerly an ace defense attorney of some renown."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Trucy Wright",
+      "age": "15",
+      "gender": "Female",
+      "description1": "Future star magician, and Phoenix Wright's daughter. Fond of her Mr. Hat trick."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Klavier Gavin",
+      "age": "24",
+      "gender": "Male",
+      "description1": "Star prosecutor and leader/vocalist for the rock group, the Gavinners."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "LeTouse",
+      "age": "35",
+      "gender": "Male",
+      "description1": "Lamiroir's interpreter. His first name is \"Romein\".",
+      "description2": "Shot during the performance. He died after leaving me with his last words.",
+      "description3": "Victim in this case, actually an undercover Interpol agent."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Lamiroir",
+      "age": "40",
+      "gender": "Female",
+      "description1": "Singer lauded as the \"Siren of the Ballad\", from the tiny country of Borginia.",
+      "description2": "Famed singer from Borginia. Hid the fact that she is blind."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Machi Tobaye",
+      "age": "14",
+      "gender": "Male",
+      "description1": "Lamiroir's favorite pianist. He is blind.",
+      "description2": "Blind pianist. Arrested on suspicion of having shot Mr. LeTouse.",
+      "description3": "Defendant in this case. Concealed the fact that he could actually see.",
+      "description4": "Defendant in this case. Turns out he isn't blind and can understand English."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Ema Skye",
+      "age": "25",
+      "gender": "Female",
+      "description1": "Detective obsessed with forensics. In charge of the initial investigation."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Daryan Crescend",
+      "age": "24",
+      "gender": "Male",
+      "description1": "Guitarist for the Gavinners. His day job is as a detective in Criminal Affairs, Div. 3."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Valant Gramarye",
+      "age": "44",
+      "gender": "Male",
+      "description1": "Famous magician, often on TV. Fond of exaggeration.",
+      "description2": "A famous magician, responsible for the illusion used in the concert."
+    }
+  ],
+  "evidences": [
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Attorney's Badge",
+      "type": "Other",
+      "obtained": "One of my possessions.",
+      "description1": "How long did I yearn for one of these? Just putting it on makes me feel... ready."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Postcard",
+      "type": "Other",
+      "obtained": "Retrieved from Gavinners's Dressing Room.",
+      "description1": "Lamiroir's own publicity postcard. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Lyrics Sheet",
+      "type": "Documents",
+      "obtained": "Received from Prosecutor Gavin.",
+      "description1": "Contains the lyrics to Lamiroir's ballad. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Investigation Request",
+      "type": "Documents",
+      "obtained": "Received from Prosecutor Gavin.",
+      "description1": "Information concerning the crime to be restricted to police and related parties."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Brooch",
+      "type": "Other",
+      "obtained": "Retrieved from Lamiroir's Dressing Room.",
+      "description1": "Found at the crime scene. Seems strangely familiar...",
+      "description2": "Found at the crime scene. Turns out it belongs to Lamiroir."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Revolver",
+      "type": "Weapons",
+      "obtained": "Retrieved from Lamiroir's Dressing Room.",
+      "description1": "The murder weapon.  A deadly, high-caliber revolver.",
+      "description2": "The murder weapon. A deadly, high-caliber revolver belonging to Mr. LeTouse."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Key Ring",
+      "type": "Evidence",
+      "obtained": "Retrieved from Lamiroir's Dressing Room.",
+      "description1": "Mr. LeTouse died clutching this. Note the heart-shaped ring.",
+      "description2": "Found in the victim's left hand. Holds keys to a guitar case and a motorcycle."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Mixing Board",
+      "type": "Other",
+      "obtained": "Received from Prosecutor Gavin.",
+      "description1": "Allows music to be played in separate tracks. Click here to use."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "LeTouse's Autopsy Report",
+      "type": "Reports",
+      "obtained": "Submitted as evidence by Prosecutor Gavin.",
+      "description1": "Death due to loss of blood from a gunshot wound. Est. time of death: 9:00-9:30 PM."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Crime Photo",
+      "type": "Photographs",
+      "obtained": "Submitted as evidence by Prosecutor Gavin.",
+      "description1": "Victim shot in shoulder in Lamiroir's room. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Diagram",
+      "type": "Maps",
+      "obtained": "Submitted as evidence by Prosecutor Gavin.",
+      "description1": "The crime scene was Lamiroir's dressing room. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Video Tape",
+      "type": "Other",
+      "obtained": "Received from Valant Gramarye.",
+      "description1": "Taped recording of Lamiroir's performance. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Headset",
+      "type": "Evidence",
+      "obtained": "Received from Valant Gramarye.",
+      "description1": "Retrieved from Backstage Hallway. Receiver/transmitter for voice signals. All concert staff wore one.",
+      "description2": "Receiver/transmitter for voice signals with a 30-foot range. All concert staff wore one."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Switch → Remote Trigger",
+      "type": "Other",
+      "obtained": "Retrieved from the stage.",
+      "description1": "Found on the stage. It's a switch for something, and that's about all I know.",
+      "description2": "Found on the stage. Triggers an igniter. Use with caution.",
+      "description3": "Found on the stage. Triggers an igniter within 30 feet."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Forum Diagram",
+      "type": "Maps",
+      "obtained": "Received from Ema Skye.",
+      "description1": "Cross-section diagram of the Sunshine Coliseum. Click here for details."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Igniter",
+      "type": "Evidence",
+      "obtained": "Retrieved from Lamiroir's Dressing Room.",
+      "description1": "Found at the crime scene. Emits a flame when triggered by remote control.",
+      "description2": "Identical igniters in Gavin's guitar and at the crime scene. Triggered by \"Remote Trigger\"."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Borginian Newspaper",
+      "type": "Documents",
+      "obtained": "Received at Prosecutor Gavin's Office.",
+      "description1": "Article about the case. It doesn't mention the lyrics of Lamiroir's ballad."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Prosecutor Gavin's Guitar",
+      "type": "Other",
+      "obtained": "Received at Prosecutor Gavin's Office.",
+      "description1": "A gift from Lamiroir, sent from Borginia. Burned the night of the concert."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Replica",
+      "type": "Evidence",
+      "obtained": "Received at Prosecutor Gavin's Office.",
+      "description1": "Replica of something, held by Mr. LeTouse. Apparently the focus of his investigation.",
+      "description2": "Borginia Cocoon replica, held by Mr. LeTouse.",
+      "description3": "Replica of a cocoon from which a remedy for \"incuritis\" may be extracted."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Newspaper Article",
+      "type": "Documents",
+      "obtained": "Received from a court bailiff.",
+      "description1": "Article about the Chief Justice's son, who is inflicted with \"incuritis\"."
+    },
+    {
+      "currentChapter": "Turnabout Serenade",
+      "name": "Burnt Fragments",
+      "type": "Evidence",
+      "obtained": "Received from Phoenix Wright.",
+      "description1": "Found at the crime scene, bearing a gunpowder residue. Possibly a firecracker?"
+    }
+  ],
+  "turns": []
+}
