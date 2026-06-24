@@ -1,1 +1,0 @@
-Source: https://lparchive.org/Danganronpa-Trigger-Happy-Havoc/Update%2001/
