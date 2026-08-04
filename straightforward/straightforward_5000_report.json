@@ -1,0 +1,102 @@
+{
+  "configuration": {
+    "source": "/vol/biomedic3/ll4122/Reasoning-Benchmarks/SCAN/tasks.txt",
+    "num_samples": 5000,
+    "max_output_length": 8,
+    "seed": 42,
+    "sampling": "proportional length quotas plus greedy feature matching"
+  },
+  "population": {
+    "all_unique_commands": 20910,
+    "eligible_unique_commands": 6268,
+    "selected_unique_commands": 5000
+  },
+  "output_length": {
+    "eligible": {
+      "1": 6,
+      "2": 88,
+      "3": 398,
+      "4": 860,
+      "5": 1184,
+      "6": 1178,
+      "7": 1104,
+      "8": 1450
+    },
+    "selected": {
+      "1": 5,
+      "2": 70,
+      "3": 317,
+      "4": 686,
+      "5": 944,
+      "6": 940,
+      "7": 881,
+      "8": 1157
+    },
+    "target_quotas": {
+      "1": 5,
+      "2": 70,
+      "3": 317,
+      "4": 686,
+      "5": 944,
+      "6": 940,
+      "7": 881,
+      "8": 1157
+    }
+  },
+  "primitive_actions": {
+    "eligible_token_counts": {
+      "I_JUMP": 3960,
+      "I_LOOK": 3960,
+      "I_RUN": 3960,
+      "I_TURN_LEFT": 10646,
+      "I_TURN_RIGHT": 10646,
+      "I_WALK": 3960
+    },
+    "selected_token_counts": {
+      "I_JUMP": 3176,
+      "I_LOOK": 3173,
+      "I_RUN": 3176,
+      "I_TURN_LEFT": 8493,
+      "I_TURN_RIGHT": 8428,
+      "I_WALK": 3177
+    },
+    "eligible_example_presence": {
+      "I_JUMP": 2157,
+      "I_LOOK": 2157,
+      "I_RUN": 2157,
+      "I_TURN_LEFT": 3884,
+      "I_TURN_RIGHT": 3884,
+      "I_WALK": 2157
+    },
+    "selected_example_presence": {
+      "I_JUMP": 1689,
+      "I_LOOK": 1694,
+      "I_RUN": 1683,
+      "I_TURN_LEFT": 3278,
+      "I_TURN_RIGHT": 3259,
+      "I_WALK": 1685
+    }
+  },
+  "constructions": {
+    "eligible_example_presence": {
+      "after": 3096,
+      "and": 3096,
+      "around": 388,
+      "left": 3884,
+      "opposite": 2982,
+      "right": 3884,
+      "thrice": 1976,
+      "twice": 3530
+    },
+    "selected_example_presence": {
+      "after": 2494,
+      "and": 2490,
+      "around": 344,
+      "left": 3278,
+      "opposite": 2425,
+      "right": 3259,
+      "thrice": 1741,
+      "twice": 2966
+    }
+  }
+}

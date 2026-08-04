@@ -1,0 +1,53 @@
+{
+  "total": 5000,
+  "candidate_pair_counts": {
+    "surface_identical_true": 6268,
+    "semantic_equivalent_true": 7216,
+    "order_contrast": 19904,
+    "direction_contrast": 9208,
+    "repetition_contrast": 5784,
+    "primitive_or_modifier_contrast": 22342,
+    "other_near_sequence_contrast": 54340
+  },
+  "allocation": {
+    "if_only/direction_contrast": 250,
+    "if_only/order_contrast": 250,
+    "if_only/other_near_sequence_contrast": 250,
+    "if_only/primitive_or_modifier_contrast": 250,
+    "if_only/repetition_contrast": 250,
+    "if_only/semantic_equivalent_true": 625,
+    "if_only/surface_identical_true": 625,
+    "if_otherwise/direction_contrast": 250,
+    "if_otherwise/order_contrast": 250,
+    "if_otherwise/other_near_sequence_contrast": 250,
+    "if_otherwise/primitive_or_modifier_contrast": 250,
+    "if_otherwise/repetition_contrast": 250,
+    "if_otherwise/semantic_equivalent_true": 625,
+    "if_otherwise/surface_identical_true": 625
+  },
+  "condition_values": {
+    "false": 2500,
+    "true": 2500
+  },
+  "conditional_forms": {
+    "if_only": 2500,
+    "if_otherwise": 2500
+  },
+  "false_categories": {
+    "direction_contrast": 500,
+    "order_contrast": 500,
+    "other_near_sequence_contrast": 500,
+    "primitive_or_modifier_contrast": 500,
+    "repetition_contrast": 500
+  },
+  "output_lengths": {
+    "1": 1254,
+    "2": 51,
+    "3": 244,
+    "4": 497,
+    "5": 694,
+    "6": 739,
+    "7": 667,
+    "8": 854
+  }
+}

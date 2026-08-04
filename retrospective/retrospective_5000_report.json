@@ -1,0 +1,181 @@
+{
+  "configuration": {
+    "tasks_file": "/vol/biomedic3/ll4122/Reasoning-Benchmarks/SCAN/tasks.txt",
+    "straightforward_jsonl": "/vol/biomedic3/ll4122/Reasoning-Benchmarks/straightforward/straightforward_5000.jsonl",
+    "max_match_action_length": 8,
+    "branch_action_lengths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "seed": 42,
+    "dataset_split": "none",
+    "context_item_boundaries": "semicolon-separated; matched independently",
+    "counterfactual_pair_policy": "A-to-B and B-to-A remain in one unsplit dataset",
+    "exception_primary_condition_policy": "always true",
+    "exported_jsonl_fields": [
+      "context",
+      "instruction",
+      "output"
+    ]
+  },
+  "validation": {
+    "status": "passed",
+    "records": 5000,
+    "counterfactual_pairs": 2500,
+    "records_per_pair": 2,
+    "unique_context_instruction_pairs": 5000,
+    "eligible_straightforward_branch_commands": 5000
+  },
+  "candidate_false_pair_counts_before_selection": {
+    "order_contrast": 19904,
+    "direction_contrast": 9208,
+    "repetition_contrast": 5784,
+    "primitive_or_modifier_contrast": 22342,
+    "other_near_sequence_contrast": 54340
+  },
+  "pair_distribution": {
+    "rule_families": {
+      "if_only": 625,
+      "if_otherwise": 625,
+      "replacement_exception": 625,
+      "suppressive_exception": 625
+    },
+    "state_patterns": {
+      "false_false": 624,
+      "mixed_true_false": 1252,
+      "true_true": 624
+    },
+    "pair_modification_categories": {
+      "direction_contrast": 376,
+      "order_contrast": 376,
+      "other_near_sequence_contrast": 374,
+      "primitive_or_modifier_contrast": 375,
+      "repetition_contrast": 375,
+      "semantic_equivalent": 624
+    },
+    "context_command_counts": {
+      "2": 834,
+      "3": 833,
+      "4": 833
+    },
+    "changed_positions_by_context_size": {
+      "length_2/position_0": 417,
+      "length_2/position_1": 417,
+      "length_3/position_0": 278,
+      "length_3/position_1": 278,
+      "length_3/position_2": 277,
+      "length_4/position_0": 209,
+      "length_4/position_1": 208,
+      "length_4/position_2": 208,
+      "length_4/position_3": 208
+    },
+    "exception_primary_match_styles": {
+      "semantic_equivalent": 625,
+      "surface_identical": 625
+    }
+  },
+  "record_distribution": {
+    "rule_families": {
+      "if_only": 1250,
+      "if_otherwise": 1250,
+      "replacement_exception": 1250,
+      "suppressive_exception": 1250
+    },
+    "logical_transitions": {
+      "false_to_false": 1248,
+      "false_to_true": 1252,
+      "true_to_false": 1252,
+      "true_to_true": 1248
+    },
+    "family_by_transition": {
+      "if_only/false_to_false": 312,
+      "if_only/false_to_true": 313,
+      "if_only/true_to_false": 313,
+      "if_only/true_to_true": 312,
+      "if_otherwise/false_to_false": 312,
+      "if_otherwise/false_to_true": 313,
+      "if_otherwise/true_to_false": 313,
+      "if_otherwise/true_to_true": 312,
+      "replacement_exception/false_to_false": 312,
+      "replacement_exception/false_to_true": 313,
+      "replacement_exception/true_to_false": 313,
+      "replacement_exception/true_to_true": 312,
+      "suppressive_exception/false_to_false": 312,
+      "suppressive_exception/false_to_true": 313,
+      "suppressive_exception/true_to_false": 313,
+      "suppressive_exception/true_to_true": 312
+    },
+    "true_condition_match_styles": {
+      "semantic_equivalent": 1250,
+      "surface_identical": 1250
+    },
+    "counterfactual_output_roles": {
+      "default": 1250,
+      "else": 625,
+      "main": 1250,
+      "noop": 1250,
+      "replacement": 625
+    },
+    "noop_outputs": 1250,
+    "ordinary_output_lengths": {
+      "1": 4,
+      "2": 53,
+      "3": 238,
+      "4": 515,
+      "5": 708,
+      "6": 705,
+      "7": 660,
+      "8": 867
+    },
+    "output_action_token_counts": {
+      "I_JUMP": 2417,
+      "I_LOOK": 2386,
+      "I_NOOP": 1250,
+      "I_RUN": 2409,
+      "I_TURN_LEFT": 6491,
+      "I_TURN_RIGHT": 6230,
+      "I_WALK": 2277
+    }
+  },
+  "near_sequence_diagnostics": {
+    "changed_action_pairs": {
+      "I_JUMP <-> I_LOOK": 16,
+      "I_JUMP <-> I_RUN": 17,
+      "I_JUMP <-> I_TURN_LEFT": 33,
+      "I_JUMP <-> I_TURN_RIGHT": 38,
+      "I_JUMP <-> I_WALK": 18,
+      "I_LOOK <-> I_RUN": 20,
+      "I_LOOK <-> I_TURN_LEFT": 34,
+      "I_LOOK <-> I_TURN_RIGHT": 27,
+      "I_LOOK <-> I_WALK": 13,
+      "I_RUN <-> I_TURN_LEFT": 26,
+      "I_RUN <-> I_TURN_RIGHT": 23,
+      "I_RUN <-> I_WALK": 23,
+      "I_TURN_LEFT <-> I_TURN_RIGHT": 23,
+      "I_TURN_LEFT <-> I_WALK": 23,
+      "I_TURN_RIGHT <-> I_WALK": 40
+    },
+    "changed_action_indices_zero_based": {
+      "0": 52,
+      "1": 82,
+      "2": 76,
+      "3": 49,
+      "4": 48,
+      "5": 27,
+      "6": 21,
+      "7": 19
+    },
+    "natural_language_surface_edit_shapes": {
+      "multiple_surface_token_changes": 145,
+      "one_surface_token_substitution": 22,
+      "surface_length_change": 207
+    },
+    "note": "All near-sequence pairs have equal translated length and exactly one changed action; surface edit shapes are diagnostic, not quota cells."
+  }
+}

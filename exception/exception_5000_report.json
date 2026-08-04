@@ -1,0 +1,126 @@
+{
+  "configuration": {
+    "tasks_file": "/vol/biomedic3/ll4122/Reasoning-Benchmarks/SCAN/tasks.txt",
+    "straightforward_jsonl": "/vol/biomedic3/ll4122/Reasoning-Benchmarks/straightforward/straightforward_5000.jsonl",
+    "max_match_action_length": 8,
+    "seed": 42,
+    "context_item_boundaries": "semicolon-separated; matched independently",
+    "primary_condition_policy": "always true in the core dataset"
+  },
+  "validation": {
+    "status": "passed",
+    "records": 5000,
+    "counterfactual_pairs": 2500,
+    "unique_context_instruction_pairs": 5000
+  },
+  "candidate_false_pair_counts": {
+    "order_contrast": 19904,
+    "direction_contrast": 9208,
+    "repetition_contrast": 5784,
+    "primitive_or_modifier_contrast": 22342,
+    "other_near_sequence_contrast": 54340
+  },
+  "distribution": {
+    "exception_forms": {
+      "replacement": 2500,
+      "suppressive": 2500
+    },
+    "exception_outcomes": {
+      "nontriggered": 2500,
+      "triggered": 2500
+    },
+    "primary_match_styles": {
+      "semantic_equivalent": 2500,
+      "surface_identical": 2500
+    },
+    "triggered_exception_match_styles": {
+      "semantic_equivalent": 1250,
+      "surface_identical": 1250
+    },
+    "nontrigger_categories": {
+      "direction_contrast": 500,
+      "order_contrast": 500,
+      "other_near_sequence_contrast": 500,
+      "primitive_or_modifier_contrast": 500,
+      "repetition_contrast": 500
+    },
+    "context_command_counts": {
+      "2": 1668,
+      "3": 1666,
+      "4": 1666
+    },
+    "primary_match_positions": {
+      "0": 1852,
+      "1": 1714,
+      "2": 1030,
+      "3": 404
+    },
+    "exception_slot_positions": {
+      "0": 1786,
+      "1": 1860,
+      "2": 940,
+      "3": 414
+    },
+    "output_lengths": {
+      "1": 1253,
+      "2": 58,
+      "3": 227,
+      "4": 528,
+      "5": 711,
+      "6": 702,
+      "7": 648,
+      "8": 873
+    },
+    "output_action_token_counts": {
+      "I_JUMP": 2444,
+      "I_LOOK": 2287,
+      "I_NOOP": 1250,
+      "I_RUN": 2394,
+      "I_TURN_LEFT": 6395,
+      "I_TURN_RIGHT": 6275,
+      "I_WALK": 2404
+    }
+  },
+  "specification_cells": {
+    "replacement/semantic_equivalent/semantic_equivalent/direction_contrast": 62,
+    "replacement/semantic_equivalent/semantic_equivalent/order_contrast": 63,
+    "replacement/semantic_equivalent/semantic_equivalent/other_near_sequence_contrast": 63,
+    "replacement/semantic_equivalent/semantic_equivalent/primitive_or_modifier_contrast": 62,
+    "replacement/semantic_equivalent/semantic_equivalent/repetition_contrast": 63,
+    "replacement/semantic_equivalent/surface_identical/direction_contrast": 63,
+    "replacement/semantic_equivalent/surface_identical/order_contrast": 62,
+    "replacement/semantic_equivalent/surface_identical/other_near_sequence_contrast": 62,
+    "replacement/semantic_equivalent/surface_identical/primitive_or_modifier_contrast": 63,
+    "replacement/semantic_equivalent/surface_identical/repetition_contrast": 62,
+    "replacement/surface_identical/semantic_equivalent/direction_contrast": 63,
+    "replacement/surface_identical/semantic_equivalent/order_contrast": 62,
+    "replacement/surface_identical/semantic_equivalent/other_near_sequence_contrast": 62,
+    "replacement/surface_identical/semantic_equivalent/primitive_or_modifier_contrast": 63,
+    "replacement/surface_identical/semantic_equivalent/repetition_contrast": 62,
+    "replacement/surface_identical/surface_identical/direction_contrast": 62,
+    "replacement/surface_identical/surface_identical/order_contrast": 63,
+    "replacement/surface_identical/surface_identical/other_near_sequence_contrast": 63,
+    "replacement/surface_identical/surface_identical/primitive_or_modifier_contrast": 62,
+    "replacement/surface_identical/surface_identical/repetition_contrast": 63,
+    "suppressive/semantic_equivalent/semantic_equivalent/direction_contrast": 62,
+    "suppressive/semantic_equivalent/semantic_equivalent/order_contrast": 63,
+    "suppressive/semantic_equivalent/semantic_equivalent/other_near_sequence_contrast": 63,
+    "suppressive/semantic_equivalent/semantic_equivalent/primitive_or_modifier_contrast": 62,
+    "suppressive/semantic_equivalent/semantic_equivalent/repetition_contrast": 63,
+    "suppressive/semantic_equivalent/surface_identical/direction_contrast": 63,
+    "suppressive/semantic_equivalent/surface_identical/order_contrast": 62,
+    "suppressive/semantic_equivalent/surface_identical/other_near_sequence_contrast": 62,
+    "suppressive/semantic_equivalent/surface_identical/primitive_or_modifier_contrast": 63,
+    "suppressive/semantic_equivalent/surface_identical/repetition_contrast": 62,
+    "suppressive/surface_identical/semantic_equivalent/direction_contrast": 63,
+    "suppressive/surface_identical/semantic_equivalent/order_contrast": 62,
+    "suppressive/surface_identical/semantic_equivalent/other_near_sequence_contrast": 62,
+    "suppressive/surface_identical/semantic_equivalent/primitive_or_modifier_contrast": 63,
+    "suppressive/surface_identical/semantic_equivalent/repetition_contrast": 62,
+    "suppressive/surface_identical/surface_identical/direction_contrast": 62,
+    "suppressive/surface_identical/surface_identical/order_contrast": 63,
+    "suppressive/surface_identical/surface_identical/other_near_sequence_contrast": 63,
+    "suppressive/surface_identical/surface_identical/primitive_or_modifier_contrast": 62,
+    "suppressive/surface_identical/surface_identical/repetition_contrast": 63
+  }
+}
