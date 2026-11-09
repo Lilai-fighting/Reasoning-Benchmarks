@@ -1,0 +1,50 @@
+{
+  "model": {
+    "vocab_size": 50304,
+    "context_length": 1024,
+    "n_embed": 1536,
+    "n_head": 24,
+    "n_blocks": 30,
+    "device": "cuda",
+    "amp_dtype": "bf16",
+    "compile": false
+  },
+  "data": {
+    "path": "ephemeral/data/compositional_pretrain.h5",
+    "batch_size": 4,
+    "num_workers": 0,
+    "pin_memory": true
+  },
+  "training": {
+    "seeds": [42, 43, 44, 45, 46],
+    "epochs": 40,
+    "grad_accum": 4,
+    "lr": 0.0003,
+    "min_lr": 0.00003,
+    "warmup_ratio": 0.05,
+    "weight_decay": 0.1,
+    "grad_clip": 1.0,
+    "log_every_steps": 20
+  },
+  "evaluation": {
+    "every_epochs": 2,
+    "at_start": true,
+    "at_end": true,
+    "batch_size": 64,
+    "decoding_seed": 0,
+    "temperature": 0.8,
+    "top_k": 2,
+    "max_actions": 8,
+    "max_bpe_tokens": 64
+  },
+  "checkpointing": {
+    "save_every_epochs": 2,
+    "keep_periodic": false
+  },
+  "experiment": {
+    "output_root": "ephemeral/compositional_runs_3",
+    "nproc_per_node": 4,
+    "plot_after_training": true,
+    "plot_filename": "edit_aligned_action_accuracy.png"
+  }
+}

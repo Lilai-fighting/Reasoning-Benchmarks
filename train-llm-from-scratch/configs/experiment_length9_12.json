@@ -1,0 +1,75 @@
+{
+  "model": {
+    "vocab_size": 50304,
+    "context_length": 256,
+    "n_embed": 256,
+    "n_head": 8,
+    "n_blocks": 6,
+    "device": "cuda",
+    "amp_dtype": "bf16",
+    "compile": false
+  },
+  "data": {
+    "path": "ephemeral/data/length9_12_train_42.h5",
+    "batch_size": 8,
+    "num_workers": 0,
+    "pin_memory": true
+  },
+  "training": {
+    "seeds": [
+      42
+    ],
+    "epochs": 20,
+    "grad_accum": 4,
+    "lr": 0.0003,
+    "min_lr": 3e-05,
+    "warmup_ratio": 0.05,
+    "weight_decay": 0.1,
+    "grad_clip": 1.0,
+    "log_every_steps": 20
+  },
+  "evaluation": {
+    "every_epochs": 2,
+    "at_start": false,
+    "at_end": true,
+    "batch_size": 64,
+    "temperature": 0.8,
+    "top_k": 3,
+    "max_actions": 12,
+    "max_bpe_tokens": 128,
+    "test_path": "ephemeral/data/length9_12_test_43.h5",
+    "decoding_seeds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  "checkpointing": {
+    "save_every_epochs": 2,
+    "keep_periodic": false
+  },
+  "experiment": {
+    "output_root": "ephemeral/length9_12_20_outputs_runs_1",
+    "nproc_per_node": 2,
+    "plot_after_training": false,
+    "plot_filename": "exact_match_accuracy.png",
+    "plot_script": "scripts/plot_exact_match.py"
+  }
+}

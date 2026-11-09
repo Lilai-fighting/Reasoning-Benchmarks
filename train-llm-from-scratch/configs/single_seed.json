@@ -1,0 +1,9 @@
+{
+  "training": {
+  "seeds": [43]
+},
+"experiment": {
+  "output_root": "ephemeral/compositional_runs_2",
+  "plot_filename": "seed_43_learning.png"
+}
+}
